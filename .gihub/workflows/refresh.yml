@@ -9,23 +9,19 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Fetch articles and generate articles.json
+      - run: python fetch_articles.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python fetch_articles.py
-      - name: Commit and push articles.json
-        run: |
-          git config --global user.name "Digest Bot"
-          git config --global user.email "bot@example.com"
+      - run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@bot.com"
           git fetch origin
           git add articles.json
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "refresh digest"
+          git diff --cached --quiet && exit 0
+          git commit -m "refresh"
           git pull --rebase origin main
           git push
