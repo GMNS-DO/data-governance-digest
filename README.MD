@@ -1,7 +1,6 @@
 # 📰 The Data Governance Digest
 
-### Curated by Richard Horst
-
+### Curated by GMNS Data Office
 A beautiful, auto-refreshing data governance intelligence digest — hosted free on GitHub Pages, powered by real RSS feeds and Claude AI summaries.
 
 -----
