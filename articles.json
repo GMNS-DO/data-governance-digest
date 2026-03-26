@@ -1,1 +1,276 @@
-{"generated_at": "", "article_count": 0, "articles": []}
+{
+  "generated_at": "2026-03-26T10:39:06.984768+00:00",
+  "article_count": 30,
+  "articles": [
+    {
+      "title": "Why Your Executives Need to Hear This Before Your Next AI Project",
+      "url": "https://www.nicolaaskham.com/blog/aianddatagovernance",
+      "date": "13 Feb 2026",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "AI conversations are happening in most organisations right now, and if you work in data governance, you're probably right in the middle of it. AI is everywhere. Executives are excited, and rightly so. The possibilities are genuinely exciting: new services, reduced costs, greater efficiencies, things that simply weren't possible before. It's shiny, it's fast-moving, and there's enormous pressure to get on with it. And then there's you. The data governance professional. Quietly clearing your throat and saying, \"But wait...\" I get it. I really do. You’re not wrong to have concerns, but the way we",
+      "tags": []
+    },
+    {
+      "title": "Guest Blog from Helen Cullis - Why Having ‘Happy Data’ is the Key to Your Organisation’s Success",
+      "url": "https://www.nicolaaskham.com/blog/happydata",
+      "date": "06 Feb 2026",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "One of the things I've always found most valuable when explaining Data Governance is a good analogy. They help bridge that gap between abstract concepts and everyday understanding, making Data Governance feel less like technical jargon and more like common sense. Helen Cullis’s take on \"happy data\" does exactly this, and I think you're going to love her puppy analogy as much as I did when she first shared it with me. Over to Helen.. When I talk about happy data , I’m not trying to introduce anything revolutionary. This is really about a way of framing Data Governance that helps people across a",
+      "tags": []
+    },
+    {
+      "title": "Happy New Year - 2025 Roundup",
+      "url": "https://www.nicolaaskham.com/blog/datagovernanceprocesses-bfcfy-dyksl",
+      "date": "08 Jan 2026",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "Happy New Year and hello, 2026! I hope you’ve all had a wonderfully festive season and have emerged from your mince pie-induced comas ready to take 2026 by storm. As we go into the new year, it’s become a little tradition of mine to share my top 10 most popular blogs from the previous year. It’s always fascinating to see which topics resonated most with readers - sometimes it’s the posts I expected, other times it’s a surprise! Not only is it fascinating for me, but I think it’s quite helpful for readers to see which blogs have been hot topics. So, without further ado, here are the top 10 read",
+      "tags": []
+    },
+    {
+      "title": "The Tale of Dick Whittington and the Missing Data",
+      "url": "https://www.nicolaaskham.com/blog/datagovernanceprocesses-bfcfy",
+      "date": "11 Dec 2025",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "Christmas is fast approaching, and it’s safe to say the season wouldn’t be complete without a few cheeky jokes, a whole lot of glitter, and an enthusiastic crowd shouting “It’s behind you!” at the top of their lungs. For those of you who have no idea what I’m talking about, a pantomime is a musical stage production which takes traditional fairy tales and retells them with larger-than-life characters, slapstick comedy, jokes, gags and a big baddie we can all boo at. They’re a staple of the British festive season, and, believe it or not, the perfect metaphor for data gone wrong. So, sit back, re",
+      "tags": []
+    },
+    {
+      "title": "Making Data Governance Processes Accessible",
+      "url": "https://www.nicolaaskham.com/blog/datagovernanceprocesses",
+      "date": "27 Nov 2025",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "One of the most practical questions I encounter in data governance is deceptively simple: how should we document our processes? The answer reveals a crucial insight about implementation success, as formal documentation and user friendly communication require very different approaches. The Appeal of Swim Lane Diagrams My early career in banking introduced me to BPMN (Business Process Notation Modelling), which produces swim lane diagrams. These structured visual representations organise processes into logical rows, with each lane representing a specific role. The flow shows precisely who does w",
+      "tags": []
+    },
+    {
+      "title": "How AI Is Reinventing MDM and Data Governance",
+      "url": "https://www.lightsondata.com/how-ai-is-reinventing-mdm-and-data-governance/",
+      "date": "19 Jan 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Artificial intelligence is reshaping how organizations work with data, not just at the analytics layer, but much deeper in how data is defined, governed, and operationalized. While much of the attention is on new capabilities such as automation and generative insights, a more foundational shift is taking place. AI is bringing renewed focus to the [] The post How AI Is Reinventing MDM and Data Governance appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling",
+      "url": "https://www.lightsondata.com/fsa-mebs-enterprise-modeling/",
+      "date": "08 Dec 2025",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "For decades, organizations have been trying to model themselves clearly enough to build reliable, scalable, and future‑proof information systems. Yet despite thousands of methodologies, tools, and standards, we still see the same symptoms everywhere:Fragmented dataEndless integration projectsCompeting semantics and mismatched modelsHigh IT cost for low business agilityIf we step back, it becomes obvious: we’ve never [] The post From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Optimizing retail operations through a practical data strategy",
+      "url": "https://www.lightsondata.com/optimizing-retail-operations-through-a-practical-data-strategy/",
+      "date": "26 Aug 2025",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Given the pace of change in the retail sector, impactful decisions can be a competitive advantage, but many organizations are still in the dark. They're not operating with actionable insights... trusting their gut to make decisions while keeping data in a silo. The solution? An all-inclusive data strategy that makes sense for the organization.This article [] The post Optimizing retail operations through a practical data strategy appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Transforming Marketing Data into Business Growth: Key Insights and Strategies",
+      "url": "https://www.lightsondata.com/transforming-marketing-data-into-business-growth-key-insights-and-strategies/",
+      "date": "15 Dec 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Marketing leaders and data professionals often grapple with a familiar challenge: how to transform marketing data into tangible business growth. During a recent episode of The Lights on Data Show, I had the privilege of speaking with Kasper Bossen-Rasmussen, founder and CEO of Accutics, about this very topic. Together, we explored key takeaways for addressing [] The post Transforming Marketing Data into Business Growth: Key Insights and Strategies appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "The future of generative AI’s form factor",
+      "url": "https://www.lightsondata.com/the-future-of-generative-ais-form-factor/",
+      "date": "30 Sep 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Balancing the Business Partner / Party Concept",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "date": "12 Aug 2025",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "Since the birth of this blog one of the key concepts that has been repeatedly visited is the business partner / party concept in Master Data Management (MDM). This concept is about unifying the handling of data about customers, vendors, Continue reading",
+      "tags": []
+    },
+    {
+      "title": "The Intersection of Data Observability, MDM and Data Quality",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "date": "16 May 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "Data observability is a new discipline on the rise within data management. As with many new disciplines everything is not new, though. There are several capabilities that come with a data observability solution that have been known for decades within Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Product vs Material vs Article vs Item",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "date": "25 Apr 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "One problem with having English as the lingua franca on this planet is that English have a lot of different words meaning (almost) the same. One example is product, material, article, and item. This entity is the core entity within Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Data Matching Efficiency",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "date": "16 Apr 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "Data Matching is the discipline within data quality management where you deal with the probably most frequent data quality issue that you meet in almost every organization, which is duplicates in master data. This is duplicates in customer master data, Continue reading",
+      "tags": []
+    },
+    {
+      "title": "The Intersection Between MDM, PIM and ESG",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "date": "11 Apr 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "As touched on in the post Three Essential Trends in Data Management for 2024, the Environmental, Social and Governance (ESG) theme is high on the data management agenda in most companies. Lately I have worked intensively with the intersection of Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Our key achievements from 2025",
+      "url": "http://privacyinternational.org/long-read/5747/our-key-achievements-2025",
+      "date": "13 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Joint Statement on New Finnish Social Welfare Laws’ Human Rights Implications",
+      "url": "http://privacyinternational.org/advocacy/5729/joint-statement-new-finnish-social-welfare-laws-human-rights-implications",
+      "date": "13 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Privacy International’s remarks at the side event of the 61st Session of the UN Human Rights Council on the Human Rights Impacts of Using Artificial Intelligence in Countering Terrorism",
+      "url": "http://privacyinternational.org/advocacy/5745/privacy-internationals-remarks-side-event-61st-session-un-human-rights-council-human",
+      "date": "11 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "What does it mean when Big Tech goes to war?",
+      "url": "http://privacyinternational.org/news-analysis/5744/what-does-it-mean-when-big-tech-goes-war",
+      "date": "06 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Privacy International & Women on Web - Securing Reproductive Justice: A Guide to Digital Privacy for Sexual and Reproductive Justice Activists",
+      "url": "http://privacyinternational.org/long-read/5742/privacy-international-women-web-securing-reproductive-justice-guide-digital-privacy",
+      "date": "06 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - Navigating the Evolving Privacy Enforcement Landscape and AdTech: Practical Tips for Compliance",
+      "url": "https://www.merudata.com/single-post/webinar-audio-navigating-the-evolving-privacy-enforcement-landscape-and-adtech-practical-tips-for",
+      "date": "21 Nov 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Listen to Meru Data's podcast on the rapidly evolving privacy enforcement landscape and AdTech compliance. Learn about the CPPA’s action against Tractor Supply, the new multi-state privacy consortium, and practical steps to strengthen your privacy program. Featuring insights from Priya Keshav and Sundeep Kapur, this IAPP-approved session offers clear guidance for navigating rising regulatory risks.",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - Cross Border Privacy Rules (CBPR): A Comprehensive Overview",
+      "url": "https://www.merudata.com/single-post/webinar-audio-cross-border-privacy-rules-cbpr-a-comprehensive-overview",
+      "date": "11 Nov 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Listen to Meru Data’s podcast on the Cross Border Privacy Rules (CBPR) system — a global framework enabling secure, compliant cross-border data transfers. Experts from Meru Data, BBB National Programs, and OpenSpace discuss the evolution, benefits, and certification process of CBPR, and how it aligns with international privacy laws. Approved by IAPP for CPE credits.",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - Conversation with Shannon Yavorsky and Priya Keshav.",
+      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-shannon-yavorsky-and-priya-keshav",
+      "date": "07 Oct 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "In this episode, Priya Keshav and Shannon Yavorsky dive into the evolving world of AI governance and regulation. They discuss how organizations can design effective governance frameworks to align AI initiatives with core values, ensure transparency and accountability, and stay compliant with global regulations. Tune in to learn strategies that promote responsible AI adoption and help businesses turn compliance into a competitive advantage.",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - Conversation with David Zetoony and Priya Keshav.",
+      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-david-zetoony-and-priya-keshav",
+      "date": "22 Jul 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "In this episode, Meru Data's Priya Keshav and privacy expert David A. Zetoony explore how to effectively conduct PIAs and DPIAs. They discuss best practices, regulatory requirements, risk mitigation, automation challenges, and tips for creating robust, defensible documentation. Whether you're new to privacy assessments or refining your current process, this conversation offers practical guidance to improve your approach.",
+      "tags": []
+    },
+    {
+      "title": "Navigating Privacy and other Risks: The Challenges of Agentic AI in Retail",
+      "url": "https://www.merudata.com/single-post/navigating-privacy-and-other-risks-the-challenges-of-agentic-ai-in-retail",
+      "date": "17 Jun 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Agentic AI is transforming retail with personalized shopping, smart inventory, and dynamic pricing—but it brings major challenges. From data privacy and cybersecurity risks to ethical concerns and system integration, retailers must address these issues to harness AI’s full potential responsibly.",
+      "tags": []
+    },
+    {
+      "title": "Kindergarten lessons and 100,000 emails",
+      "url": "https://www.informationbytes.com/2025/08/kindergarten-lessons-and-100000-emails/",
+      "date": "20 Aug 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten, sagely mused [t]hink what a better world it would be if all had a basic policy to always put things back where they found them and to clean up their own mess. So true, throughout our lives, and especially...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 3)",
+      "url": "https://www.informationbytes.com/2025/04/securing-resilient-support-for-your-information-governance-initiative-part-3-2/",
+      "date": "28 Apr 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "As noted in Part 1, attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of todays businesses, executives often use a relevance filter Is what Im asked to support relevant to what drives our organizations success? Will it help move us ahead, or get...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 2)",
+      "url": "https://www.informationbytes.com/2025/03/securing-resilient-support-for-your-information-governance-initiative-part-2-2/",
+      "date": "25 Mar 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1. But to secure resilient management support for an ongoing initiative, youll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 1)",
+      "url": "https://www.informationbytes.com/2025/03/securing-resilient-support-for-your-information-governance-initiative-part-1-2/",
+      "date": "10 Mar 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change...",
+      "tags": []
+    },
+    {
+      "title": "Information Governance Day?",
+      "url": "https://www.informationbytes.com/2025/02/information-governance-day/",
+      "date": "20 Feb 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Apparently, today is Global information Governance Day. I frankly wasnt paying attention, because every day is information governance day here. But no snark is meant by this its good to turn such occasions into a nudge to revisit our perspectives and refocus on our priorities. Our firm’s elephant icon is a nod to The Blind Men...",
+      "tags": []
+    }
+  ]
+}
