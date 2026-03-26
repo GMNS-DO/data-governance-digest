@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T11:05:02.651836+00:00",
-  "article_count": 30,
+  "generated_at": "2026-03-26T11:15:09.310586+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Why Your Executives Need to Hear This Before Your Next AI Project",
@@ -45,6 +45,105 @@
       "source": "Nicola Askham",
       "section": "opinions",
       "summary": "One of the most practical questions I encounter in data governance is deceptively simple: how should we document our processes? The answer reveals a crucial insight about implementation success, as formal documentation and user friendly communication require very different approaches. The Appeal of Swim Lane Diagrams My early career in banking introduced me to BPMN (Business Process Notation Modelling), which produces swim lane diagrams. These structured visual representations organise processes into logical rows, with each lane representing a specific role. The flow shows precisely who does w",
+      "tags": []
+    },
+    {
+      "title": "Oui Chef!",
+      "url": "https://www.nicolaaskham.com/blog/hyattsaba",
+      "date": "13 Nov 2025",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "I’m thrilled to share this guest blog from Hyatt Saba, Data Governance Manager at Sage. I always enjoy my conversations with Hyatt about all things Data Governance - she has such a great way of bringing the topic to life through clever analogies. In this blog, Hyatt draws on the world of professional kitchens to show how clear accountability and defined responsibilities are the key ingredients for successful Data Governance. It's Saturday night and in the thick of dinner service at a popular new restaurant, table 7, order 2 raspberry and white chocolate soufflés to finish off their wonderful m",
+      "tags": []
+    },
+    {
+      "title": "Guest Blog from Niels Lademark Heegaard - Is Your DG/EA/BPM Approach Mature and How Can You Tell?",
+      "url": "https://www.nicolaaskham.com/blog/2024/11/7/guest-blog-from-niels-lademark-heegaard-data-as-an-asset-rg7ch",
+      "date": "30 Oct 2025",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "It’s a pleasure to feature a guest post from Niels Lademark Heegaard, a talented friend and former colleague from my early days at Platon, the first consultancy I worked with. Niels has an exceptional ability to make complex ideas clear and practical - something I’ve admired since we first worked together. In this blog, Niels explores how to define, measure, and apply maturity in Data Governance and Enterprise Architecture. Yet another AI free blog post (except for correcting my spulling and the cover image). This time around I muse about Data Governance and Enterprise Architecture maturity. H",
+      "tags": []
+    },
+    {
+      "title": "Why Is Data Governance Coaching Expensive?",
+      "url": "https://www.nicolaaskham.com/blog/2025/9/17/what-is-a-data-governance-roadmap-and-do-i-really-need-one-lfwlw-5rz4r-wmjbl",
+      "date": "16 Oct 2025",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "Unfortunately, Data Governance coaching isn’t free. In fact, it might seem quite the opposite… until you look at what you’re really getting. Because what feels “expensive” at first glance often turns out to be great value when you look at the outcome. Cheap services tend to cost you more in the long run, wasting your time and your budget. Data Governance Coaching is different. Rather than thinking of it as paying for theory, it’s more like investing in tailored, hands-on support that helps you turn good intentions into real results. And that’s where the value lies. Let me explain… You’re not j",
+      "tags": []
+    },
+    {
+      "title": "Book of Dead: Quick Spin Adventure – Ancient Egyptian Slot for Rapid Wins",
+      "url": "https://tdan.com/book-of-dead-quick-spin-adventure-ancient-egyptian/33668",
+      "date": "26 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "The Bite‑Sized Thrill of Book of Dead When you’re craving instant excitement, Book of Dead delivers a lean, high‑intensity experience that feels more like a sprint than a marathon. The game’s 5‑reel, 3‑row layout and ten adjustable paylines let you set your stake and fire up the machine in seconds. Players who prefer short bursts []",
+      "tags": []
+    },
+    {
+      "title": "Why AI, Data, and Analytics Need a Governance Framework",
+      "url": "https://tdan.com/why-ai-data-and-analytics-need-a-governance-framework/33604",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "Achieving business success today increasingly depends on getting the right information at the right time — so people can make decisions at the speed of business and intelligent agents can take the right actions. For data, analytics, and AI agents and people to work effectively, organizations need data that is consistent, trusted, and high quality. Equally important is a clear map []",
+      "tags": []
+    },
+    {
+      "title": "Legal Issues for Data Professionals: AI Personas",
+      "url": "https://tdan.com/legal-issues-for-data-professionals-ai-personas/33611",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "This column addresses key legal and data issues arising from the creation and commercialization of “AI Personas.” It covers the anatomy of a legal “AI Personal Development and User Agreement.” What Is an AI Persona? Taking the advertising industry as an example, an AI Persona, in over-simplified terms, is a synthetic person. More precisely, it []",
+      "tags": []
+    },
+    {
+      "title": "Through the Looking Glass: Care of the Soul of Data",
+      "url": "https://tdan.com/through-the-looking-glass-care-of-the-soul-of-data/30172",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "I am innately distrustful of buzzwords. I recall in the early 1990s that the hot management trend was “self-directed teams.” Its main attraction to executives seemed to be as an excuse to lay off lots of managers, because with the right training, a group of employees could manage themselves (I had forty-seven direct reports at []",
+      "tags": []
+    },
+    {
+      "title": "What Are the Benefits of BI Tools?",
+      "url": "https://tdan.com/what-are-the-benefits-of-bi-tools/31955",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "As the business intelligence solution market evolves, it may be difficult for an organization to know when to invest in these tools, and which tools are best for enterprise and user needs. In this article, we will discuss the benefits of implementing BI tools within your organization. There are many benefits of business intelligence, and []",
+      "tags": []
+    },
+    {
+      "title": "Scalability in Data Engineering: Preparing Your Infrastructure for Digital Transformation",
+      "url": "https://tdan.com/scalability-in-data-engineering-how-to-prepare-your-infrastructure-for-digital-transformation/32135",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "In the present era of data-centricity, institutions are amassing an immense amount of information at an unparalleled pace. This inundation of data holds the solution to unlocking invaluable perceptions, but only with proficient management and analysis. That is precisely where the art of data engineering comes into play.Data engineering servicesengineer systems that collect, store, and []",
+      "tags": []
+    },
+    {
+      "title": "The True Cost of Your Data in the Cloud",
+      "url": "https://tdan.com/the-true-cost-of-your-data-in-the-cloud/31847",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "As organizations increasingly migrate to the cloud, understanding the true cost of storing and managing data is essential. Cloud computing offers scalability, flexibility, and a range of services that can significantly enhance operational efficiency. However, these benefits come with a price. Without careful planning and management, cloud data costs can quickly escalate, impacting the overall []",
+      "tags": []
+    },
+    {
+      "title": "Data Is Risky Business: Designing Effective Governance for Data and AI",
+      "url": "https://tdan.com/data-is-risky-business-designing-effective-governance-for-data-and-ai/33556",
+      "date": "04 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "The CIA has some interesting things to say about data governance in their Simple Sabotage Field Manual. So much so that I think this historic document from the era of the Office of Strategic Services, the precursor to the CIA, should be mandatory reading for every data governance practitioner. Seriously. The Backstory The Office of []",
       "tags": []
     },
     {
@@ -93,6 +192,33 @@
       "tags": []
     },
     {
+      "title": "How to Become a Data Science Freelancer",
+      "url": "https://www.lightsondata.com/how-to-become-a-data-science-freelancer/",
+      "date": "18 Jan 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Entering the world of freelance as a data professional offers freedom, diversity in projects, and the thrill of entrepreneurship. But how does one transition from a traditional job to a successful freelance career in the data field? Insights from an experienced freelance data consultant shed light on this journey. Table Of Contents 1Key Skills and [] The post How to Become a Data Science Freelancer appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Data Governance in 2024",
+      "url": "https://www.lightsondata.com/data-governance-in-2024/",
+      "date": "20 Dec 2023",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "As we approach 2024, the landscape of data governance is set to undergo transformative changes. This article delves into the anticipated advancements and shifts in data governance, highlighting the integration of AI, the importance of metadata management, the emphasis on data quality and literacy, evolving operating models, and the integration of data warehousing and lake [] The post Data Governance in 2024 appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "5 Steps to Achieve Proactive Data Observability – Explained Over Beers",
+      "url": "https://www.lightsondata.com/5-steps-to-achieve-proactive-data-observability-explained-over-beers/",
+      "date": "27 Sep 2023",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "In the multifaceted realm of data management, aspiring to master proactive data observability often mirrors the meticulous craftsmanship that goes into brewing the quintessential batch of beer. It is a symphonic endeavor that calls for a harmonious blend of varied elements, a craft demanding skill, finesse, and an adept understanding of the underlying balances at [] The post 5 Steps to Achieve Proactive Data Observability Explained Over Beers appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
       "title": "Balancing the Business Partner / Party Concept",
       "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
@@ -138,6 +264,33 @@
       "tags": []
     },
     {
+      "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "date": "29 Feb 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "The impact of poor data quality issues in different industries such as healthcare, banking, and telecom cannot be overemphasized. It can lead to financial losses, customer churn, real-life impact on users, waste of resources, and conflicts within the data team. Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Modern Data Quality at Scale using Digna",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "date": "23 Jan 2024",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "Todays guest blog post is from Marcin Chudeusz of DIGNA.AI. a company specializing in creating Artificial Intelligence-powered Software for Data Platforms. Have you ever experienced the frustration of missing crucial pieces in your data puzzle? The feeling of the weight Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Three Essential Trends in Data Management for 2024",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "date": "21 Dec 2023",
+      "source": "Henrik Liliendahl",
+      "section": "opinions",
+      "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
       "title": "Our key achievements from 2025",
       "url": "http://privacyinternational.org/long-read/5747/our-key-achievements-2025",
       "date": "13 Mar 2026",
@@ -177,6 +330,33 @@
       "title": "Privacy International & Women on Web - Securing Reproductive Justice: A Guide to Digital Privacy for Sexual and Reproductive Justice Activists",
       "url": "http://privacyinternational.org/long-read/5742/privacy-international-women-web-securing-reproductive-justice-guide-digital-privacy",
       "date": "06 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Privacy International's response to the UK Home Office consultation on facial recognition technology",
+      "url": "http://privacyinternational.org/advocacy/5741/privacy-internationals-response-uk-home-office-consultation-facial-recognition",
+      "date": "05 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Privacy International's submission on the impact of digital and AI-assisted surveillance on assembly and association rights",
+      "url": "http://privacyinternational.org/advocacy/5740/privacy-internationals-submission-impact-digital-and-ai-assisted-surveillance",
+      "date": "05 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "The Anthropic and US Government conflict is larger than you think",
+      "url": "http://privacyinternational.org/news-analysis/5739/anthropic-and-us-government-conflict-larger-you-think",
+      "date": "27 Feb 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -228,6 +408,33 @@
       "tags": []
     },
     {
+      "title": "Use of Cameras in Retail Locations",
+      "url": "https://www.merudata.com/single-post/use-of-cameras-in-retail-locations",
+      "date": "16 Jun 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Retailers are increasingly using cameras for training, safety, and theft prevention, but these systems raise privacy concerns. Regulators like CNIL and the UK ICO stress the need for GDPR compliance, including transparency, data minimization, and clear safeguards. Augmented cameras, especially at self-checkouts, must be used carefully, with privacy-respecting practices and proper legal justifications.",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - How to Govern Generative AI Models.",
+      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-priya-keshav-4",
+      "date": "21 May 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Explore how to use generative AI safely and effectively in business. Meru Data CEO Priya Keshav discusses AI risks, regulations, and governance strategies to ensure compliance. Approved by the IAPP for CPE credits.",
+      "tags": []
+    },
+    {
+      "title": "Takeaways from key cases of Generative AI lawsuits",
+      "url": "https://www.merudata.com/single-post/takeaways-from-key-cases-of-generative-ai-lawsuits",
+      "date": "15 May 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "As generative AI becomes integral to business, legal challenges are emerging. This article explores major lawsuits—against OpenAI, Microsoft, GitHub, and Stability AI—highlighting the need for transparency, legal data use, and respecting copyrights. These cases offer key lessons for companies integrating AI responsibly.",
+      "tags": []
+    },
+    {
       "title": "Kindergarten lessons and 100,000 emails",
       "url": "https://www.informationbytes.com/2025/08/kindergarten-lessons-and-100000-emails/",
       "date": "20 Aug 2025",
@@ -270,6 +477,69 @@
       "source": "InformationBytes",
       "section": "regulation",
       "summary": "Apparently, today is Global information Governance Day. I frankly wasnt paying attention, because every day is information governance day here. But no snark is meant by this its good to turn such occasions into a nudge to revisit our perspectives and refocus on our priorities. Our firm’s elephant icon is a nod to The Blind Men...",
+      "tags": []
+    },
+    {
+      "title": "Why my firm doesn’t use generative AI",
+      "url": "https://www.informationbytes.com/2023/11/why-my-firm-doesnt-use-generative-ai/",
+      "date": "27 Nov 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "In my legal work for clients, I'm not content with using AI-generated content.",
+      "tags": []
+    },
+    {
+      "title": "PII Breach Notification Laws: the seas remain choppy",
+      "url": "https://www.informationbytes.com/2023/06/pii-breach-notification-laws-the-seas-remain-choppy/",
+      "date": "08 Jun 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., its time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto...",
+      "tags": []
+    },
+    {
+      "title": "Less Data is Now Even More Than Ever",
+      "url": "https://www.informationbytes.com/2023/05/less-data-is-even-more-than-ever-2/",
+      "date": "08 May 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "In the real world, what to do has never been as impactful as why to do it. For the 2020s, the newest impetus for managing information retention and disposal is crystal clear - data privacy and security compliance",
+      "tags": []
+    },
+    {
+      "title": "Navigating the AI Frontier: Data Governance Controls at SIFIs in 2025",
+      "url": "https://blogs.perficient.com/navigating-the-ai-frontier-data-governance-controls-at-sifis-in-2025/",
+      "date": "13 Oct 2025",
+      "source": "Perficient DG",
+      "section": "tools",
+      "summary": "The Rise of AI in Banking AI adoption in banking has accelerated dramatically. Predictive analytics, generative AI, and autonomous agentic systems are now embedded in The post Navigating the AI Frontier: Data Governance Controls at SIFIs in 2025 appeared first on Perficient Blogs .",
+      "tags": []
+    },
+    {
+      "title": "Why Data Governance Matters More Than Ever in 2025?",
+      "url": "https://blogs.perficient.com/why-data-governance-matters-more-than-ever-in-2025/",
+      "date": "04 Sep 2025",
+      "source": "Perficient DG",
+      "section": "tools",
+      "summary": "These days, data is pretty much everywhere, and come 2025, it’s more valuable, more regulated, and honestly more complicated than ever. But with all this The post Why Data Governance Matters More Than Ever in 2025? appeared first on Perficient Blogs .",
+      "tags": []
+    },
+    {
+      "title": "Understanding Clean Rooms: A Comparative Analysis Between Databricks and Snowflake",
+      "url": "https://blogs.perficient.com/databricks-vs-snowflake-clean-rooms-financial-research-collaboration/",
+      "date": "27 Jun 2025",
+      "source": "Perficient DG",
+      "section": "tools",
+      "summary": "Clean rooms have emerged as a pivotal data sharing innovation with both Databricks and Snowflake providing enterprise alternatives. Clean rooms are secure environments designed to The post Understanding Clean Rooms: A Comparative Analysis Between Databricks and Snowflake appeared first on Perficient Blogs .",
+      "tags": []
+    },
+    {
+      "title": "Master Data Management: The Key to Improved Analytics Reporting",
+      "url": "https://blogs.perficient.com/master-data-management-the-key-to-improved-analytics-reporting/",
+      "date": "12 Jun 2025",
+      "source": "Perficient DG",
+      "section": "tools",
+      "summary": "In today’s data-driven business environment, organizations rely heavily on analytics to make strategic decisions. However, the effectiveness of analytics reporting depends on the quality, consistency, The post Master Data Management: The Key to Improved Analytics Reporting appeared first on Perficient Blogs .",
       "tags": []
     }
   ]
