@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-“””
-Data Governance Digest — Article Fetcher
-Runs via GitHub Actions on schedule.
-Fetches RSS feeds, categorizes with Claude, writes articles.json
-“””
-
 import json
 import os
 import re
