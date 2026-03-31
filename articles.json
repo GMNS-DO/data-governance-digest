@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-03-30T10:43:25.895572+00:00",
+  "generated_at": "2026-03-31T09:45:16.049996+00:00",
   "article_count": 60,
   "articles": [
+    {
+      "title": "Do you Believe in the Data Fairies?",
+      "url": "https://www.nicolaaskham.com/blog/datafairies",
+      "date": "02 Apr 2026",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "This is an updated version of a blog I first wrote back in August 2012. Fourteen years on, I'm genuinely surprised by how little has changed — and how much more urgent the problem has become. Picture the scene: you arrive at work, open your laptop, and settle down to do some important work, confident that the data you need will be ready and waiting for you. But here's my question: do you know how that data gets there, and where it comes from? Over the years I've come across countless situations that run something like this: Team A: Our data is loaded up by IT. IT: No, we don't touch that data ",
+      "tags": []
+    },
     {
       "title": "Why Your Executives Need to Hear This Before Your Next AI Project",
       "url": "https://www.nicolaaskham.com/blog/aianddatagovernance",
@@ -66,42 +75,6 @@
       "tags": []
     },
     {
-      "title": "Why Is Data Governance Coaching Expensive?",
-      "url": "https://www.nicolaaskham.com/blog/2025/9/17/what-is-a-data-governance-roadmap-and-do-i-really-need-one-lfwlw-5rz4r-wmjbl",
-      "date": "16 Oct 2025",
-      "source": "Nicola Askham",
-      "section": "opinions",
-      "summary": "Unfortunately, Data Governance coaching isn’t free. In fact, it might seem quite the opposite… until you look at what you’re really getting. Because what feels “expensive” at first glance often turns out to be great value when you look at the outcome. Cheap services tend to cost you more in the long run, wasting your time and your budget. Data Governance Coaching is different. Rather than thinking of it as paying for theory, it’s more like investing in tailored, hands-on support that helps you turn good intentions into real results. And that’s where the value lies. Let me explain… You’re not j",
-      "tags": []
-    },
-    {
-      "title": "Golden Panda Casino – Jeu Rapide, Gains Importants",
-      "url": "https://tdan.com/golden-panda-casino-jeu-rapide-gains-importants/33674",
-      "date": "29 Mar 2026",
-      "source": "TDAN.com",
-      "section": "news",
-      "summary": "Pour les joueurs qui aiment l’adrénaline et la gratification instantanée, Golden Panda Casino offre un terrain de jeu où chaque spin, flip de carte, et pari peut se terminer par un paiement en quelques minutes. Si vous cherchez un endroit qui maintient un rythme rapide et des récompenses immédiates, https://goldenpandajouer.fr/ est le lien dont vous []",
-      "tags": []
-    },
-    {
-      "title": "Spinpanda: Quick‑Hit Casino Action voor de Moderne Speler",
-      "url": "https://tdan.com/spinpanda-quickhit-casino-action-voor-de-moderne-s/33673",
-      "date": "29 Mar 2026",
-      "source": "TDAN.com",
-      "section": "news",
-      "summary": "Spinpanda heeft een niche gevonden voor degenen die snelle beloningen zoeken zonder de marathon-achtige grind. Als jij het type bent dat in seconden een paar munten opgooit en wegloopt met een winst of een free spin, is dit de plek waar snelle spanning en variatie samenkomen. In de wereld van online gokken moedigen veel sites []",
-      "tags": []
-    },
-    {
-      "title": "QuickWin Casino: Villámgyors nyerőgépek és azonnali nyeremények",
-      "url": "https://tdan.com/quickwin-casino-villmgyors-nyergpek-s-azonnali-nye/33672",
-      "date": "28 Mar 2026",
-      "source": "TDAN.com",
-      "section": "news",
-      "summary": "1. QuickWin Pulse‑Driven Design QuickWin középpontjában egy olyan filozófia áll, amely ünnepli az egyetlen pörgetés vagy gyors asztali kéz adrenalinlöketét. A játékosok, akik rövid izgalmi hullámokon élnek, úgy találják, hogy az oldal elrendezése és időzítése tökéletesen illeszkedik igényeikhez. A főoldal villogó számlálót mutat a legforróbb slot jackpotokról és egy carousel-t a live casino asztalokról, amelyeket []",
-      "tags": []
-    },
-    {
       "title": "Why AI, Data, and Analytics Need a Governance Framework",
       "url": "https://tdan.com/why-ai-data-and-analytics-need-a-governance-framework/33604",
       "date": "18 Mar 2026",
@@ -144,6 +117,33 @@
       "source": "TDAN.com",
       "section": "news",
       "summary": "In the present era of data-centricity, institutions are amassing an immense amount of information at an unparalleled pace. This inundation of data holds the solution to unlocking invaluable perceptions, but only with proficient management and analysis. That is precisely where the art of data engineering comes into play.Data engineering servicesengineer systems that collect, store, and []",
+      "tags": []
+    },
+    {
+      "title": "The True Cost of Your Data in the Cloud",
+      "url": "https://tdan.com/the-true-cost-of-your-data-in-the-cloud/31847",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "As organizations increasingly migrate to the cloud, understanding the true cost of storing and managing data is essential. Cloud computing offers scalability, flexibility, and a range of services that can significantly enhance operational efficiency. However, these benefits come with a price. Without careful planning and management, cloud data costs can quickly escalate, impacting the overall []",
+      "tags": []
+    },
+    {
+      "title": "Data Is Risky Business: Designing Effective Governance for Data and AI",
+      "url": "https://tdan.com/data-is-risky-business-designing-effective-governance-for-data-and-ai/33556",
+      "date": "04 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "The CIA has some interesting things to say about data governance in their Simple Sabotage Field Manual. So much so that I think this historic document from the era of the Office of Strategic Services, the precursor to the CIA, should be mandatory reading for every data governance practitioner. Seriously. The Backstory The Office of []",
+      "tags": []
+    },
+    {
+      "title": "Empowering Data Stewards: Building a Forum That Drives Value",
+      "url": "https://tdan.com/empowering-data-stewards-building-a-forum-that-drives-value/32398",
+      "date": "04 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "Data steward forums are catalysts for organizational data wisdom and cultural transformation. When executed thoughtfully, they become your strongest asset in building a data-driven organization. However, their success hangs delicately on implementation — the difference between fostering lasting engagement and watching enthusiasm fade lies in the fundamental framework you establish from day one. 1. Building []",
       "tags": []
     },
     {
@@ -291,6 +291,15 @@
       "tags": []
     },
     {
+      "title": "Are IP addresses personal data?",
+      "url": "http://privacyinternational.org/explainer/5755/are-ip-addresses-personal-data",
+      "date": "27 Mar 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "PI seeks to inform inquiry of UK Joint Committee on Human Rights on human rights and AI",
       "url": "http://privacyinternational.org/advocacy/5753/pi-seeks-inform-inquiry-uk-joint-committee-human-rights-human-rights-and-ai",
       "date": "25 Mar 2026",
@@ -347,15 +356,6 @@
     {
       "title": "Privacy International's response to the UK Home Office consultation on facial recognition technology",
       "url": "http://privacyinternational.org/advocacy/5741/privacy-internationals-response-uk-home-office-consultation-facial-recognition",
-      "date": "05 Mar 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Privacy International's submission on the impact of digital and AI-assisted surveillance on assembly and association rights",
-      "url": "http://privacyinternational.org/advocacy/5740/privacy-internationals-submission-impact-digital-and-ai-assisted-surveillance",
       "date": "05 Mar 2026",
       "source": "Privacy International",
       "section": "regulation",
