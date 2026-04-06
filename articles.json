@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T08:04:05.351232+00:00",
+  "generated_at": "2026-04-06T09:55:42.047649+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -75,24 +75,6 @@
       "tags": []
     },
     {
-      "title": "BDM Bet: Wins Rápidos y Slots de Ritmo Acelerado para el Jugador Moderno",
-      "url": "https://tdan.com/bdm-bet-wins-rpidos-y-slots-de-ritmo-acelerado-par/33709",
-      "date": "04 Apr 2026",
-      "source": "TDAN.com",
-      "section": "news",
-      "summary": "1. La Experiencia Sprint en BDM Bet BDM Bet ha creado un nicho para aquellos que buscan emociones instantáneas sin el largo‑camino que algunas plataformas exigen. En los primeros minutos ya estás haciendo spin, colocando apuestas y viendo cómo la línea parpadea con una ganancia o un near‑miss. Toda la experiencia está diseñada en torno []",
-      "tags": []
-    },
-    {
-      "title": "Leon Casino: Quick Wins and Instant Thrills for Fast‑Paced Players",
-      "url": "https://tdan.com/leon-casino-quick-wins-and-instant-thrills-for-fas/33708",
-      "date": "04 Apr 2026",
-      "source": "TDAN.com",
-      "section": "news",
-      "summary": "1. The Pulse of Rapid Play Leon Casino is a bustling hub where adrenaline meets opportunity on the spin button or card shuffle. Its design is tuned for those who thrive on short bursts of excitement rather than marathon sessions. In the first breath after logging in—yes, Leon casino—players are treated to a splash screen []",
-      "tags": []
-    },
-    {
       "title": "All in the Data: Artificial Versus Natural Intelligence",
       "url": "https://tdan.com/all-in-the-data-artificial-versus-natural-intelligence/33683",
       "date": "01 Apr 2026",
@@ -144,6 +126,24 @@
       "source": "TDAN.com",
       "section": "news",
       "summary": "In 2016, the technology research firmGartnercoined the term “citizen data scientist,” defining it as “a person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics.” In the ensuing years, thecitizen data scientist role has become more refined, and businesses []",
+      "tags": []
+    },
+    {
+      "title": "Why AI, Data, and Analytics Need a Governance Framework",
+      "url": "https://tdan.com/why-ai-data-and-analytics-need-a-governance-framework/33604",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "Achieving business success today increasingly depends on getting the right information at the right time — so people can make decisions at the speed of business and intelligent agents can take the right actions. For data, analytics, and AI agents and people to work effectively, organizations need data that is consistent, trusted, and high quality. Equally important is a clear map []",
+      "tags": []
+    },
+    {
+      "title": "Legal Issues for Data Professionals: AI Personas",
+      "url": "https://tdan.com/legal-issues-for-data-professionals-ai-personas/33611",
+      "date": "18 Mar 2026",
+      "source": "TDAN.com",
+      "section": "news",
+      "summary": "This column addresses key legal and data issues arising from the creation and commercialization of “AI Personas.” It covers the anatomy of a legal “AI Personal Development and User Agreement.” What Is an AI Persona? Taking the advertising industry as an example, an AI Persona, in over-simplified terms, is a synthetic person. More precisely, it []",
       "tags": []
     },
     {
@@ -220,7 +220,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -229,7 +229,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -238,7 +238,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -247,7 +247,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -256,7 +256,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -265,7 +265,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -274,7 +274,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
