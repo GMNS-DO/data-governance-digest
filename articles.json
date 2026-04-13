@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T08:32:02.560215+00:00",
+  "generated_at": "2026-04-13T11:04:47.076326+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data Analytics Helps Developers Deliver Better Tech Services",
+      "url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
+      "date": "12 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A closer look at how developers use analytics and AI tools to improve performance, anticipate issues, and build smarter solutions for tech companies.",
+      "tags": []
+    },
+    {
       "title": "Can Data Analytics Help Investors Outperform Warren Buffett",
       "url": "https://www.smartdatacollective.com/can-data-analytics-help-investors-outperform-warren-buffett/",
       "date": "08 Apr 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "EDI compliance services are increasingly using AI to improve accuracy, speed, and regulatory alignment.",
-      "tags": []
-    },
-    {
-      "title": "5 Industries Driving Big Data Technology Growth",
-      "url": "https://www.smartdatacollective.com/industries-driving-big-data-technology-growth/",
-      "date": "24 Mar 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Key industries are pushing big data technology forward as demand for insights and analytics continues to rise.",
       "tags": []
     }
   ]
