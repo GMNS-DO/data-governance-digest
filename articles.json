@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T11:04:47.076326+00:00",
+  "generated_at": "2026-04-14T10:43:25.597059+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,42 @@
       "tags": []
     },
     {
+      "title": "Hidden AI, Real Risk: A Governance Roadmap For Mid-Market Organizations",
+      "url": "https://www.smartdatacollective.com/hidden-ai-real-risk-governance-roadmap-for-mid-market-organizations/",
+      "date": "13 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The silent driver of decisions: Why mid-market companies need AI governance now, not after a crisis.",
+      "tags": []
+    },
+    {
+      "title": "Signal Or Noise? A Decision Tree For Evaluating Unusual Trading Activity",
+      "url": "https://www.smartdatacollective.com/signal-or-noise-decision-tree-for-evaluating-unusual-trading-activity/",
+      "date": "13 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "From confusion to clarity: Using a decision tree to assess whether unusual trading activity truly matters.",
+      "tags": []
+    },
+    {
+      "title": "AI Agent Trends Shaping Data-Driven Businesses",
+      "url": "https://www.smartdatacollective.com/ai-agent-trends-shaping-data-driven-businesses/",
+      "date": "13 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Smarter decisions, faster execution: How AI agents are redefining what data-driven businesses can achieve.",
+      "tags": []
+    },
+    {
+      "title": "Why Businesses Are Using Data to Rethink Office Operations",
+      "url": "https://www.smartdatacollective.com/why-businesses-are-using-data-to-rethink-office-operations/",
+      "date": "13 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Data-driven workplaces: Why smart businesses are rethinking everything from desk usage to energy consumption.",
+      "tags": []
+    },
+    {
       "title": "How Data Analytics Helps Developers Deliver Better Tech Services",
       "url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
       "date": "12 Apr 2026",
@@ -504,42 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Exploring whether AI and financial analytics can rival one of the greatest investing track records in history",
-      "tags": []
-    },
-    {
-      "title": "Data Annotation Outsourcing and Risk Mitigation Strategies",
-      "url": "https://www.smartdatacollective.com/data-annotation-outsourcing-and-risk-mitigation-strategies/",
-      "date": "01 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Learn how outsourcing data annotation can support security goals while managing risks through careful planning and vendor oversight.",
-      "tags": []
-    },
-    {
-      "title": "Breaking down SPARC Emulation Technology: Zero Code Re-write",
-      "url": "https://www.smartdatacollective.com/breaking-down-sparc-emulation-technology-zero-code-re-write/",
-      "date": "31 Mar 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Run legacy applications without rewriting: How SPARC emulation preserves code while modernizing infrastructure.",
-      "tags": []
-    },
-    {
-      "title": "Why Some Businesses Seem to Win Online Without Ever Feeling Like They Are Trying",
-      "url": "https://www.smartdatacollective.com/why-some-businesses-seem-to-win-online-without-ever-feeling-like-they-are-trying/",
-      "date": "29 Mar 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics helps businesses scale faster by reducing guesswork and improving decision making.",
-      "tags": []
-    },
-    {
-      "title": "AI Is Transforming EDI Compliance Services",
-      "url": "https://www.smartdatacollective.com/ai-is-transforming-edi-compliance-services/",
-      "date": "24 Mar 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "EDI compliance services are increasingly using AI to improve accuracy, speed, and regulatory alignment.",
       "tags": []
     }
   ]
