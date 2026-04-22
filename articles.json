@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T10:50:12.952743+00:00",
+  "generated_at": "2026-04-22T10:47:46.584717+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
+      "url": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
+      "date": "21 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Learn how to manage data migration risks with structured strategies that protect sensitive information and maintain business continuity.",
+      "tags": []
+    },
+    {
       "title": "How Data Analytics and Data Mining Strengthen Brand Identity Services",
       "url": "https://www.smartdatacollective.com/how-data-analytics-and-data-mining-strengthen-brand-identity-services/",
       "date": "20 Apr 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Data-driven workplaces: Why smart businesses are rethinking everything from desk usage to energy consumption.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics Helps Developers Deliver Better Tech Services",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
-      "date": "12 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A closer look at how developers use analytics and AI tools to improve performance, anticipate issues, and build smarter solutions for tech companies.",
       "tags": []
     }
   ]
