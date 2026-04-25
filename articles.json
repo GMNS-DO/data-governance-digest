@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T10:51:20.630296+00:00",
-  "article_count": 60,
+  "generated_at": "2026-04-25T08:38:25.272487+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Do you Believe in the Data Fairies?",
@@ -75,80 +75,8 @@
       "tags": []
     },
     {
-      "title": "How AI Is Reinventing MDM and Data Governance",
-      "url": "https://www.lightsondata.com/how-ai-is-reinventing-mdm-and-data-governance/",
-      "date": "19 Jan 2026",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Artificial intelligence is reshaping how organizations work with data, not just at the analytics layer, but much deeper in how data is defined, governed, and operationalized. While much of the attention is on new capabilities such as automation and generative insights, a more foundational shift is taking place. AI is bringing renewed focus to the [] The post How AI Is Reinventing MDM and Data Governance appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling",
-      "url": "https://www.lightsondata.com/fsa-mebs-enterprise-modeling/",
-      "date": "08 Dec 2025",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "For decades, organizations have been trying to model themselves clearly enough to build reliable, scalable, and future‑proof information systems. Yet despite thousands of methodologies, tools, and standards, we still see the same symptoms everywhere:Fragmented dataEndless integration projectsCompeting semantics and mismatched modelsHigh IT cost for low business agilityIf we step back, it becomes obvious: we’ve never [] The post From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "Optimizing retail operations through a practical data strategy",
-      "url": "https://www.lightsondata.com/optimizing-retail-operations-through-a-practical-data-strategy/",
-      "date": "26 Aug 2025",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Given the pace of change in the retail sector, impactful decisions can be a competitive advantage, but many organizations are still in the dark. They're not operating with actionable insights... trusting their gut to make decisions while keeping data in a silo. The solution? An all-inclusive data strategy that makes sense for the organization.This article [] The post Optimizing retail operations through a practical data strategy appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "Transforming Marketing Data into Business Growth: Key Insights and Strategies",
-      "url": "https://www.lightsondata.com/transforming-marketing-data-into-business-growth-key-insights-and-strategies/",
-      "date": "15 Dec 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Marketing leaders and data professionals often grapple with a familiar challenge: how to transform marketing data into tangible business growth. During a recent episode of The Lights on Data Show, I had the privilege of speaking with Kasper Bossen-Rasmussen, founder and CEO of Accutics, about this very topic. Together, we explored key takeaways for addressing [] The post Transforming Marketing Data into Business Growth: Key Insights and Strategies appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "The future of generative AI’s form factor",
-      "url": "https://www.lightsondata.com/the-future-of-generative-ais-form-factor/",
-      "date": "30 Sep 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "How to Become a Data Science Freelancer",
-      "url": "https://www.lightsondata.com/how-to-become-a-data-science-freelancer/",
-      "date": "18 Jan 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Entering the world of freelance as a data professional offers freedom, diversity in projects, and the thrill of entrepreneurship. But how does one transition from a traditional job to a successful freelance career in the data field? Insights from an experienced freelance data consultant shed light on this journey. Table Of Contents 1Key Skills and [] The post How to Become a Data Science Freelancer appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "Data Governance in 2024",
-      "url": "https://www.lightsondata.com/data-governance-in-2024/",
-      "date": "20 Dec 2023",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "As we approach 2024, the landscape of data governance is set to undergo transformative changes. This article delves into the anticipated advancements and shifts in data governance, highlighting the integration of AI, the importance of metadata management, the emphasis on data quality and literacy, evolving operating models, and the integration of data warehousing and lake [] The post Data Governance in 2024 appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "5 Steps to Achieve Proactive Data Observability – Explained Over Beers",
-      "url": "https://www.lightsondata.com/5-steps-to-achieve-proactive-data-observability-explained-over-beers/",
-      "date": "27 Sep 2023",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "In the multifaceted realm of data management, aspiring to master proactive data observability often mirrors the meticulous craftsmanship that goes into brewing the quintessential batch of beer. It is a symphonic endeavor that calls for a harmonious blend of varied elements, a craft demanding skill, finesse, and an adept understanding of the underlying balances at [] The post 5 Steps to Achieve Proactive Data Observability Explained Over Beers appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -489,57 +417,75 @@
       "tags": []
     },
     {
-      "title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
-      "url": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
+      "title": "7 Practical OpenClaw Use Cases You Should Know",
+      "url": "https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know",
+      "date": "24 Apr 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how people are using OpenClaw to automate workflows, build custom agents, boost productivity, and turn AI into practical action.",
+      "tags": []
+    },
+    {
+      "title": "AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today",
+      "url": "https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today",
+      "date": "23 Apr 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "These 10 projects will teach you agent engineering faster than any tutorial.",
+      "tags": []
+    },
+    {
+      "title": "7 Specific Unconventional Things to Do with Language Models",
+      "url": "https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models",
+      "date": "23 Apr 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "These ares seven unconventional uses of LLMs that go far beyond usual chat interface and conversations.",
+      "tags": []
+    },
+    {
+      "title": "5 GitHub Repositories to Learn Quantum Machine Learning",
+      "url": "https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning",
+      "date": "22 Apr 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "If you want to learn quantum machine learning in 2025, these five GitHub repositories can get you started in hours, not months.",
+      "tags": []
+    },
+    {
+      "title": "10 GitHub Repositories To Master Claude Code",
+      "url": "https://www.kdnuggets.com/10-github-repositories-to-master-claude-code",
+      "date": "22 Apr 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn faster, build smarter, and unlock the full power of Claude Code through real examples, reusable templates, prompts, workflows, subagents, and system design.",
+      "tags": []
+    },
+    {
+      "title": "Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder",
+      "url": "https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder",
       "date": "21 Apr 2026",
-      "source": "SmartData Collective",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Learn how to manage data migration risks with structured strategies that protect sensitive information and maintain business continuity.",
+      "summary": "Run a powerful, private AI coder locally with OpenCode, Ollama & Qwen3-Coder. Free, offline, and unlimited.",
       "tags": []
     },
     {
-      "title": "How Data Analytics and Data Mining Strengthen Brand Identity Services",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-and-data-mining-strengthen-brand-identity-services/",
-      "date": "20 Apr 2026",
-      "source": "SmartData Collective",
+      "title": "Advanced Pandas Patterns Most Data Scientists Don’t Use",
+      "url": "https://www.kdnuggets.com/advanced-pandas-patterns-most-data-scientists-dont-use",
+      "date": "21 Apr 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Discover how data analytics and data mining help brand identity services refine messaging, understand audiences, and improve brand perception.",
+      "summary": "Learn method chaining, pipe(), efficient joins, optimized groupby operations, and vectorized logic to write faster and cleaner pandas code",
       "tags": []
     },
     {
-      "title": "Hidden AI, Real Risk: A Governance Roadmap For Mid-Market Organizations",
-      "url": "https://www.smartdatacollective.com/hidden-ai-real-risk-governance-roadmap-for-mid-market-organizations/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
+      "title": "5 Docker Best Practices for Faster Builds and Smaller Images",
+      "url": "https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images",
+      "date": "21 Apr 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "The silent driver of decisions: Why mid-market companies need AI governance now, not after a crisis.",
-      "tags": []
-    },
-    {
-      "title": "Signal Or Noise? A Decision Tree For Evaluating Unusual Trading Activity",
-      "url": "https://www.smartdatacollective.com/signal-or-noise-decision-tree-for-evaluating-unusual-trading-activity/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "From confusion to clarity: Using a decision tree to assess whether unusual trading activity truly matters.",
-      "tags": []
-    },
-    {
-      "title": "AI Agent Trends Shaping Data-Driven Businesses",
-      "url": "https://www.smartdatacollective.com/ai-agent-trends-shaping-data-driven-businesses/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Smarter decisions, faster execution: How AI agents are redefining what data-driven businesses can achieve.",
-      "tags": []
-    },
-    {
-      "title": "Why Businesses Are Using Data to Rethink Office Operations",
-      "url": "https://www.smartdatacollective.com/why-businesses-are-using-data-to-rethink-office-operations/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data-driven workplaces: Why smart businesses are rethinking everything from desk usage to energy consumption.",
+      "summary": "By applying a few smart Docker practices, you can build faster images, and keep them clean, compact, and production-ready.",
       "tags": []
     }
   ]
