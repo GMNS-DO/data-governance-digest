@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:17:53.418302+00:00",
+  "generated_at": "2026-04-27T08:06:32.672998+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,33 @@
       "tags": []
     },
     {
+      "title": "Reducing “Work About Work” with AI Task Managers",
+      "url": "https://www.smartdatacollective.com/reducing-work-about-work-with-ai-task-managers/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The hidden tax on productivity: Using AI to eliminate the busywork that steals your day.",
+      "tags": []
+    },
+    {
+      "title": "Why Rodent-Resistant Conduits Are Critical for Data Center Uptime",
+      "url": "https://www.smartdatacollective.com/why-rodent-resistant-conduits-are-critical-for-data-center-uptime/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Protecting your data from the ground up: Why rodent-proofing conduits is critical for reliable operations.",
+      "tags": []
+    },
+    {
+      "title": "The Intersection of Big Data and AI in Project Management",
+      "url": "https://www.smartdatacollective.com/intersection-of-big-data-and-ai-in-project-management/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Discover how AI and big data are helping businesses improve project tracking, reduce risks, and increase returns through better decision-making.",
+      "tags": []
+    },
+    {
       "title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
       "url": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
       "date": "21 Apr 2026",
@@ -513,33 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "The silent driver of decisions: Why mid-market companies need AI governance now, not after a crisis.",
-      "tags": []
-    },
-    {
-      "title": "Signal Or Noise? A Decision Tree For Evaluating Unusual Trading Activity",
-      "url": "https://www.smartdatacollective.com/signal-or-noise-decision-tree-for-evaluating-unusual-trading-activity/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "From confusion to clarity: Using a decision tree to assess whether unusual trading activity truly matters.",
-      "tags": []
-    },
-    {
-      "title": "AI Agent Trends Shaping Data-Driven Businesses",
-      "url": "https://www.smartdatacollective.com/ai-agent-trends-shaping-data-driven-businesses/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Smarter decisions, faster execution: How AI agents are redefining what data-driven businesses can achieve.",
-      "tags": []
-    },
-    {
-      "title": "Why Businesses Are Using Data to Rethink Office Operations",
-      "url": "https://www.smartdatacollective.com/why-businesses-are-using-data-to-rethink-office-operations/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data-driven workplaces: Why smart businesses are rethinking everything from desk usage to energy consumption.",
       "tags": []
     }
   ]
