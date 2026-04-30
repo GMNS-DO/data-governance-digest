@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T08:01:39.126783+00:00",
+  "generated_at": "2026-04-30T08:05:17.774528+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
+      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
+      "date": "29 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Learn how businesses relying on MySQL can prevent downtime, avoid data corruption, and reduce costly disruptions with practical safeguards",
+      "tags": []
+    },
+    {
       "title": "Reducing “Work About Work” with AI Task Managers",
       "url": "https://www.smartdatacollective.com/reducing-work-about-work-with-ai-task-managers/",
       "date": "26 Apr 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Discover how data analytics and data mining help brand identity services refine messaging, understand audiences, and improve brand perception.",
-      "tags": []
-    },
-    {
-      "title": "Hidden AI, Real Risk: A Governance Roadmap For Mid-Market Organizations",
-      "url": "https://www.smartdatacollective.com/hidden-ai-real-risk-governance-roadmap-for-mid-market-organizations/",
-      "date": "13 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "The silent driver of decisions: Why mid-market companies need AI governance now, not after a crisis.",
       "tags": []
     }
   ]
