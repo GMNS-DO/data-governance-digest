@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:02:49.183080+00:00",
+  "generated_at": "2026-05-02T07:20:14.967186+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,15 @@
       "tags": []
     },
     {
+      "title": "Dual-use tech: the BAE Systems example",
+      "url": "http://privacyinternational.org/report/5766/dual-use-tech-bae-systems-example",
+      "date": "29 Apr 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Dual-use tech: the Lockheed Martin example",
       "url": "http://privacyinternational.org/report/5764/dual-use-tech-lockheed-martin-example",
       "date": "29 Apr 2026",
@@ -276,15 +285,6 @@
       "title": "The ILO Convention on decent work in the the platform economy",
       "url": "http://privacyinternational.org/advocacy/5693/ilo-convention-decent-work-platform-economy",
       "date": "31 Mar 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Are IP addresses personal data?",
-      "url": "http://privacyinternational.org/explainer/5755/are-ip-addresses-personal-data",
-      "date": "27 Mar 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
