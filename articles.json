@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T08:09:08.087134+00:00",
+  "generated_at": "2026-05-07T08:17:36.864043+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,11 +211,20 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "From Big Oil to Big Algorithm: Public Money in Private Models",
+      "url": "http://privacyinternational.org/long-read/5767/big-oil-big-algorithm-public-money-private-models",
+      "date": "05 May 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -275,15 +284,6 @@
     {
       "title": "Challenging the militarisation of tech: a visual explainer",
       "url": "http://privacyinternational.org/long-read/5756/challenging-militarisation-tech-visual-explainer",
-      "date": "31 Mar 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "The ILO Convention on decent work in the the platform economy",
-      "url": "http://privacyinternational.org/advocacy/5693/ilo-convention-decent-work-platform-economy",
       "date": "31 Mar 2026",
       "source": "Privacy International",
       "section": "regulation",
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data-Driven Grocery Recommendations Help Shoppers Eat Better With Less Effort",
+      "url": "https://www.smartdatacollective.com/how-data-driven-grocery-recommendations-help-shoppers-eat-better-with-less-effort/",
+      "date": "06 May 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
+      "tags": []
+    },
+    {
       "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
       "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
       "date": "29 Apr 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Learn how to manage data migration risks with structured strategies that protect sensitive information and maintain business continuity.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics and Data Mining Strengthen Brand Identity Services",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-and-data-mining-strengthen-brand-identity-services/",
-      "date": "20 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Discover how data analytics and data mining help brand identity services refine messaging, understand audiences, and improve brand perception.",
       "tags": []
     }
   ]
