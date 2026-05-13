@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:27:17.595603+00:00",
+  "generated_at": "2026-05-13T08:34:17.632511+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data-Driven Journalists Are Using API News Apps to Improve Reporting",
+      "url": "https://www.smartdatacollective.com/how-data-driven-journalists-are-using-api-news-apps-to-improve-reporting/",
+      "date": "12 May 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Learn how API news apps and analytics tools help journalists track trends, verify sources, and build stronger stories with data.",
+      "tags": []
+    },
+    {
       "title": "How Data-Driven Grocery Recommendations Help Shoppers Eat Better With Less Effort",
       "url": "https://www.smartdatacollective.com/how-data-driven-grocery-recommendations-help-shoppers-eat-better-with-less-effort/",
       "date": "06 May 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Discover how AI and big data are helping businesses improve project tracking, reduce risks, and increase returns through better decision-making.",
-      "tags": []
-    },
-    {
-      "title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
-      "url": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
-      "date": "21 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Learn how to manage data migration risks with structured strategies that protect sensitive information and maintain business continuity.",
       "tags": []
     }
   ]
