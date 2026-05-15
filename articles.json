@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-05-14T08:28:35.773584+00:00",
+  "generated_at": "2026-05-15T08:39:13.377627+00:00",
   "article_count": 60,
   "articles": [
+    {
+      "title": "My Last Blog - And my top 10 blogs of all time",
+      "url": "https://www.nicolaaskham.com/blog/lastblog",
+      "date": "14 May 2026",
+      "source": "Nicola Askham",
+      "section": "opinions",
+      "summary": "For over a decade, I’ve been writing blogs on Data Governance. When I first started, it was simply a way to get my thoughts and feelings down on “paper.” I wanted to make sense of the space in my own way, to explore ideas, and to share how I think about Data Governance with others who might be on a similar journey. Over the years, that small intention turned into something much bigger than I ever expected. I’ve now written over 250 blogs - each one a snapshot of how my thinking has evolved, the challenges I’ve encountered, and the lessons I’ve learned along the way. But now, it feels like the ",
+      "tags": []
+    },
     {
       "title": "Do you Believe in the Data Fairies?",
       "url": "https://www.nicolaaskham.com/blog/datafairies",
@@ -63,15 +72,6 @@
       "source": "Nicola Askham",
       "section": "opinions",
       "summary": "I’m thrilled to share this guest blog from Hyatt Saba, Data Governance Manager at Sage. I always enjoy my conversations with Hyatt about all things Data Governance - she has such a great way of bringing the topic to life through clever analogies. In this blog, Hyatt draws on the world of professional kitchens to show how clear accountability and defined responsibilities are the key ingredients for successful Data Governance. It's Saturday night and in the thick of dinner service at a popular new restaurant, table 7, order 2 raspberry and white chocolate soufflés to finish off their wonderful m",
-      "tags": []
-    },
-    {
-      "title": "Guest Blog from Niels Lademark Heegaard - Is Your DG/EA/BPM Approach Mature and How Can You Tell?",
-      "url": "https://www.nicolaaskham.com/blog/2024/11/7/guest-blog-from-niels-lademark-heegaard-data-as-an-asset-rg7ch",
-      "date": "30 Oct 2025",
-      "source": "Nicola Askham",
-      "section": "opinions",
-      "summary": "It’s a pleasure to feature a guest post from Niels Lademark Heegaard, a talented friend and former colleague from my early days at Platon, the first consultancy I worked with. Niels has an exceptional ability to make complex ideas clear and practical - something I’ve admired since we first worked together. In this blog, Niels explores how to define, measure, and apply maturity in Data Governance and Enterprise Architecture. Yet another AI free blog post (except for correcting my spulling and the cover image). This time around I muse about Data Governance and Enterprise Architecture maturity. H",
       "tags": []
     },
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Time-Series Feature Engineering with Python Itertools",
+      "url": "https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools",
+      "date": "14 May 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how to use Python itertools to build efficient and scalable time series features.",
+      "tags": []
+    },
+    {
+      "title": "5 Small Language Models for Agentic Tool Calling",
+      "url": "https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling",
+      "date": "14 May 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Here are 5 small language models that hare one important trait: they all support structured tool calling in a compact, open-weight package.",
+      "tags": []
+    },
+    {
       "title": "How AI Agents Will Transform Data Science Work in 2026",
       "url": "https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026",
       "date": "13 May 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Time series data is common across finance, operations, engineering, and research. These five Python scripts cover the analysis tasks that come up repeatedly.",
-      "tags": []
-    },
-    {
-      "title": "Guardrails for LLMs: Measuring AI ‘Hallucination’ and Verbosity",
-      "url": "https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity",
-      "date": "11 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article discusses how to implement an infrastructure for measuring and controlling overly verbose LLM responses.",
-      "tags": []
-    },
-    {
-      "title": "Build an AI-Powered Learning Management System That Actually Trains People",
-      "url": "https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-actually-trains-people",
-      "date": "11 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to build an AI-powered Learning Management System from scratch using Ollama, FastAPI, and React. A step-by-step guide for beginner and intermediate developers.",
       "tags": []
     }
   ]
