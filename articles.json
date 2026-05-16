@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T08:39:13.377627+00:00",
+  "generated_at": "2026-05-16T07:51:23.548764+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,11 +211,20 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Collateral Damage: Grok AI and the Human Cost of Generative AI",
+      "url": "http://privacyinternational.org/news-analysis/5770/collateral-damage-grok-ai-and-human-cost-generative-ai",
+      "date": "15 May 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -276,15 +285,6 @@
       "title": "Dangerous data",
       "url": "http://privacyinternational.org/long-read/5757/dangerous-data",
       "date": "10 Apr 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Challenging the militarisation of tech: a visual explainer",
-      "url": "http://privacyinternational.org/long-read/5756/challenging-militarisation-tech-visual-explainer",
-      "date": "31 Mar 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,57 +489,57 @@
       "tags": []
     },
     {
-      "title": "Time-Series Feature Engineering with Python Itertools",
-      "url": "https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools",
-      "date": "14 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to use Python itertools to build efficient and scalable time series features.",
-      "tags": []
-    },
-    {
-      "title": "5 Small Language Models for Agentic Tool Calling",
-      "url": "https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling",
-      "date": "14 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Here are 5 small language models that hare one important trait: they all support structured tool calling in a compact, open-weight package.",
-      "tags": []
-    },
-    {
-      "title": "How AI Agents Will Transform Data Science Work in 2026",
-      "url": "https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026",
-      "date": "13 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Discover how AI agents will revolutionize data science in 2026, and learn why they won't replace you but will make you a faster, smarter analyst.",
-      "tags": []
-    },
-    {
-      "title": "10 GitHub Repositories to Master Self-Hosting",
-      "url": "https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting",
-      "date": "13 May 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how modern infrastructure works through self-hosting: containers, reverse proxies, monitoring, backups, networking, and systems operations.",
-      "tags": []
-    },
-    {
-      "title": "Using Polars Instead of Pandas: Performance Deep Dive",
-      "url": "https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive",
+      "title": "How Data-Driven Journalists Are Using API News Apps to Improve Reporting",
+      "url": "https://www.smartdatacollective.com/how-data-driven-journalists-are-using-api-news-apps-to-improve-reporting/",
       "date": "12 May 2026",
-      "source": "KDnuggets",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "In this article, we explore three real data problems using real questions where Polars outpaces Pandas on every metric.",
+      "summary": "Learn how API news apps and analytics tools help journalists track trends, verify sources, and build stronger stories with data.",
       "tags": []
     },
     {
-      "title": "5 Useful Python Scripts for Time Series Analysis",
-      "url": "https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis",
-      "date": "12 May 2026",
-      "source": "KDnuggets",
+      "title": "How Data-Driven Grocery Recommendations Help Shoppers Eat Better With Less Effort",
+      "url": "https://www.smartdatacollective.com/how-data-driven-grocery-recommendations-help-shoppers-eat-better-with-less-effort/",
+      "date": "06 May 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "Time series data is common across finance, operations, engineering, and research. These five Python scripts cover the analysis tasks that come up repeatedly.",
+      "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
+      "tags": []
+    },
+    {
+      "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
+      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
+      "date": "29 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Learn how businesses relying on MySQL can prevent downtime, avoid data corruption, and reduce costly disruptions with practical safeguards",
+      "tags": []
+    },
+    {
+      "title": "Reducing “Work About Work” with AI Task Managers",
+      "url": "https://www.smartdatacollective.com/reducing-work-about-work-with-ai-task-managers/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The hidden tax on productivity: Using AI to eliminate the busywork that steals your day.",
+      "tags": []
+    },
+    {
+      "title": "Why Rodent-Resistant Conduits Are Critical for Data Center Uptime",
+      "url": "https://www.smartdatacollective.com/why-rodent-resistant-conduits-are-critical-for-data-center-uptime/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Protecting your data from the ground up: Why rodent-proofing conduits is critical for reliable operations.",
+      "tags": []
+    },
+    {
+      "title": "The Intersection of Big Data and AI in Project Management",
+      "url": "https://www.smartdatacollective.com/intersection-of-big-data-and-ai-in-project-management/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Discover how AI and big data are helping businesses improve project tracking, reduce risks, and increase returns through better decision-making.",
       "tags": []
     }
   ]
