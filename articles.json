@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T08:06:40.179780+00:00",
+  "generated_at": "2026-05-24T08:17:54.493176+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How to Use a Competitive Intelligence Dashboard to Turn Market Data Into Smarter Marketing Decisions",
+      "url": "https://www.smartdatacollective.com/how-use-competitive-intelligence-dashboard-to-turn-market-data-into-smarter-marketing-decisions/",
+      "date": "23 May 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Competitive intelligence and analytics can help businesses improve sales, reduce costs, and respond faster to market changes.",
+      "tags": []
+    },
+    {
       "title": "How Data-Driven Journalists Are Using API News Apps to Improve Reporting",
       "url": "https://www.smartdatacollective.com/how-data-driven-journalists-are-using-api-news-apps-to-improve-reporting/",
       "date": "12 May 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Protecting your data from the ground up: Why rodent-proofing conduits is critical for reliable operations.",
-      "tags": []
-    },
-    {
-      "title": "The Intersection of Big Data and AI in Project Management",
-      "url": "https://www.smartdatacollective.com/intersection-of-big-data-and-ai-in-project-management/",
-      "date": "26 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Discover how AI and big data are helping businesses improve project tracking, reduce risks, and increase returns through better decision-making.",
       "tags": []
     }
   ]
