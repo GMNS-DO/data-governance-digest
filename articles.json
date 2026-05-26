@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T09:50:51.340129+00:00",
+  "generated_at": "2026-05-26T09:37:10.415056+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,57 +489,57 @@
       "tags": []
     },
     {
-      "title": "Easy Agentic Tool Calling with Gemma 4",
-      "url": "https://www.kdnuggets.com/easy-agentic-tool-calling-with-gemma-4",
-      "date": "22 May 2026",
-      "source": "KDnuggets",
+      "title": "The Fintech and Banking Tools Global Entrepreneurs Rely On",
+      "url": "https://www.smartdatacollective.com/fintech-and-banking-tools-global-entrepreneurs-rely-on/",
+      "date": "25 May 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "In this tutorial, we will give Gemma 4 two new tools and watch the model decide, on its own, when to look around and when to compute.",
+      "summary": "Your global business, simplified: A look at the fintech platforms entrepreneurs rely on for speed and scale.",
       "tags": []
     },
     {
-      "title": "System Design Interview Questions: A Handy Collection",
-      "url": "https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection",
-      "date": "21 May 2026",
-      "source": "KDnuggets",
+      "title": "How to Use a Competitive Intelligence Dashboard to Turn Market Data Into Smarter Marketing Decisions",
+      "url": "https://www.smartdatacollective.com/how-use-competitive-intelligence-dashboard-to-turn-market-data-into-smarter-marketing-decisions/",
+      "date": "23 May 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "Ace system design interviews with 10 GitHub repositories packed with fundamentals, proven patterns, and real questions to help you design scalable systems with confidence.",
+      "summary": "Competitive intelligence and analytics can help businesses improve sales, reduce costs, and respond faster to market changes.",
       "tags": []
     },
     {
-      "title": "Best Small Language Models on Hugging Face Right Now!",
-      "url": "https://www.kdnuggets.com/best-small-language-models-on-hugging-face-right-now",
-      "date": "21 May 2026",
-      "source": "KDnuggets",
+      "title": "How Data-Driven Journalists Are Using API News Apps to Improve Reporting",
+      "url": "https://www.smartdatacollective.com/how-data-driven-journalists-are-using-api-news-apps-to-improve-reporting/",
+      "date": "12 May 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "Take a curated look at the best small language models currently available on Hugging Face, what each one is actually good at, the benchmark numbers that back those claims up, and the code to get started with each one.",
+      "summary": "Learn how API news apps and analytics tools help journalists track trends, verify sources, and build stronger stories with data.",
       "tags": []
     },
     {
-      "title": "Anonymizing Production Data for Data Science with Mimesis",
-      "url": "https://www.kdnuggets.com/anonymizing-production-data-for-data-science-with-mimesis",
-      "date": "20 May 2026",
-      "source": "KDnuggets",
+      "title": "How Data-Driven Grocery Recommendations Help Shoppers Eat Better With Less Effort",
+      "url": "https://www.smartdatacollective.com/how-data-driven-grocery-recommendations-help-shoppers-eat-better-with-less-effort/",
+      "date": "06 May 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "Learn how to utilize Python's Mimesis library for anonymizing sensitive production data, based on a step-by-step example to try yourself.",
+      "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
       "tags": []
     },
     {
-      "title": "SQL Window Functions Beyond Basics: Solving Real Business Problems",
-      "url": "https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems",
-      "date": "20 May 2026",
-      "source": "KDnuggets",
+      "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
+      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
+      "date": "29 Apr 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "You know window functions, but do you know how to use them to solve business problems? You will after you read this article.",
+      "summary": "Learn how businesses relying on MySQL can prevent downtime, avoid data corruption, and reduce costly disruptions with practical safeguards",
       "tags": []
     },
     {
-      "title": "10 GitHub Repositories to Master Quant Trading",
-      "url": "https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading",
-      "date": "20 May 2026",
-      "source": "KDnuggets",
+      "title": "Reducing “Work About Work” with AI Task Managers",
+      "url": "https://www.smartdatacollective.com/reducing-work-about-work-with-ai-task-managers/",
+      "date": "26 Apr 2026",
+      "source": "SmartData Collective",
       "section": "news",
-      "summary": "From your first backtest to a real trading system, here are GitHub repos that can seriously level up your quant trading skills fast.",
+      "summary": "The hidden tax on productivity: Using AI to eliminate the busywork that steals your day.",
       "tags": []
     }
   ]
