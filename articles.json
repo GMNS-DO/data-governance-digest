@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T09:30:03.303852+00:00",
+  "generated_at": "2026-05-28T09:46:37.342425+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,11 +211,29 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "How New EU Access to Documents Rules Can Reduce Transparency and Shield Big Tech",
+      "url": "http://privacyinternational.org/long-read/5781/how-new-eu-access-documents-rules-can-reduce-transparency-and-shield-big-tech",
+      "date": "28 May 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "The ILO Convention on decent work in the platform economy",
+      "url": "http://privacyinternational.org/advocacy/5693/ilo-convention-decent-work-platform-economy",
+      "date": "27 May 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -267,24 +285,6 @@
       "title": "Voter Disenfranchisement: A Privacy Issue",
       "url": "http://privacyinternational.org/long-read/5762/voter-disenfranchisement-privacy-issue",
       "date": "17 Apr 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "What is digital fingerprinting: Is my device ever truly anonymous?",
-      "url": "http://privacyinternational.org/explainer/5761/what-digital-fingerprinting-my-device-ever-truly-anonymous",
-      "date": "16 Apr 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Moving Goalposts: Football, Facial Recognition and the Expansion of Surveillance",
-      "url": "http://privacyinternational.org/long-read/5759/moving-goalposts-football-facial-recognition-and-expansion-surveillance",
-      "date": "13 Apr 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
