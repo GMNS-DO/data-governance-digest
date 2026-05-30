@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:36:48.970924+00:00",
+  "generated_at": "2026-05-30T08:17:25.217693+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How AI-Driven Workflows Are Changing the Way Companies Think About Data Risk",
+      "url": "https://www.smartdatacollective.com/how-ai-driven-workflows-are-changing-the-way-companies-think-about-data-risk/",
+      "date": "29 May 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "AI-driven workflows help businesses monitor data risks faster while improving analytics, compliance, and threat detection.",
+      "tags": []
+    },
+    {
       "title": "Why Businesses Outsource AI Product Development Companies",
       "url": "https://www.smartdatacollective.com/why-businesses-outsource-ai-product-development-companies/",
       "date": "26 May 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
-      "tags": []
-    },
-    {
-      "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
-      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
-      "date": "29 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Learn how businesses relying on MySQL can prevent downtime, avoid data corruption, and reduce costly disruptions with practical safeguards",
       "tags": []
     }
   ]
