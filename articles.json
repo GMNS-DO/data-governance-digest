@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:43:49.362841+00:00",
+  "generated_at": "2026-06-05T09:32:13.277579+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -363,6 +363,78 @@
       "tags": []
     },
     {
+      "title": "Kindergarten lessons and 100,000 emails",
+      "url": "https://www.informationbytes.com/2025/08/kindergarten-lessons-and-100000-emails/",
+      "date": "20 Aug 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten, sagely mused [t]hink what a better world it would be if all had a basic policy to always put things back where they found them and to clean up their own mess. So true, throughout our lives, and especially...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 3)",
+      "url": "https://www.informationbytes.com/2025/04/securing-resilient-support-for-your-information-governance-initiative-part-3-2/",
+      "date": "28 Apr 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "As noted in Part 1, attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of todays businesses, executives often use a relevance filter Is what Im asked to support relevant to what drives our organizations success? Will it help move us ahead, or get...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 2)",
+      "url": "https://www.informationbytes.com/2025/03/securing-resilient-support-for-your-information-governance-initiative-part-2-2/",
+      "date": "25 Mar 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1. But to secure resilient management support for an ongoing initiative, youll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic...",
+      "tags": []
+    },
+    {
+      "title": "Securing Resilient Support for Your Information Governance Initiative (Part 1)",
+      "url": "https://www.informationbytes.com/2025/03/securing-resilient-support-for-your-information-governance-initiative-part-1-2/",
+      "date": "10 Mar 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change...",
+      "tags": []
+    },
+    {
+      "title": "Information Governance Day?",
+      "url": "https://www.informationbytes.com/2025/02/information-governance-day/",
+      "date": "20 Feb 2025",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "Apparently, today is Global information Governance Day. I frankly wasnt paying attention, because every day is information governance day here. But no snark is meant by this its good to turn such occasions into a nudge to revisit our perspectives and refocus on our priorities. Our firm’s elephant icon is a nod to The Blind Men...",
+      "tags": []
+    },
+    {
+      "title": "Why my firm doesn’t use generative AI",
+      "url": "https://www.informationbytes.com/2023/11/why-my-firm-doesnt-use-generative-ai/",
+      "date": "27 Nov 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "In my legal work for clients, I'm not content with using AI-generated content.",
+      "tags": []
+    },
+    {
+      "title": "PII Breach Notification Laws: the seas remain choppy",
+      "url": "https://www.informationbytes.com/2023/06/pii-breach-notification-laws-the-seas-remain-choppy/",
+      "date": "08 Jun 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., its time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto...",
+      "tags": []
+    },
+    {
+      "title": "Less Data is Now Even More Than Ever",
+      "url": "https://www.informationbytes.com/2023/05/less-data-is-even-more-than-ever-2/",
+      "date": "08 May 2023",
+      "source": "InformationBytes",
+      "section": "regulation",
+      "summary": "In the real world, what to do has never been as impactful as why to do it. For the 2020s, the newest impetus for managing information retention and disposal is crystal clear - data privacy and security compliance",
+      "tags": []
+    },
+    {
       "title": "Navigating the AI Frontier: Data Governance Controls at SIFIs in 2025",
       "url": "https://blogs.perficient.com/navigating-the-ai-frontier-data-governance-controls-at-sifis-in-2025/",
       "date": "13 Oct 2025",
@@ -468,78 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
-      "tags": []
-    },
-    {
-      "title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
-      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
-      "date": "29 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Learn how businesses relying on MySQL can prevent downtime, avoid data corruption, and reduce costly disruptions with practical safeguards",
-      "tags": []
-    },
-    {
-      "title": "Reducing “Work About Work” with AI Task Managers",
-      "url": "https://www.smartdatacollective.com/reducing-work-about-work-with-ai-task-managers/",
-      "date": "26 Apr 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "The hidden tax on productivity: Using AI to eliminate the busywork that steals your day.",
-      "tags": []
-    },
-    {
-      "title": "How to Write to Files in Python: A Beginner’s Guide",
-      "url": "https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide",
-      "date": "03 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to write, append, and save text, CSV, and JSON files in Python using native file handling tools that work out of the box.",
-      "tags": []
-    },
-    {
-      "title": "5 Fun Papers That Explain LLMs Clearly",
-      "url": "https://www.kdnuggets.com/5-fun-papers-that-explain-llms-clearly",
-      "date": "03 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Want to understand LLMs better? Start with these five foundational papers that explain how they work.",
-      "tags": []
-    },
-    {
-      "title": "A Gentle Primer on LLM Explainability",
-      "url": "https://www.kdnuggets.com/a-gentle-primer-on-llm-explainability",
-      "date": "02 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article discusses LLM explainability and outlines the advances, trends, and ongoing developments in this important field of study.",
-      "tags": []
-    },
-    {
-      "title": "10 GitHub Repositories for Modern Database Systems and Tools",
-      "url": "https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools",
-      "date": "02 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore 10 top open-source GitHub repositories for modern databases, analytics, SQL, caching, monitoring, replication, PostgreSQL, SQLite, and AI agent memory.",
-      "tags": []
-    },
-    {
-      "title": "Mocking a Year of IoT Sensor Time Series Data with Mimesis",
-      "url": "https://www.kdnuggets.com/mocking-a-year-of-iot-sensor-time-series-data-with-mimesis",
-      "date": "01 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "In this guide, you will learn the process of generating a year's worth of daily temperature readings, mimicking a seasonal curve that looks like real &mdash; all together with device-level metadata, and ready to build based on open-source frameworks.",
-      "tags": []
-    },
-    {
-      "title": "5 Must-Know Python Concepts for Data Scientists",
-      "url": "https://www.kdnuggets.com/5-must-know-python-concepts-for-data-scientists",
-      "date": "01 Jun 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "In this article, we will dive deep into five must-know Python concepts that will help you transition from writing clunky, slow spaghetti code to constructing lightning-fast, production-grade, and beautifully functional data pipelines.",
       "tags": []
     }
   ]
