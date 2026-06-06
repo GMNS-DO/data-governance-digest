@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:32:13.277579+00:00",
+  "generated_at": "2026-06-06T08:24:28.722065+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data Analytics Is Reshaping Patient Financing Decisions",
+      "url": "https://www.smartdatacollective.com/how-data-analytics-is-reshaping-patient-financing-decisions/",
+      "date": "05 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The numbers behind affordable care: How analytics is transforming patient financing from stressful to seamless.",
+      "tags": []
+    },
+    {
       "title": "How AI-Driven Workflows Are Changing the Way Companies Think About Data Risk",
       "url": "https://www.smartdatacollective.com/how-ai-driven-workflows-are-changing-the-way-companies-think-about-data-risk/",
       "date": "29 May 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Learn how API news apps and analytics tools help journalists track trends, verify sources, and build stronger stories with data.",
-      "tags": []
-    },
-    {
-      "title": "How Data-Driven Grocery Recommendations Help Shoppers Eat Better With Less Effort",
-      "url": "https://www.smartdatacollective.com/how-data-driven-grocery-recommendations-help-shoppers-eat-better-with-less-effort/",
-      "date": "06 May 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics is helping grocery shoppers find personalized deals, compare prices, and make smarter buying decisions.",
       "tags": []
     }
   ]
