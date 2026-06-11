@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:40:48.809326+00:00",
+  "generated_at": "2026-06-11T10:07:44.775080+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,15 @@
       "tags": []
     },
     {
+      "title": "Bad Vibes: AI coding tools and privacy issues",
+      "url": "http://privacyinternational.org/explainer/5784/bad-vibes-ai-coding-tools-and-privacy-issues",
+      "date": "09 Jun 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "How New EU Access to Documents Rules Can Reduce Transparency and Shield Big Tech",
       "url": "http://privacyinternational.org/long-read/5781/how-new-eu-access-documents-rules-can-reduce-transparency-and-shield-big-tech",
       "date": "28 May 2026",
@@ -276,15 +285,6 @@
       "title": "Dual-use tech: the Lockheed Martin example",
       "url": "http://privacyinternational.org/report/5764/dual-use-tech-lockheed-martin-example",
       "date": "29 Apr 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Voter Disenfranchisement: A Privacy Issue",
-      "url": "http://privacyinternational.org/long-read/5762/voter-disenfranchisement-privacy-issue",
-      "date": "17 Apr 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
