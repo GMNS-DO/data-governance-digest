@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:55:04.533211+00:00",
+  "generated_at": "2026-06-17T10:26:28.049762+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -368,7 +368,7 @@
       "date": "20 Aug 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten, sagely mused [t]hink what a better world it would be if all had a basic policy to always put things back where they found them and to clean up their own mess. So true, throughout our lives, and especially...",
+      "summary": "By Peter Sloan Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten , sagely mused &ldquo;[t]hink what a better world it would be if all ... had a basic policy to always put things back where they found them and to clean up their own mess.&rdquo; So true, throughout our lives, and especially with our data. But alas, too many of us napped through that kindergarten lesson. Consider this. An account associate handled customer service requests at Healthplex, a New York licensed provider of dental insurance management services. This 20-year Healthplex employee also, ov",
       "tags": []
     },
     {
@@ -377,7 +377,7 @@
       "date": "28 Apr 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "As noted in Part 1, attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of todays businesses, executives often use a relevance filter Is what Im asked to support relevant to what drives our organizations success? Will it help move us ahead, or get...",
+      "summary": "By Peter Sloan As noted in Part 1 , attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of today&rsquo;s businesses, executives often use a relevance filter &ndash; &ldquo;Is what I&rsquo;m asked to support relevant to what drives our organization&rsquo;s success? Will it help move us ahead, or get in our way?&rdquo; No matter the anticipated benefits of an IG initiative, if what is proposed does not align with the organization&rsquo;s business model, it will be difficult to demonstrate its relevance, and the ",
       "tags": []
     },
     {
@@ -386,7 +386,7 @@
       "date": "25 Mar 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1. But to secure resilient management support for an ongoing initiative, youll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic...",
+      "summary": "By Peter Sloan Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1 . But to secure resilient management support for an ongoing initiative, you&rsquo;ll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic IG Objectives While a single successful project is fine, higher-level strategic objectives are needed to foster an ongoing information governance initiative. The strategic objec",
       "tags": []
     },
     {
@@ -395,7 +395,7 @@
       "date": "10 Mar 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change...",
+      "summary": "By Peter Sloan Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change will require committed support by management to overcome initial push-back. And because effective Information Governance is an ongoing business process, rather than a one-off project, contin",
       "tags": []
     },
     {
@@ -404,7 +404,7 @@
       "date": "20 Feb 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "Apparently, today is Global information Governance Day. I frankly wasnt paying attention, because every day is information governance day here. But no snark is meant by this its good to turn such occasions into a nudge to revisit our perspectives and refocus on our priorities. Our firm’s elephant icon is a nod to The Blind Men...",
+      "summary": "By Peter Sloan Apparently, today is Global information Governance Day. I frankly wasn&rsquo;t paying attention, because every day is information governance day here. But no snark is meant by this &ndash; it&rsquo;s good to turn such &ldquo;occasions&rdquo; into a nudge to revisit our perspectives and refocus on our priorities. Our firm&rsquo;s elephant icon is a nod to The Blind Men and the Elephant , the familiar, age-old parable for how we often do not see the big picture, but instead only the parts we directly encounter. And so it goes for organizations&rsquo; data. Individual company funct",
       "tags": []
     },
     {
@@ -413,7 +413,7 @@
       "date": "27 Nov 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "In my legal work for clients, I'm not content with using AI-generated content.",
+      "summary": "By Peter Sloan I&rsquo;ve been waiting, and then it arrived, in a client&rsquo;s updated Outside Counsel Guidelines: The Firm and its personnel or subcontractors shall not use any External Generative AI Tools in the performance of any services in relation to a Matter ... or use External Generative AI Tools to generate any deliverable, document or content for [Client], regardless of the intended end use. No problem. We don&rsquo;t use generative AI tools in our client work. Don&rsquo;t get me wrong &ndash; we&rsquo;re not Luddites here, and I&rsquo;m not dreading a Skynet singularity anytime so",
       "tags": []
     },
     {
@@ -422,7 +422,7 @@
       "date": "08 Jun 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., its time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto...",
+      "summary": "By Peter Sloan As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., it&rsquo;s time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto Rico, Guam, and the U.S. Virgin Islands. Each state has its own unique approach. And the states continue to expand their requirements, especially their definitions of what constitutes PII and the timing and content of mandated notificati",
       "tags": []
     },
     {
@@ -431,7 +431,7 @@
       "date": "08 May 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "In the real world, what to do has never been as impactful as why to do it. For the 2020s, the newest impetus for managing information retention and disposal is crystal clear - data privacy and security compliance",
+      "summary": "By Peter Sloan Well, turns out I was both right and wrong in my prediction from two years ago: &ldquo;For the 2020s, the dots already connect clearly &ndash; the new impetus for managing information retention and disposal will be data privacy and security compliance . Buckle up.&rdquo; That prediction is indeed playing out, but far faster than I expected. Again, we&rsquo;ve always known that managing data volumes is prudent for U.S. businesses. But as a matter of pure legal compliance, U.S. federal and state laws have traditionally followed a &ldquo;mandatory minimum&rdquo; retention approach,",
       "tags": []
     },
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Operational Data Becomes Business Value in the Age of AIoT",
+      "url": "https://www.smartdatacollective.com/operational-data-becomes-business-value-in-age-of-aiot/",
+      "date": "16 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Operational data, amplified: How AIoT bridges the gap between sensors and business results.",
+      "tags": []
+    },
+    {
       "title": "How AI Helps Businesses Get More From Social Media",
       "url": "https://www.smartdatacollective.com/how-ai-helps-businesses-get-more-from-social-media/",
       "date": "14 Jun 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Your global business, simplified: A look at the fintech platforms entrepreneurs rely on for speed and scale.",
-      "tags": []
-    },
-    {
-      "title": "How to Use a Competitive Intelligence Dashboard to Turn Market Data Into Smarter Marketing Decisions",
-      "url": "https://www.smartdatacollective.com/how-use-competitive-intelligence-dashboard-to-turn-market-data-into-smarter-marketing-decisions/",
-      "date": "23 May 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Competitive intelligence and analytics can help businesses improve sales, reduce costs, and respond faster to market changes.",
       "tags": []
     }
   ]
