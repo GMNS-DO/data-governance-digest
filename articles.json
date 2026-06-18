@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T10:26:28.049762+00:00",
+  "generated_at": "2026-06-18T10:05:57.087493+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -75,6 +75,15 @@
       "tags": []
     },
     {
+      "title": "The 6 layers of AI governance: A practical AI governance framework",
+      "url": "https://www.lightsondata.com/ai-governance-framework/",
+      "date": "18 Jun 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Artificial intelligence is moving quickly from experimentation to everyday business use.Employees are using AI assistants. Teams are embedding AI into workflows. Vendors are adding AI features into platforms. Leaders are asking how AI can improve productivity, decision-making, customer experience, risk management, and operational efficiency.That creates opportunity.It also creates a very practical governance challenge:How do you [] The post The 6 layers of AI governance: A practical AI governance framework appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
       "title": "How AI Is Reinventing MDM and Data Governance",
       "url": "https://www.lightsondata.com/how-ai-is-reinventing-mdm-and-data-governance/",
       "date": "19 Jan 2026",
@@ -135,15 +144,6 @@
       "source": "LightsOnData",
       "section": "tools",
       "summary": "As we approach 2024, the landscape of data governance is set to undergo transformative changes. This article delves into the anticipated advancements and shifts in data governance, highlighting the integration of AI, the importance of metadata management, the emphasis on data quality and literacy, evolving operating models, and the integration of data warehousing and lake [] The post Data Governance in 2024 appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "5 Steps to Achieve Proactive Data Observability – Explained Over Beers",
-      "url": "https://www.lightsondata.com/5-steps-to-achieve-proactive-data-observability-explained-over-beers/",
-      "date": "27 Sep 2023",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "In the multifaceted realm of data management, aspiring to master proactive data observability often mirrors the meticulous craftsmanship that goes into brewing the quintessential batch of beer. It is a symphonic endeavor that calls for a harmonious blend of varied elements, a craft demanding skill, finesse, and an adept understanding of the underlying balances at [] The post 5 Steps to Achieve Proactive Data Observability Explained Over Beers appeared first on LightsOnData .",
       "tags": []
     },
     {
@@ -219,6 +219,24 @@
       "tags": []
     },
     {
+      "title": "World Food Programme expand Palantir partnership",
+      "url": "http://privacyinternational.org/news-analysis/5789/world-food-programme-expand-palantir-partnership",
+      "date": "17 Jun 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Time to address the human rights implications of AI in the military domain",
+      "url": "http://privacyinternational.org/advocacy/5787/time-address-human-rights-implications-ai-military-domain",
+      "date": "17 Jun 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Bad Vibes: AI coding tools and privacy issues",
       "url": "http://privacyinternational.org/explainer/5784/bad-vibes-ai-coding-tools-and-privacy-issues",
       "date": "09 Jun 2026",
@@ -267,24 +285,6 @@
       "title": "From Big Oil to Big Algorithm: Public Money in Private Models",
       "url": "http://privacyinternational.org/long-read/5767/big-oil-big-algorithm-public-money-private-models",
       "date": "05 May 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Dual-use tech: the BAE Systems example",
-      "url": "http://privacyinternational.org/report/5766/dual-use-tech-bae-systems-example",
-      "date": "29 Apr 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Dual-use tech: the Lockheed Martin example",
-      "url": "http://privacyinternational.org/report/5764/dual-use-tech-lockheed-martin-example",
-      "date": "29 Apr 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -368,7 +368,7 @@
       "date": "20 Aug 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten , sagely mused &ldquo;[t]hink what a better world it would be if all ... had a basic policy to always put things back where they found them and to clean up their own mess.&rdquo; So true, throughout our lives, and especially with our data. But alas, too many of us napped through that kindergarten lesson. Consider this. An account associate handled customer service requests at Healthplex, a New York licensed provider of dental insurance management services. This 20-year Healthplex employee also, ov",
+      "summary": "Robert Fulghum, who brought us All I Really Need to Know I Learned in Kindergarten , sagely mused &ldquo;[t]hink what a better world it would be if all ... had a basic policy to always put things back where they found them and to clean up their own mess.&rdquo; So true, throughout our lives, and especially with our data. But alas, too many of us napped through that kindergarten lesson. Consider this. An account associate handled customer service requests at Healthplex, a New York licensed provider of dental insurance management services. This 20-year Healthplex employee also, over time, accumu",
       "tags": []
     },
     {
@@ -377,7 +377,7 @@
       "date": "28 Apr 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan As noted in Part 1 , attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of today&rsquo;s businesses, executives often use a relevance filter &ndash; &ldquo;Is what I&rsquo;m asked to support relevant to what drives our organization&rsquo;s success? Will it help move us ahead, or get in our way?&rdquo; No matter the anticipated benefits of an IG initiative, if what is proposed does not align with the organization&rsquo;s business model, it will be difficult to demonstrate its relevance, and the ",
+      "summary": "As noted in Part 1 , attention is always in short supply in organizations, and especially so for executive management. Amidst the distractions and complexity of today&rsquo;s businesses, executives often use a relevance filter &ndash; &ldquo;Is what I&rsquo;m asked to support relevant to what drives our organization&rsquo;s success? Will it help move us ahead, or get in our way?&rdquo; No matter the anticipated benefits of an IG initiative, if what is proposed does not align with the organization&rsquo;s business model, it will be difficult to demonstrate its relevance, and the proposed initia",
       "tags": []
     },
     {
@@ -386,7 +386,7 @@
       "date": "25 Mar 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1 . But to secure resilient management support for an ongoing initiative, you&rsquo;ll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic IG Objectives While a single successful project is fine, higher-level strategic objectives are needed to foster an ongoing information governance initiative. The strategic objec",
+      "summary": "Selecting the right initial project(s), determining outcomes and measures, and preparing the business case are important groundwork for your Information Governance initiative, as discussed in Part 1 . But to secure resilient management support for an ongoing initiative, you&rsquo;ll also want to tie the individual projects to strategic objectives for Information Governance at your organization. Strategic IG Objectives While a single successful project is fine, higher-level strategic objectives are needed to foster an ongoing information governance initiative. The strategic objectives connect t",
       "tags": []
     },
     {
@@ -395,7 +395,7 @@
       "date": "10 Mar 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change will require committed support by management to overcome initial push-back. And because effective Information Governance is an ongoing business process, rather than a one-off project, contin",
+      "summary": "Management support is crucial for success with Information Governance initiatives. This is not merely a question of initial project and budget approvals. Most Information Governance initiatives involve behavioral changes in how data is handled, and in many instances, aspects of organizational culture may be impacted. No matter the ultimate benefits, any initiative involving behavioral change will require committed support by management to overcome initial push-back. And because effective Information Governance is an ongoing business process, rather than a one-off project, continuing tone at th",
       "tags": []
     },
     {
@@ -404,7 +404,7 @@
       "date": "20 Feb 2025",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan Apparently, today is Global information Governance Day. I frankly wasn&rsquo;t paying attention, because every day is information governance day here. But no snark is meant by this &ndash; it&rsquo;s good to turn such &ldquo;occasions&rdquo; into a nudge to revisit our perspectives and refocus on our priorities. Our firm&rsquo;s elephant icon is a nod to The Blind Men and the Elephant , the familiar, age-old parable for how we often do not see the big picture, but instead only the parts we directly encounter. And so it goes for organizations&rsquo; data. Individual company funct",
+      "summary": "Apparently, today is Global information Governance Day. I frankly wasn&rsquo;t paying attention, because every day is information governance day here. But no snark is meant by this &ndash; it&rsquo;s good to turn such &ldquo;occasions&rdquo; into a nudge to revisit our perspectives and refocus on our priorities. Our firm&rsquo;s elephant icon is a nod to The Blind Men and the Elephant , the familiar, age-old parable for how we often do not see the big picture, but instead only the parts we directly encounter. And so it goes for organizations&rsquo; data. Individual company functions and depart",
       "tags": []
     },
     {
@@ -413,7 +413,7 @@
       "date": "27 Nov 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan I&rsquo;ve been waiting, and then it arrived, in a client&rsquo;s updated Outside Counsel Guidelines: The Firm and its personnel or subcontractors shall not use any External Generative AI Tools in the performance of any services in relation to a Matter ... or use External Generative AI Tools to generate any deliverable, document or content for [Client], regardless of the intended end use. No problem. We don&rsquo;t use generative AI tools in our client work. Don&rsquo;t get me wrong &ndash; we&rsquo;re not Luddites here, and I&rsquo;m not dreading a Skynet singularity anytime so",
+      "summary": "I&rsquo;ve been waiting, and then it arrived, in a client&rsquo;s updated Outside Counsel Guidelines: The Firm and its personnel or subcontractors shall not use any External Generative AI Tools in the performance of any services in relation to a Matter ... or use External Generative AI Tools to generate any deliverable, document or content for [Client], regardless of the intended end use. No problem. We don&rsquo;t use generative AI tools in our client work. Don&rsquo;t get me wrong &ndash; we&rsquo;re not Luddites here, and I&rsquo;m not dreading a Skynet singularity anytime soon. We&rsquo;re",
       "tags": []
     },
     {
@@ -422,7 +422,7 @@
       "date": "08 Jun 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., it&rsquo;s time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto Rico, Guam, and the U.S. Virgin Islands. Each state has its own unique approach. And the states continue to expand their requirements, especially their definitions of what constitutes PII and the timing and content of mandated notificati",
+      "summary": "As we watch the tsunami of state comprehensive consumer privacy laws now spreading from California across the U.S., it&rsquo;s time to revisit the flood zone of state-level PII breach notification statutes, which also flowed forth from California back in 2002. By 2018 that wave had reached every state, along with the District of Columbia, Puerto Rico, Guam, and the U.S. Virgin Islands. Each state has its own unique approach. And the states continue to expand their requirements, especially their definitions of what constitutes PII and the timing and content of mandated notifications. Changes si",
       "tags": []
     },
     {
@@ -431,7 +431,7 @@
       "date": "08 May 2023",
       "source": "InformationBytes",
       "section": "regulation",
-      "summary": "By Peter Sloan Well, turns out I was both right and wrong in my prediction from two years ago: &ldquo;For the 2020s, the dots already connect clearly &ndash; the new impetus for managing information retention and disposal will be data privacy and security compliance . Buckle up.&rdquo; That prediction is indeed playing out, but far faster than I expected. Again, we&rsquo;ve always known that managing data volumes is prudent for U.S. businesses. But as a matter of pure legal compliance, U.S. federal and state laws have traditionally followed a &ldquo;mandatory minimum&rdquo; retention approach,",
+      "summary": "Well, turns out I was both right and wrong in my prediction from two years ago: &ldquo;For the 2020s, the dots already connect clearly &ndash; the new impetus for managing information retention and disposal will be data privacy and security compliance . Buckle up.&rdquo; That prediction is indeed playing out, but far faster than I expected. Again, we&rsquo;ve always known that managing data volumes is prudent for U.S. businesses. But as a matter of pure legal compliance, U.S. federal and state laws have traditionally followed a &ldquo;mandatory minimum&rdquo; retention approach, requiring that",
       "tags": []
     },
     {
