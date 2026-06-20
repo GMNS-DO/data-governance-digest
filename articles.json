@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:13:05.192908+00:00",
+  "generated_at": "2026-06-20T08:41:39.078900+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,15 @@
       "tags": []
     },
     {
+      "title": "Key highlights of our 2026 results by season",
+      "url": "http://privacyinternational.org/long-read/5790/key-highlights-our-2026-results-season",
+      "date": "19 Jun 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "World Food Programme expand Palantir partnership",
       "url": "http://privacyinternational.org/news-analysis/5789/world-food-programme-expand-palantir-partnership",
       "date": "17 Jun 2026",
@@ -276,15 +285,6 @@
       "title": "Collateral Damage: Grok AI and the Human Cost of Generative AI",
       "url": "http://privacyinternational.org/news-analysis/5770/collateral-damage-grok-ai-and-human-cost-generative-ai",
       "date": "15 May 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "From Big Oil to Big Algorithm: Public Money in Private Models",
-      "url": "http://privacyinternational.org/long-read/5767/big-oil-big-algorithm-public-money-private-models",
-      "date": "05 May 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,12 +489,39 @@
       "tags": []
     },
     {
+      "title": "New Data Analytics Breakthroughs Give eCommerce Startups a Fighting Chance",
+      "url": "https://www.smartdatacollective.com/new-data-analytics-breakthroughs-give-ecommerce-startups-fighting-chance/",
+      "date": "19 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Startup meets strategy: The analytics edge that helps small ecommerce brands punch above their weight.",
+      "tags": []
+    },
+    {
+      "title": "How Data-Driven Businesses Choose Storage That Reduces Risk and Drag",
+      "url": "https://www.smartdatacollective.com/how-data-driven-businesses-choose-storage-that-reduces-risk-and-drag/",
+      "date": "19 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Avoid the storage bottleneck: How the right data infrastructure cuts risk and boosts performance.",
+      "tags": []
+    },
+    {
       "title": "Operational Data Becomes Business Value in the Age of AIoT",
       "url": "https://www.smartdatacollective.com/operational-data-becomes-business-value-in-age-of-aiot/",
       "date": "16 Jun 2026",
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Operational data, amplified: How AIoT bridges the gap between sensors and business results.",
+      "tags": []
+    },
+    {
+      "title": "Growing Smarter: The Role Of Strategic Partnerships From Startup To Scale",
+      "url": "https://www.smartdatacollective.com/growing-smarter-role-of-strategic-partnerships-from-startup-to-scale/",
+      "date": "15 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Climb faster, farther: The critical role of partnerships in moving from early-stage to market leader.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "The numbers behind affordable care: How analytics is transforming patient financing from stressful to seamless.",
-      "tags": []
-    },
-    {
-      "title": "How AI-Driven Workflows Are Changing the Way Companies Think About Data Risk",
-      "url": "https://www.smartdatacollective.com/how-ai-driven-workflows-are-changing-the-way-companies-think-about-data-risk/",
-      "date": "29 May 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI-driven workflows help businesses monitor data risks faster while improving analytics, compliance, and threat detection.",
-      "tags": []
-    },
-    {
-      "title": "Why Businesses Outsource AI Product Development Companies",
-      "url": "https://www.smartdatacollective.com/why-businesses-outsource-ai-product-development-companies/",
-      "date": "26 May 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI product development firms help businesses lower product risks by using data analysis, predictive tools, and customer insights.",
-      "tags": []
-    },
-    {
-      "title": "The Fintech and Banking Tools Global Entrepreneurs Rely On",
-      "url": "https://www.smartdatacollective.com/fintech-and-banking-tools-global-entrepreneurs-rely-on/",
-      "date": "25 May 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Your global business, simplified: A look at the fintech platforms entrepreneurs rely on for speed and scale.",
       "tags": []
     }
   ]
