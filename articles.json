@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:53:56.981769+00:00",
+  "generated_at": "2026-06-25T08:47:54.891935+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,15 @@
       "tags": []
     },
     {
+      "title": "Collateral Damage: Claude Mythos and the Privacy Risks of AI",
+      "url": "http://privacyinternational.org/long-read/5792/collateral-damage-claude-mythos-and-privacy-risks-ai",
+      "date": "24 Jun 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Key highlights of our 2026 results by season",
       "url": "http://privacyinternational.org/long-read/5790/key-highlights-our-2026-results-season",
       "date": "19 Jun 2026",
@@ -275,15 +284,6 @@
     {
       "title": "Privacy International’s submission to the UN High Commissioner for Human Rights on the protection of human rights defenders in the digital age",
       "url": "http://privacyinternational.org/advocacy/5771/privacy-internationals-submission-un-high-commissioner-human-rights-protection-human",
-      "date": "15 May 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Collateral Damage: Grok AI and the Human Cost of Generative AI",
-      "url": "http://privacyinternational.org/news-analysis/5770/collateral-damage-grok-ai-and-human-cost-generative-ai",
       "date": "15 May 2026",
       "source": "Privacy International",
       "section": "regulation",
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Why Every Small Business Should Care About an AI Image Generator",
+      "url": "https://www.smartdatacollective.com/why-every-small-business-should-care-about-an-ai-image-generator/",
+      "date": "24 Jun 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Level up your brand: Why every small business should leverage AI to create stunning, affordable visuals.",
+      "tags": []
+    },
+    {
       "title": "How AI Is Changing Instagram Reel Marketing",
       "url": "https://www.smartdatacollective.com/how-ai-is-changing-instagram-reel-marketing/",
       "date": "23 Jun 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Operational data, amplified: How AIoT bridges the gap between sensors and business results.",
-      "tags": []
-    },
-    {
-      "title": "Growing Smarter: The Role Of Strategic Partnerships From Startup To Scale",
-      "url": "https://www.smartdatacollective.com/growing-smarter-role-of-strategic-partnerships-from-startup-to-scale/",
-      "date": "15 Jun 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Climb faster, farther: The critical role of partnerships in moving from early-stage to market leader.",
       "tags": []
     }
   ]
