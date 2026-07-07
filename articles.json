@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:57:01.765825+00:00",
+  "generated_at": "2026-07-07T09:24:34.249571+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Real Estate Investors Can Use Big Data for Non-QM Lending",
+      "url": "https://www.smartdatacollective.com/how-real-estate-investors-can-use-big-data-for-non-qm-lending/",
+      "date": "06 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Big data helps real estate investors compare markets, assess risk, and make stronger decisions when seeking Non-QM lending.",
+      "tags": []
+    },
+    {
       "title": "How to Build High-Performing Ad Creatives with an AI Short Ad Video Maker?",
       "url": "https://www.smartdatacollective.com/how-build-high-performing-ad-creatives-with-an-ai-short-ad-video-maker/",
       "date": "05 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "AI helps businesses create stronger marketing campaigns, save time, and make better decisions without losing the human touch.",
-      "tags": []
-    },
-    {
-      "title": "How AI Website Chatbots Improve Customer Support and Lead Generation",
-      "url": "https://www.smartdatacollective.com/how-ai-website-chatbots-improve-customer-support-and-lead-generation/",
-      "date": "29 Jun 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI website chatbots help businesses answer customer questions faster while turning more website visitors into qualified leads.",
       "tags": []
     }
   ]
