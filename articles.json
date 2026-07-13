@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T08:00:43.169783+00:00",
+  "generated_at": "2026-07-13T08:49:58.860119+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,42 @@
       "tags": []
     },
     {
+      "title": "Turning Monitoring Data Into Customer-Facing Incident Communication",
+      "url": "https://www.smartdatacollective.com/turning-monitoring-data-into-customer-facing-incident-communication/",
+      "date": "12 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Bridge the gap: Turning system alerts into customer communications that build trust, not confusion.",
+      "tags": []
+    },
+    {
+      "title": "Eliminating Financial Blind Spots With A Business Owner’s Dashboard",
+      "url": "https://www.smartdatacollective.com/eliminating-financial-blind-spots-with-business-owners-dashboard/",
+      "date": "12 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "See your numbers clearly: How a business owner's dashboard eliminates financial blind spots and surprises.",
+      "tags": []
+    },
+    {
+      "title": "Reverse Logistics: Optimizing The Flow Of Returned Goods",
+      "url": "https://www.smartdatacollective.com/reverse-logistics-optimizing-flow-of-returned-goods/",
+      "date": "12 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Returned, not wasted: How efficient reverse logistics recovers value and reduces environmental impact.",
+      "tags": []
+    },
+    {
+      "title": "Mapping Hidden Profit Leaks Across Distribution Operations",
+      "url": "https://www.smartdatacollective.com/mapping-hidden-profit-leaks-across-distribution-operations/",
+      "date": "12 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The invisible drain on profits: Mapping operational inefficiencies that quietly erode your distribution margins.",
+      "tags": []
+    },
+    {
       "title": "How Behavioral Analytics and AI Are Redefining Cybersecurity for Boca Raton Businesses",
       "url": "https://www.smartdatacollective.com/how-behavioral-analytics-and-ai-are-redefining-cybersecurity-for-boca-raton-businesses/",
       "date": "08 Jul 2026",
@@ -504,42 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Data analytics helps healthcare organizations spot risks earlier, improve patient safety, and make better decisions with health data.",
-      "tags": []
-    },
-    {
-      "title": "How Real Estate Investors Can Use Big Data for Non-QM Lending",
-      "url": "https://www.smartdatacollective.com/how-real-estate-investors-can-use-big-data-for-non-qm-lending/",
-      "date": "06 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Big data helps real estate investors compare markets, assess risk, and make stronger decisions when seeking Non-QM lending.",
-      "tags": []
-    },
-    {
-      "title": "How to Build High-Performing Ad Creatives with an AI Short Ad Video Maker?",
-      "url": "https://www.smartdatacollective.com/how-build-high-performing-ad-creatives-with-an-ai-short-ad-video-maker/",
-      "date": "05 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI short ad video makers help brands create, test, and improve video ads faster while keeping campaigns focused on results.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics Improves Customer Service Outsourcing",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-improves-customer-service-outsourcing/",
-      "date": "01 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics helps companies choose better outsourcing partners, track support quality, and improve customer service results.",
-      "tags": []
-    },
-    {
-      "title": "The End of Unstructured Marketing: Forcing Generative AI into Strict HTML Schemas",
-      "url": "https://www.smartdatacollective.com/end-of-unstructured-marketing-forcing-generative-ai-into-strict-html-schemas/",
-      "date": "30 Jun 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "From wild outputs to web-ready results: Why structured data is the new frontier for generative AI marketing.",
       "tags": []
     }
   ]
