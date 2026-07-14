@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:49:58.860119+00:00",
+  "generated_at": "2026-07-14T07:47:47.665248+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,33 @@
       "tags": []
     },
     {
+      "title": "Can AI Help Companies Improve PPC Fulfilment?",
+      "url": "https://www.smartdatacollective.com/can-ai-help-companies-improve-ppc-fulfilment/",
+      "date": "13 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "AI helps companies manage PPC fulfilment by supporting ad testing, campaign updates, reporting, and client-focused decisions.",
+      "tags": []
+    },
+    {
+      "title": "How AI Helps Companies Adapt to Fulfillment Strategy Changes",
+      "url": "https://www.smartdatacollective.com/how-ai-helps-companies-adapt-to-fulfillment-strategy-changes/",
+      "date": "13 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "AI helps companies respond faster when clients change fulfillment plans, shipping needs, inventory rules, or warehouse demands.",
+      "tags": []
+    },
+    {
+      "title": "How Data Analytics Improves Multi-Location Search Strategies",
+      "url": "https://www.smartdatacollective.com/how-data-analytics-improves-multi-location-search-strategies/",
+      "date": "13 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Data analytics helps companies with multiple locations improve search visibility, compare markets, and attract more local customers.",
+      "tags": []
+    },
+    {
       "title": "Turning Monitoring Data Into Customer-Facing Incident Communication",
       "url": "https://www.smartdatacollective.com/turning-monitoring-data-into-customer-facing-incident-communication/",
       "date": "12 Jul 2026",
@@ -513,33 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Returned, not wasted: How efficient reverse logistics recovers value and reduces environmental impact.",
-      "tags": []
-    },
-    {
-      "title": "Mapping Hidden Profit Leaks Across Distribution Operations",
-      "url": "https://www.smartdatacollective.com/mapping-hidden-profit-leaks-across-distribution-operations/",
-      "date": "12 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "The invisible drain on profits: Mapping operational inefficiencies that quietly erode your distribution margins.",
-      "tags": []
-    },
-    {
-      "title": "How Behavioral Analytics and AI Are Redefining Cybersecurity for Boca Raton Businesses",
-      "url": "https://www.smartdatacollective.com/how-behavioral-analytics-and-ai-are-redefining-cybersecurity-for-boca-raton-businesses/",
-      "date": "08 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Defending Boca's digital future: The role of AI-driven behavioral analytics in modern cybersecurity.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics Is Changing Healthcare Risk Management",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-is-changing-healthcare-risk-management/",
-      "date": "08 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics helps healthcare organizations spot risks earlier, improve patient safety, and make better decisions with health data.",
       "tags": []
     }
   ]
