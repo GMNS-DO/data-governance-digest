@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:47:47.665248+00:00",
+  "generated_at": "2026-07-15T07:51:09.992498+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How Data Analytics Helps Companies Improve User Engagement",
+      "url": "https://www.smartdatacollective.com/how-data-analytics-helps-companies-improve-user-engagement/",
+      "date": "14 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Data analytics helps companies understand user behavior, improve online experiences, and turn more visitors into loyal customers.",
+      "tags": []
+    },
+    {
       "title": "Can AI Help Companies Improve PPC Fulfilment?",
       "url": "https://www.smartdatacollective.com/can-ai-help-companies-improve-ppc-fulfilment/",
       "date": "13 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "See your numbers clearly: How a business owner's dashboard eliminates financial blind spots and surprises.",
-      "tags": []
-    },
-    {
-      "title": "Reverse Logistics: Optimizing The Flow Of Returned Goods",
-      "url": "https://www.smartdatacollective.com/reverse-logistics-optimizing-flow-of-returned-goods/",
-      "date": "12 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Returned, not wasted: How efficient reverse logistics recovers value and reduces environmental impact.",
       "tags": []
     }
   ]
