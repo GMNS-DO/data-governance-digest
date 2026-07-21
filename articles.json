@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:41:22.358869+00:00",
+  "generated_at": "2026-07-21T08:08:49.129240+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "When Data-Driven Businesses Must Recover Data from USB Drives",
+      "url": "https://www.smartdatacollective.com/when-data-driven-businesses-must-recover-data-from-usb-drives/",
+      "date": "20 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "USB drives still help data-driven businesses store, move, and recover files used for analytics, reporting, and planning.",
+      "tags": []
+    },
+    {
       "title": "How Cloud Technology Helps IT Asset Recovery Services",
       "url": "https://www.smartdatacollective.com/how-cloud-technology-helps-it-asset-recovery-services/",
       "date": "16 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Data analytics helps companies with multiple locations improve search visibility, compare markets, and attract more local customers.",
-      "tags": []
-    },
-    {
-      "title": "Turning Monitoring Data Into Customer-Facing Incident Communication",
-      "url": "https://www.smartdatacollective.com/turning-monitoring-data-into-customer-facing-incident-communication/",
-      "date": "12 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Bridge the gap: Turning system alerts into customer communications that build trust, not confusion.",
       "tags": []
     }
   ]
