@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:08:49.129240+00:00",
+  "generated_at": "2026-07-22T08:09:07.504246+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "As Vehicles Get Smarter, Cybersecurity Threats Intensify",
+      "url": "https://www.smartdatacollective.com/as-vehicles-get-smarter-cybersecurity-threats-intensify/",
+      "date": "21 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "More tech, more risk: How advancing vehicle intelligence is fueling a rise in cybersecurity attacks.",
+      "tags": []
+    },
+    {
       "title": "When Data-Driven Businesses Must Recover Data from USB Drives",
       "url": "https://www.smartdatacollective.com/when-data-driven-businesses-must-recover-data-from-usb-drives/",
       "date": "20 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "AI helps companies respond faster when clients change fulfillment plans, shipping needs, inventory rules, or warehouse demands.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics Improves Multi-Location Search Strategies",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-improves-multi-location-search-strategies/",
-      "date": "13 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics helps companies with multiple locations improve search visibility, compare markets, and attract more local customers.",
       "tags": []
     }
   ]
