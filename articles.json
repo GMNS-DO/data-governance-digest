@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:09:07.504246+00:00",
+  "generated_at": "2026-07-23T08:12:27.675364+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "How AI Helps Companies Find Dedicated Development Teams",
+      "url": "https://www.smartdatacollective.com/how-ai-helps-companies-find-dedicated-development-teams/",
+      "date": "22 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "AI helps businesses compare dedicated development team companies, improve software planning, and choose stronger vendor partners.",
+      "tags": []
+    },
+    {
       "title": "As Vehicles Get Smarter, Cybersecurity Threats Intensify",
       "url": "https://www.smartdatacollective.com/as-vehicles-get-smarter-cybersecurity-threats-intensify/",
       "date": "21 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "AI helps companies manage PPC fulfilment by supporting ad testing, campaign updates, reporting, and client-focused decisions.",
-      "tags": []
-    },
-    {
-      "title": "How AI Helps Companies Adapt to Fulfillment Strategy Changes",
-      "url": "https://www.smartdatacollective.com/how-ai-helps-companies-adapt-to-fulfillment-strategy-changes/",
-      "date": "13 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI helps companies respond faster when clients change fulfillment plans, shipping needs, inventory rules, or warehouse demands.",
       "tags": []
     }
   ]
