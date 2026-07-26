@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:51:10.118175+00:00",
+  "generated_at": "2026-07-26T08:09:13.242687+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -157,7 +157,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -166,7 +166,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -184,7 +184,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -193,7 +193,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -489,6 +489,42 @@
       "tags": []
     },
     {
+      "title": "What Is Fine Tuning AI Models And When Should You Actually Do It?",
+      "url": "https://www.smartdatacollective.com/what-is-fine-tuning-ai-models-and-when-should-you-actually-do-it/",
+      "date": "25 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Learn when fine-tuning makes AI more reliable, specialized, and useful for real business workflows.",
+      "tags": []
+    },
+    {
+      "title": "Industrial IoT (IIoT) Implementation: A Step-by-Step Guide for Manufacturers",
+      "url": "https://www.smartdatacollective.com/industrial-iot-iiot-implementation-guide/",
+      "date": "25 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A practical, five-step roadmap to connect legacy factory equipment, secure OT networks, and scale smart manufacturing safely.",
+      "tags": []
+    },
+    {
+      "title": "How Does Data Mining Boost Customer Satisfaction in Logistics? Harnessing Analytics for Results",
+      "url": "https://www.smartdatacollective.com/how-does-data-mining-boost-customer-satisfaction-in-logistics-harnessing-analytics-for-results/",
+      "date": "25 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Transform raw supply chain metrics into reliable, customer-first delivery experiences.",
+      "tags": []
+    },
+    {
+      "title": "Top 20 Git Commands for Modern Development",
+      "url": "https://www.smartdatacollective.com/top-20-git-commands-for-modern-development/",
+      "date": "25 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Explore the indispensable Git commands that power modern development and collaborative workflows.",
+      "tags": []
+    },
+    {
       "title": "Why MDR Is Essential for Big Data Security",
       "url": "https://www.smartdatacollective.com/why-mdr-is-essential-for-big-data-security/",
       "date": "24 Jul 2026",
@@ -504,42 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "AI helps businesses compare dedicated development team companies, improve software planning, and choose stronger vendor partners.",
-      "tags": []
-    },
-    {
-      "title": "As Vehicles Get Smarter, Cybersecurity Threats Intensify",
-      "url": "https://www.smartdatacollective.com/as-vehicles-get-smarter-cybersecurity-threats-intensify/",
-      "date": "21 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "More tech, more risk: How advancing vehicle intelligence is fueling a rise in cybersecurity attacks.",
-      "tags": []
-    },
-    {
-      "title": "When Data-Driven Businesses Must Recover Data from USB Drives",
-      "url": "https://www.smartdatacollective.com/when-data-driven-businesses-must-recover-data-from-usb-drives/",
-      "date": "20 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "USB drives still help data-driven businesses store, move, and recover files used for analytics, reporting, and planning.",
-      "tags": []
-    },
-    {
-      "title": "How Cloud Technology Helps IT Asset Recovery Services",
-      "url": "https://www.smartdatacollective.com/how-cloud-technology-helps-it-asset-recovery-services/",
-      "date": "16 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Cloud technology helps companies track IT assets, protect sensitive data, improve recovery records, and reduce cyber risks.",
-      "tags": []
-    },
-    {
-      "title": "How Data Analytics Helps Companies Improve User Engagement",
-      "url": "https://www.smartdatacollective.com/how-data-analytics-helps-companies-improve-user-engagement/",
-      "date": "14 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analytics helps companies understand user behavior, improve online experiences, and turn more visitors into loyal customers.",
       "tags": []
     }
   ]
