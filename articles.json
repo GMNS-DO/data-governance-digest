@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:09:13.242687+00:00",
+  "generated_at": "2026-07-27T09:32:20.223492+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "11 Best AI Tools for Critical Thinking in Research",
+      "url": "https://www.smartdatacollective.com/best-ai-tools-for-critical-thinking-in-research/",
+      "date": "26 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Discover 11 AI tools that help researchers question claims, evaluate evidence, uncover gaps, and think more critically.",
+      "tags": []
+    },
+    {
+      "title": "Top 7 GTM Intelligence Tools with MCP Integration in 2026",
+      "url": "https://www.smartdatacollective.com/top-gtm-intelligence-tools-with-mcp-integration-in-2026/",
+      "date": "26 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Discover the top MCP-powered GTM intelligence tools helping revenue teams turn real-time buyer context into action.",
+      "tags": []
+    },
+    {
       "title": "What Is Fine Tuning AI Models And When Should You Actually Do It?",
       "url": "https://www.smartdatacollective.com/what-is-fine-tuning-ai-models-and-when-should-you-actually-do-it/",
       "date": "25 Jul 2026",
@@ -522,24 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Explore the indispensable Git commands that power modern development and collaborative workflows.",
-      "tags": []
-    },
-    {
-      "title": "Why MDR Is Essential for Big Data Security",
-      "url": "https://www.smartdatacollective.com/why-mdr-is-essential-for-big-data-security/",
-      "date": "24 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Managed Detection and Response helps companies monitor big data environments, find threats faster, and reduce security risks.",
-      "tags": []
-    },
-    {
-      "title": "How AI Helps Companies Find Dedicated Development Teams",
-      "url": "https://www.smartdatacollective.com/how-ai-helps-companies-find-dedicated-development-teams/",
-      "date": "22 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "AI helps businesses compare dedicated development team companies, improve software planning, and choose stronger vendor partners.",
       "tags": []
     }
   ]
