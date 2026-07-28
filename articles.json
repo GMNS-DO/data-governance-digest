@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:32:20.223492+00:00",
+  "generated_at": "2026-07-28T08:14:52.957008+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Comparing 5 Top Compliance Training Providers for Large Businesses",
+      "url": "https://www.smartdatacollective.com/comparing-top-compliance-training-providers-for-large-businesses/",
+      "date": "27 Jul 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Five leading compliance training providers are compared on scalability, engagement, integrations, reporting and enterprise support.",
+      "tags": []
+    },
+    {
       "title": "11 Best AI Tools for Critical Thinking in Research",
       "url": "https://www.smartdatacollective.com/best-ai-tools-for-critical-thinking-in-research/",
       "date": "26 Jul 2026",
@@ -531,15 +540,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Transform raw supply chain metrics into reliable, customer-first delivery experiences.",
-      "tags": []
-    },
-    {
-      "title": "Top 20 Git Commands for Modern Development",
-      "url": "https://www.smartdatacollective.com/top-20-git-commands-for-modern-development/",
-      "date": "25 Jul 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Explore the indispensable Git commands that power modern development and collaborative workflows.",
       "tags": []
     }
   ]
