@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:22:32.015761+00:00",
+  "generated_at": "2026-08-04T08:21:58.343776+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "Cryptocurrency Payments for Businesses: Key Features to Look for in a Payment Solution",
+      "url": "https://www.smartdatacollective.com/cryptocurrency-payments-for-businesses-key-features-to-look-for-payment-solution/",
+      "date": "03 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "The right cryptocurrency payment solution comes down to who controls the wallets (custodial vs. self-hosted), which coins and stablecoins it supports, and whether its security controls and integrations actually fit your existing financial systems.",
+      "tags": []
+    },
+    {
+      "title": "4 Core Benefits of Predictive Maintenance after Vibration Analysis",
+      "url": "https://www.smartdatacollective.com/core-benefits-of-predictive-maintenance-after-vibration-analysis/",
+      "date": "03 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Predictive analytics helps companies use vibration analysis to reduce downtime, lower costs, improve safety, and protect equipment.",
+      "tags": []
+    },
+    {
       "title": "Evaluating Construction Scheduling Software for Better Data Visualization and Project Decisions",
       "url": "https://www.smartdatacollective.com/evaluating-construction-scheduling-software-for-better-data-visualization-and-project-decisions/",
       "date": "31 Jul 2026",
@@ -471,21 +489,21 @@
       "tags": []
     },
     {
-      "title": "How Does Data Mining Boost Customer Satisfaction in Logistics? Harnessing Analytics for Results",
-      "url": "https://www.smartdatacollective.com/how-does-data-mining-boost-customer-satisfaction-in-logistics-harnessing-analytics-for-results/",
-      "date": "25 Jul 2026",
-      "source": "SmartData Collective",
+      "title": "Does MiniMax Agent Actually Make Work Easier?",
+      "url": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
+      "date": "03 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Transform raw supply chain metrics into reliable, customer-first delivery experiences.",
+      "summary": "Read about MiniMax's own architecture, and see how it runs a real task against the actual API. Learn the pieces of the MiniMax story that weren't covered in the launch post.",
       "tags": []
     },
     {
-      "title": "Top 20 Git Commands for Modern Development",
-      "url": "https://www.smartdatacollective.com/top-20-git-commands-for-modern-development/",
-      "date": "25 Jul 2026",
-      "source": "SmartData Collective",
+      "title": "A Guide to Saving Token Usage with Multi-Agent AI",
+      "url": "https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai",
+      "date": "03 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Explore the indispensable Git commands that power modern development and collaborative workflows.",
+      "summary": "Scaling up and streamlining a multi-agent architecture doesn't necessarily entail escalated costs if you know how to properly implement these four strategies for saving token usage.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Claude Design is a research preview under Anthropic Labs, powered by Claude Opus' vision capability, generating interactive prototypes with working navigation, embedded video, voice input, and 3D elements.",
-      "tags": []
-    },
-    {
-      "title": "7 Machine Learning Algorithms That Still Matter",
-      "url": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
-      "date": "30 Jul 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Discover 7 essential machine learning algorithms that every data scientist should know before reaching for LLMs and generative AI, with simple explanations and practical Python code.",
-      "tags": []
-    },
-    {
-      "title": "What Professionals Should Know About Data Science and AI, According to Harvard Business School Online",
-      "url": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
-      "date": "29 Jul 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn why clear business goals, data quality, simple models, careful validation, realistic costs, and human judgment matter more than chasing the latest technology.",
       "tags": []
     }
   ]
