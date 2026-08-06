@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:18:14.375190+00:00",
+  "generated_at": "2026-08-06T08:15:58.435776+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Best Age Estimation Software in 2026: Which Facial Age Providers Actually Hold Up",
+      "url": "https://www.smartdatacollective.com/best-age-estimation-software-in-2026-which-facial-age-providers-actually-hold-up/",
+      "date": "05 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A practical comparison of facial age estimation providers, focusing on independently validated accuracy, demographic bias, and fallback checks at legal age thresholds.",
+      "tags": []
+    },
+    {
       "title": "Top 8 Multi-Cloud Architecture Tools for Automated Infrastructure Design in 2026",
       "url": "https://www.smartdatacollective.com/multi-cloud-architecture-tools-for-automated-infrastructure-design-in-2026/",
       "date": "04 Aug 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "8 Best Postgres CDC Tools and Software for Real-Time Replication in 2026",
-      "url": "https://www.smartdatacollective.com/best-postgres-cdc-tools-software-for-real-time-replication/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "Getting Started with GitHub Agentic Workflows",
+      "url": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
+      "date": "05 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "These top Postgres CDC tools help engineering teams maintain low-latency real-time replication without overloading production databases.",
+      "summary": "GitHub Agentic Workflows are in public preview. Find out all about them here.",
+      "tags": []
+    },
+    {
+      "title": "Turn Any CSV into an Executive Report with Python and AI",
+      "url": "https://www.kdnuggets.com/turn-any-csv-into-an-executive-report-with-python-and-ai",
+      "date": "05 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn to implement a repeatable pipeline that cleans a CSV, finds the story, and writes it up.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Read about MiniMax's own architecture, and see how it runs a real task against the actual API. Learn the pieces of the MiniMax story that weren't covered in the launch post.",
-      "tags": []
-    },
-    {
-      "title": "A Guide to Saving Token Usage with Multi-Agent AI",
-      "url": "https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai",
-      "date": "03 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Scaling up and streamlining a multi-agent architecture doesn't necessarily entail escalated costs if you know how to properly implement these four strategies for saving token usage.",
-      "tags": []
-    },
-    {
-      "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
-      "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
-      "date": "01 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A Beginner's Guide to Working with Claude Design • 5 Best AI Tools for Data Analysis You Should Try in 2026 • 5 Books That Will Deepen Your Understanding of Large Language Models • Is KimiClaw a Useful Tool?",
       "tags": []
     }
   ]
