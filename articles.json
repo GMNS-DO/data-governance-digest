@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:11:57.616157+00:00",
+  "generated_at": "2026-08-11T06:49:21.880148+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,33 @@
       "tags": []
     },
     {
+      "title": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+      "url": "https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing",
+      "date": "10 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Briefing\" walks through the components every real agentic system is built from.",
+      "tags": []
+    },
+    {
+      "title": "Specification Engineering: The New Skill After Prompt Engineering",
+      "url": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
+      "date": "10 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work.",
+      "tags": []
+    },
+    {
+      "title": "Top 10 AI Influencers of 2026",
+      "url": "https://www.kdnuggets.com/top-10-ai-influencers-of-2026",
+      "date": "10 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow and why.",
+      "tags": []
+    },
+    {
       "title": "Small Language Models with Hugging Face transformers Library + smolLM3",
       "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
       "date": "07 Aug 2026",
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
-      "tags": []
-    },
-    {
-      "title": "The Minimal AI Engineer Toolkit for 2026",
-      "url": "https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026",
-      "date": "06 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Discover the six essential tools AI engineers need in 2026 to build and deploy production-grade autonomous systems.",
-      "tags": []
-    },
-    {
-      "title": "7 Best Web Crawling Tools and APIs in 2026",
-      "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026",
-      "date": "06 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn about the best web crawling tools for collecting website content, crawling subpages, generating clean web data, and powering AI agents.",
-      "tags": []
-    },
-    {
-      "title": "Getting Started with GitHub Agentic Workflows",
-      "url": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
-      "date": "05 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "GitHub Agentic Workflows are in public preview. Find out all about them here.",
       "tags": []
     }
   ]
