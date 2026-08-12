@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:49:21.880148+00:00",
+  "generated_at": "2026-08-12T07:08:54.307295+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -147,6 +147,15 @@
       "tags": []
     },
     {
+      "title": "Lack of transparency and national guidelines mark the expansion of facial recognition in brazilian education",
+      "url": "http://privacyinternational.org/key-resources/5851/lack-transparency-and-national-guidelines-mark-expansion-facial-recognition",
+      "date": "11 Aug 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Humanless Resources? Uncovering AI recruitment software",
       "url": "http://privacyinternational.org/long-read/5798/humanless-resources-uncovering-ai-recruitment-software",
       "date": "09 Jul 2026",
@@ -204,15 +213,6 @@
       "title": "Time to address the human rights implications of AI in the military domain",
       "url": "http://privacyinternational.org/advocacy/5787/time-address-human-rights-implications-ai-military-domain",
       "date": "17 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Bad Vibes: AI coding tools and privacy issues",
-      "url": "http://privacyinternational.org/explainer/5784/bad-vibes-ai-coding-tools-and-privacy-issues",
-      "date": "09 Jun 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "What Your Brand Misses That Data Reveals",
+      "url": "https://www.smartdatacollective.com/what-brand-misses-that-data-reveals/",
+      "date": "11 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Customer experience analytics connects feedback, behavior, and operations to expose where everyday interactions undermine your brand promise.",
+      "tags": []
+    },
+    {
+      "title": "5 Common Mistakes Businesses Make During the Risk Assessment Process",
+      "url": "https://www.smartdatacollective.com/common-mistakes-businesses-make-during-risk-assessment-process/",
+      "date": "11 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A sound risk assessment stays current, uses clear scoring, and ties every treatment decision to an accountable owner, budget, and audit trail.",
+      "tags": []
+    },
+    {
       "title": "Best Age Estimation Software in 2026: Which Facial Age Providers Actually Hold Up",
       "url": "https://www.smartdatacollective.com/best-age-estimation-software-in-2026-which-facial-age-providers-actually-hold-up/",
       "date": "05 Aug 2026",
@@ -471,21 +489,21 @@
       "tags": []
     },
     {
-      "title": "7 Best Knowledge Management Systems for Call Centers [2026 Comparison]",
-      "url": "https://www.smartdatacollective.com/best-knowledge-management-systems-for-call-centers-2026-comparison/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "The Ultimate Guide to Contributing to Open Source Projects",
+      "url": "https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects",
+      "date": "11 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "This 2026 comparison evaluates seven call center knowledge management systems for AI search, governance, guided workflows, and omnichannel support.",
+      "summary": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actually respond to you, the exact git mechanics, and more.",
       "tags": []
     },
     {
-      "title": "Top 5 FIPS-Validated and STIG-Hardened Image Providers in 2026",
-      "url": "https://www.smartdatacollective.com/top-fips-validated-and-stig-hardened-image-providers/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+      "url": "https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition",
+      "date": "11 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A practical comparison of five FIPS-validated, STIG-hardened container image providers for reducing compliance and supply-chain risk in regulated deployments.",
+      "summary": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Running a 70B model in production is expensive, and for many tasks, unnecessary. If you're building a focused pipeline, a well-trained 3B model will match or beat the 70B on your specific task at a fraction of the cost.",
-      "tags": []
-    },
-    {
-      "title": "5 Free Courses to Learn Modern AI and LLMs",
-      "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
-      "date": "07 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to use generative AI at work, build RAG and agentic apps, fine-tune models, work with the Hugging Face ecosystem, and prototype AI products with hands-on resources.",
-      "tags": []
-    },
-    {
-      "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
-      "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
-      "date": "06 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
       "tags": []
     }
   ]
