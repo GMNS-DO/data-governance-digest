@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:08:54.307295+00:00",
+  "generated_at": "2026-08-13T07:13:13.731505+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,11 +139,20 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "The Play That Taught Garissa Its Rights",
+      "url": "http://privacyinternational.org/long-read/5852/play-taught-garissa-its-rights",
+      "date": "11 Aug 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -203,15 +212,6 @@
     {
       "title": "World Food Programme expand Palantir partnership",
       "url": "http://privacyinternational.org/news-analysis/5789/world-food-programme-expand-palantir-partnership",
-      "date": "17 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Time to address the human rights implications of AI in the military domain",
-      "url": "http://privacyinternational.org/advocacy/5787/time-address-human-rights-implications-ai-military-domain",
       "date": "17 Jun 2026",
       "source": "Privacy International",
       "section": "regulation",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "How Great Content Moves Through A Marketing Ecosystem",
+      "url": "https://www.smartdatacollective.com/content-marketing-ecosystem/",
+      "date": "12 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A content marketing ecosystem relies on audience data and unified analytics to turn published assets into measurable revenue.",
+      "tags": []
+    },
+    {
       "title": "What Your Brand Misses That Data Reveals",
       "url": "https://www.smartdatacollective.com/what-brand-misses-that-data-reveals/",
       "date": "11 Aug 2026",
@@ -432,6 +441,24 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "A sound risk assessment stays current, uses clear scoring, and ties every treatment decision to an accountable owner, budget, and audit trail.",
+      "tags": []
+    },
+    {
+      "title": "Protecting Brand Reputation During Digital Expansion",
+      "url": "https://www.smartdatacollective.com/brand-reputation-management-digital-expansion/",
+      "date": "10 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Tech founders protect their brand reputation during digital expansion by backing executive messaging with verified operational data and consistent metrics.",
+      "tags": []
+    },
+    {
+      "title": "Building a Reliable Data Governance Foundation for Digital Expansion",
+      "url": "https://www.smartdatacollective.com/data-governance-marketing-strategy/",
+      "date": "09 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Strong data governance and quality management protects brand reputation during digital expansion by eliminating duplicate records and unifying customer communications.",
       "tags": []
     },
     {
@@ -462,30 +489,21 @@
       "tags": []
     },
     {
-      "title": "6 Best Runtime Intelligence Tools for Debugging AI-Generated Code in 2026",
-      "url": "https://www.smartdatacollective.com/runtime-intelligence-tools-for-debugging-ai-generated-code-2026/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "Building an End-to-End Data Science Portfolio Project",
+      "url": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
+      "date": "12 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "These six runtime intelligence tools show where AI-generated code succeeds or fails under real production traffic, giving agents and engineers the context to fix it.",
+      "summary": "Most portfolios stop at a notebook. Take yours all the way.",
       "tags": []
     },
     {
-      "title": "KYC Verification Vendors Using Network Intelligence to Detect Coordinated Fraud",
-      "url": "https://www.smartdatacollective.com/kyc-verification-vendors-using-network-intelligence-to-detect-coordinated-fraud/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "5 Easy Ways to Install Python on Windows",
+      "url": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
+      "date": "12 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Network intelligence is becoming a key differentiator in KYC, helping vendors catch coordinated fraud that single-session checks miss.",
-      "tags": []
-    },
-    {
-      "title": "The Leading 10 AI Drug Discovery & Development Platforms",
-      "url": "https://www.smartdatacollective.com/leading-ai-drug-discovery-development-platforms/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A practical comparison of 10 AI drug discovery platforms that combine biological data, molecular design, and lab feedback to prioritize stronger candidates earlier.",
+      "summary": "Learn how to install Python on Windows using the Python Install Manager, WinGet, uv, Miniconda, or the official Python installer, and choose the best setup for beginners and Python development.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work.",
-      "tags": []
-    },
-    {
-      "title": "Top 10 AI Influencers of 2026",
-      "url": "https://www.kdnuggets.com/top-10-ai-influencers-of-2026",
-      "date": "10 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow and why.",
-      "tags": []
-    },
-    {
-      "title": "Small Language Models with Hugging Face transformers Library + smolLM3",
-      "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
-      "date": "07 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Running a 70B model in production is expensive, and for many tasks, unnecessary. If you're building a focused pipeline, a well-trained 3B model will match or beat the 70B on your specific task at a fraction of the cost.",
       "tags": []
     }
   ]
