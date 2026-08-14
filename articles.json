@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:13:13.731505+00:00",
+  "generated_at": "2026-08-14T07:09:55.434731+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Building a Streaming Local AI Agent",
+      "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
+      "date": "13 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
+      "tags": []
+    },
+    {
+      "title": "Constraining Output Space for SLM Narrow Automation Optimization",
+      "url": "https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization",
+      "date": "13 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniques for doing so: constraining the output space instead of parsing generated text.",
+      "tags": []
+    },
+    {
       "title": "Building an End-to-End Data Science Portfolio Project",
       "url": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
       "date": "12 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations.",
-      "tags": []
-    },
-    {
-      "title": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
-      "url": "https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing",
-      "date": "10 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Briefing\" walks through the components every real agentic system is built from.",
-      "tags": []
-    },
-    {
-      "title": "Specification Engineering: The New Skill After Prompt Engineering",
-      "url": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
-      "date": "10 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work.",
       "tags": []
     }
   ]
