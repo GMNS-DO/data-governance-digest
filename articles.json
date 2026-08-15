@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:09:55.434731+00:00",
+  "generated_at": "2026-08-15T06:21:13.200536+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,15 @@
       "tags": []
     },
     {
+      "title": "Webinar -How to Evaluated AI Use Cases",
+      "url": "https://www.merudata.com/single-post/webinar-how-to-evaluated-ai-use-cases",
+      "date": "14 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "In this episode, Priya Keshav and Reena Bajowala discuss simplifying for success in AI. Priya Keshav is the founder and owner of Meru Data, where she helps organizations worldwide simplify and sustain privacy and AI governance programs. Reena Bajowala brings deep experience in AI, cybersecurity, and privacy, advising clients on evaluating AI risks, implementing mitigations, and building compliant governance frameworks. In this episode, they discuss how in-house counsel should evaluate new AI...",
+      "tags": []
+    },
+    {
       "title": "Webinar Audio - Navigating the Evolving Privacy Enforcement Landscape and AdTech: Practical Tips for Compliance",
       "url": "https://www.merudata.com/single-post/webinar-audio-navigating-the-evolving-privacy-enforcement-landscape-and-adtech-practical-tips-for",
       "date": "21 Nov 2025",
@@ -279,15 +288,6 @@
       "source": "Merudata Blog",
       "section": "news",
       "summary": "Explore how to use generative AI safely and effectively in business. Meru Data CEO Priya Keshav discusses AI risks, regulations, and governance strategies to ensure compliance. Approved by the IAPP for CPE credits.",
-      "tags": []
-    },
-    {
-      "title": "Takeaways from key cases of Generative AI lawsuits",
-      "url": "https://www.merudata.com/single-post/takeaways-from-key-cases-of-generative-ai-lawsuits",
-      "date": "15 May 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "As generative AI becomes integral to business, legal challenges are emerging. This article explores major lawsuits—against OpenAI, Microsoft, GitHub, and Stability AI—highlighting the need for transparency, legal data use, and respecting copyrights. These cases offer key lessons for companies integrating AI responsibly.",
       "tags": []
     },
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "How Search Engine Indexing Lags Behind Large-Scale Website Domain Migrations",
+      "url": "https://www.smartdatacollective.com/zlibrary-official-domain-indexing-latency/",
+      "date": "14 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Search engine indexing latency and web crawling delays create temporary gaps in search results when online platforms transition to new domains.",
+      "tags": []
+    },
+    {
       "title": "How Great Content Moves Through A Marketing Ecosystem",
       "url": "https://www.smartdatacollective.com/content-marketing-ecosystem/",
       "date": "12 Aug 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "6 Top Agentic SDLC Platforms for Enterprise Engineering Organizations",
-      "url": "https://www.smartdatacollective.com/top-agentic-sdlc-platforms-for-enterprise-engineering-organizations/",
-      "date": "04 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "How to Build a Simple AI Web Scraper with Python",
+      "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
+      "date": "14 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "These six agentic SDLC platforms help enterprise teams govern AI agents across planning, delivery, operations, and compliance without sacrificing human accountability.",
+      "summary": "Turn any webpage into a lightweight LLM-powered QA engine by cleaning HTML, converting content to Markdown, and returning focused answers while reducing token usage.",
+      "tags": []
+    },
+    {
+      "title": "5 Fun Agentic AI Papers to Read",
+      "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
+      "date": "14 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "If you read only five papers on AI agents, make them these.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how to install Python on Windows using the Python Install Manager, WinGet, uv, Miniconda, or the official Python installer, and choose the best setup for beginners and Python development.",
-      "tags": []
-    },
-    {
-      "title": "The Ultimate Guide to Contributing to Open Source Projects",
-      "url": "https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects",
-      "date": "11 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actually respond to you, the exact git mechanics, and more.",
-      "tags": []
-    },
-    {
-      "title": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
-      "url": "https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition",
-      "date": "11 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations.",
       "tags": []
     }
   ]
