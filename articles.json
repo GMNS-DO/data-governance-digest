@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:34:29.407380+00:00",
+  "generated_at": "2026-08-18T06:26:02.684188+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -219,6 +219,60 @@
       "tags": []
     },
     {
+      "title": "Navigating AI and Privacy in Employment",
+      "url": "https://www.merudata.com/single-post/navigating-ai-and-privacy-in-employment",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "As businesses rapidly integrate AI into everyday operations, legal risk assessments are often struggling to keep pace. This creates growing challenges at the intersection of employment law, privacy, data protection, and emerging AI regulations. In this webinar, Priya Keshav, Founder CEO of Meru Data, along with Deepa Menon and Hannah Wilkins, Partners at Eversheds Sutherland, shared practical insights on navigating the evolving legal, privacy, and employment-related challenges associated...",
+      "tags": []
+    },
+    {
+      "title": "Children's Data and App Store Accountability Laws",
+      "url": "https://www.merudata.com/single-post/children-s-data-and-app-store-accountability-laws",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Children’s privacy is rapidly evolving beyond traditional COPPA compliance. New state laws, expanding FTC enforcement, age assurance requirements, and app store accountability measures are reshaping how businesses manage data related to minors and teens. In this episode of Simplifying for Success, Priya Keshav, Founder and CEO of Meru Data, is joined by Nerissa Coyle McGinn, Partner at Loeb Loeb LLP, to discuss the changing regulatory landscape and what businesses need to do to prepare....",
+      "tags": []
+    },
+    {
+      "title": "From Planning to Proof: Navigating the New CCPA Risk Assessment Requirements",
+      "url": "https://www.merudata.com/single-post/from-planning-to-proof-navigating-the-new-ccpa-risk-assessment-requirements",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Recent updates to the CCPA Regulations establish clear standards for conducting privacy risk assessments, introducing new obligations around timing, documentation, executive oversight, and ongoing review. For many organizations, these requirements represent a significant shift from informal privacy reviews to structured, auditable compliance processes. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Jennifer Sheridan, Founder of JLSheridan Law, will break down: When risk...",
+      "tags": []
+    },
+    {
+      "title": "Cyber Security Audits Under CCPA: Key Requirements and Best Practices",
+      "url": "https://www.merudata.com/single-post/cyber-security-audits-under-ccpa-key-requirements-and-best-practices",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "California’s updated CCPA regulations raised the bar for privacy and security governance, introducing phased cybersecurity audit obligations for qualifying businesses beginning in 2026. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Austin Manes, Privacy Counsel at Herbert Smith Freehills Kramer LLP, provide a practical understanding of what these requirements mean, how to determine whether your organization may be affected, and how to prepare for compliance. Topics...",
+      "tags": []
+    },
+    {
+      "title": "Navigating the California Delete Act and DROP System: How to Prepare",
+      "url": "https://www.merudata.com/single-post/navigating-the-california-delete-act-and-drop-system-how-to-prepare",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "The California Delete Act and the Data Rights Online Portal (DROP) system introduce new compliance requirements for businesses managing consumer data and privacy requests. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Jordan L. Fischer, Founder Managing Partner of Fischer Law LLC, discuss the implications of this legislation and what organizations need to know to prepare for the evolving regulatory landscape. As privacy regulations continue to expand, organizations must...",
+      "tags": []
+    },
+    {
+      "title": "Federal Trade Commission Enforcement and Settlement: Real-World Impacts on Company Data Retention Programs",
+      "url": "https://www.merudata.com/single-post/federal-trade-commission-enforcement-and-settlement-real-world-impacts-on-company-data-retention-pr",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "The Federal Trade Commission’s recent settlements and enforcement actions are redefining how organizations handle data consent and retention. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and James A. Sherer, Partner at Baker Hostetler LLP, examine the real‑world implications of these developments for corporate data retention programs. The conversation highlights what companies need to do to align their retention practices with evolving regulatory expectations while still...",
+      "tags": []
+    },
+    {
       "title": "Webinar -How to Evaluated AI Use Cases",
       "url": "https://www.merudata.com/single-post/webinar-how-to-evaluated-ai-use-cases",
       "date": "14 Aug 2026",
@@ -234,60 +288,6 @@
       "source": "Merudata Blog",
       "section": "news",
       "summary": "Listen to Meru Data's podcast on the rapidly evolving privacy enforcement landscape and AdTech compliance. Learn about the CPPA’s action against Tractor Supply, the new multi-state privacy consortium, and practical steps to strengthen your privacy program. Featuring insights from Priya Keshav and Sundeep Kapur, this IAPP-approved session offers clear guidance for navigating rising regulatory risks.",
-      "tags": []
-    },
-    {
-      "title": "Webinar Audio - Cross Border Privacy Rules (CBPR): A Comprehensive Overview",
-      "url": "https://www.merudata.com/single-post/webinar-audio-cross-border-privacy-rules-cbpr-a-comprehensive-overview",
-      "date": "11 Nov 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "Listen to Meru Data’s podcast on the Cross Border Privacy Rules (CBPR) system — a global framework enabling secure, compliant cross-border data transfers. Experts from Meru Data, BBB National Programs, and OpenSpace discuss the evolution, benefits, and certification process of CBPR, and how it aligns with international privacy laws. Approved by IAPP for CPE credits.",
-      "tags": []
-    },
-    {
-      "title": "Webinar Audio - Conversation with Shannon Yavorsky and Priya Keshav.",
-      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-shannon-yavorsky-and-priya-keshav",
-      "date": "07 Oct 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "In this episode, Priya Keshav and Shannon Yavorsky dive into the evolving world of AI governance and regulation. They discuss how organizations can design effective governance frameworks to align AI initiatives with core values, ensure transparency and accountability, and stay compliant with global regulations. Tune in to learn strategies that promote responsible AI adoption and help businesses turn compliance into a competitive advantage.",
-      "tags": []
-    },
-    {
-      "title": "Webinar Audio - Conversation with David Zetoony and Priya Keshav.",
-      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-david-zetoony-and-priya-keshav",
-      "date": "22 Jul 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "In this episode, Meru Data's Priya Keshav and privacy expert David A. Zetoony explore how to effectively conduct PIAs and DPIAs. They discuss best practices, regulatory requirements, risk mitigation, automation challenges, and tips for creating robust, defensible documentation. Whether you're new to privacy assessments or refining your current process, this conversation offers practical guidance to improve your approach.",
-      "tags": []
-    },
-    {
-      "title": "Navigating Privacy and other Risks: The Challenges of Agentic AI in Retail",
-      "url": "https://www.merudata.com/single-post/navigating-privacy-and-other-risks-the-challenges-of-agentic-ai-in-retail",
-      "date": "17 Jun 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "Agentic AI is transforming retail with personalized shopping, smart inventory, and dynamic pricing—but it brings major challenges. From data privacy and cybersecurity risks to ethical concerns and system integration, retailers must address these issues to harness AI’s full potential responsibly.",
-      "tags": []
-    },
-    {
-      "title": "Use of Cameras in Retail Locations",
-      "url": "https://www.merudata.com/single-post/use-of-cameras-in-retail-locations",
-      "date": "16 Jun 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "Retailers are increasingly using cameras for training, safety, and theft prevention, but these systems raise privacy concerns. Regulators like CNIL and the UK ICO stress the need for GDPR compliance, including transparency, data minimization, and clear safeguards. Augmented cameras, especially at self-checkouts, must be used carefully, with privacy-respecting practices and proper legal justifications.",
-      "tags": []
-    },
-    {
-      "title": "Webinar Audio - How to Govern Generative AI Models.",
-      "url": "https://www.merudata.com/single-post/webinar-audio-conversation-with-priya-keshav-4",
-      "date": "21 May 2025",
-      "source": "Merudata Blog",
-      "section": "news",
-      "summary": "Explore how to use generative AI safely and effectively in business. Meru Data CEO Priya Keshav discusses AI risks, regulations, and governance strategies to ensure compliance. Approved by the IAPP for CPE credits.",
       "tags": []
     },
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "What Can I Actually Do with a Small Language Model?",
+      "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
+      "date": "17 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "But by keeping these limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
+      "tags": []
+    },
+    {
+      "title": "5 Python Libraries That Make Data Cleaning More Enjoyable",
+      "url": "https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable",
+      "date": "17 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This article covers five Python libraries that turn tedious data cleaning into something expressive and genuinely enjoyable.",
+      "tags": []
+    },
+    {
       "title": "How to Build a Simple AI Web Scraper with Python",
       "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
       "date": "14 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniques for doing so: constraining the output space instead of parsing generated text.",
-      "tags": []
-    },
-    {
-      "title": "Building an End-to-End Data Science Portfolio Project",
-      "url": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
-      "date": "12 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Most portfolios stop at a notebook. Take yours all the way.",
-      "tags": []
-    },
-    {
-      "title": "5 Easy Ways to Install Python on Windows",
-      "url": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
-      "date": "12 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to install Python on Windows using the Python Install Manager, WinGet, uv, Miniconda, or the official Python installer, and choose the best setup for beginners and Python development.",
       "tags": []
     }
   ]
