@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:26:02.684188+00:00",
+  "generated_at": "2026-08-19T06:26:50.463353+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
+      "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
+      "date": "18 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Download Ollama, pull and serve Qwen3.8-27B, and launch it with OpenCode using just three command lines.",
+      "tags": []
+    },
+    {
+      "title": "5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong",
+      "url": "https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong",
+      "date": "18 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Is vibe coding the future of programming or a shortcut to bad code? Let’s look at what it gets right and wrong.",
+      "tags": []
+    },
+    {
       "title": "What Can I Actually Do with a Small Language Model?",
       "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
       "date": "17 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "If you read only five papers on AI agents, make them these.",
-      "tags": []
-    },
-    {
-      "title": "Building a Streaming Local AI Agent",
-      "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
-      "date": "13 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
-      "tags": []
-    },
-    {
-      "title": "Constraining Output Space for SLM Narrow Automation Optimization",
-      "url": "https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization",
-      "date": "13 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniques for doing so: constraining the output space instead of parsing generated text.",
       "tags": []
     }
   ]
