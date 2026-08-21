@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:28:14.784555+00:00",
+  "generated_at": "2026-08-21T06:29:33.094187+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "How to Build a Career in AI: 3 Distinct Pathways",
+      "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
+      "date": "20 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
+      "tags": []
+    },
+    {
+      "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+      "url": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+      "date": "20 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
+      "tags": []
+    },
+    {
       "title": "How to Answer AI System Design Interview Questions",
       "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
       "date": "19 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Is vibe coding the future of programming or a shortcut to bad code? Let’s look at what it gets right and wrong.",
-      "tags": []
-    },
-    {
-      "title": "What Can I Actually Do with a Small Language Model?",
-      "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
-      "date": "17 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "But by keeping these limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
-      "tags": []
-    },
-    {
-      "title": "5 Python Libraries That Make Data Cleaning More Enjoyable",
-      "url": "https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable",
-      "date": "17 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article covers five Python libraries that turn tedious data cleaning into something expressive and genuinely enjoyable.",
       "tags": []
     }
   ]
