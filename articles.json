@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:29:33.094187+00:00",
+  "generated_at": "2026-08-22T06:22:49.057177+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+      "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+      "date": "21 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
+      "tags": []
+    },
+    {
+      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
+      "url": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
+      "date": "21 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
+      "tags": []
+    },
+    {
       "title": "How to Build a Career in AI: 3 Distinct Pathways",
       "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
       "date": "20 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "This article walks through five tools, one for each layer of the stack from building the agent's logic to running all of it at scale.",
-      "tags": []
-    },
-    {
-      "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
-      "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
-      "date": "18 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Download Ollama, pull and serve Qwen3.8-27B, and launch it with OpenCode using just three command lines.",
-      "tags": []
-    },
-    {
-      "title": "5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong",
-      "url": "https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong",
-      "date": "18 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Is vibe coding the future of programming or a shortcut to bad code? Let’s look at what it gets right and wrong.",
       "tags": []
     }
   ]
