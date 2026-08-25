@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:37:28.426531+00:00",
+  "generated_at": "2026-08-25T06:29:27.489202+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "How to Leverage Local Small Language Models for Your Projects",
+      "url": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
+      "date": "24 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered applications.",
+      "tags": []
+    },
+    {
+      "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6",
+      "url": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
+      "date": "24 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Use Grok Build to create a production-ready data science workflow with EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.",
+      "tags": []
+    },
+    {
       "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
       "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
       "date": "21 Aug 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
-      "tags": []
-    },
-    {
-      "title": "How to Answer AI System Design Interview Questions",
-      "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
-      "date": "19 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "The interview moved from Design YouTube to Design ChatGPT. Here's the framework.",
-      "tags": []
-    },
-    {
-      "title": "5 Tools for Building and Deploying AI Agents in Production",
-      "url": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
-      "date": "19 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article walks through five tools, one for each layer of the stack from building the agent's logic to running all of it at scale.",
       "tags": []
     }
   ]
