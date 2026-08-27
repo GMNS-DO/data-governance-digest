@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:31:12.831185+00:00",
+  "generated_at": "2026-08-27T17:07:16.040552+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "Using Safety Metrics and Incident Data to Reduce Construction Risk and Insurance Costs",
+      "url": "https://www.smartdatacollective.com/construction-project-risk-management/",
+      "date": "27 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Accurate safety metrics and incident data help contractors match coverage to project risk, lower insurance costs, and strengthen bids.",
+      "tags": []
+    },
+    {
+      "title": "How Business Intelligence Can Help Small Businesses Build Better Decision Rules",
+      "url": "https://www.smartdatacollective.com/business-intelligence-decision-rules/",
+      "date": "27 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Business intelligence turns recurring patterns in inventory, invoices, and costs into clear decision rules that prompt faster, more consistent action.",
+      "tags": []
+    },
+    {
       "title": "Stellar Repair for MS SQL Review: Can It Repair SQL Databases?",
       "url": "https://www.smartdatacollective.com/stellar-repair-ms-sql-review/",
       "date": "25 Aug 2026",
@@ -471,21 +489,30 @@
       "tags": []
     },
     {
-      "title": "Building a Reliable Data Governance Foundation for Digital Expansion",
-      "url": "https://www.smartdatacollective.com/data-governance-marketing-strategy/",
-      "date": "09 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "What We Can Learn From Google Engineers’ Indispensible Prompts",
+      "url": "https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts",
+      "date": "27 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Strong data governance and quality management protects brand reputation during digital expansion by eliminating duplicate records and unifying customer communications.",
+      "summary": "Hey, Google Engineers: What prompt do you personally refuse to work without, and why?",
       "tags": []
     },
     {
-      "title": "Best Age Estimation Software in 2026: Which Facial Age Providers Actually Hold Up",
-      "url": "https://www.smartdatacollective.com/best-age-estimation-software-in-2026-which-facial-age-providers-actually-hold-up/",
-      "date": "05 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "Understanding the Impact of AI on Job Markets",
+      "url": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
+      "date": "26 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A practical comparison of facial age estimation providers, focusing on independently validated accuracy, demographic bias, and fallback checks at legal age thresholds.",
+      "summary": "Explore five distinct ways AI is reshaping jobs, from automating routine tasks to thinning entry-level hiring.",
+      "tags": []
+    },
+    {
+      "title": "10 Rules for Getting Better Results from AI Coding Agents",
+      "url": "https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents",
+      "date": "26 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Everyone's using AI coding agents. Here's how to make yours actually useful.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Kimi Agent is a name that's come to cover a sprawling family, and untangling it matters before judging any piece of it.",
-      "tags": []
-    },
-    {
-      "title": "How to Leverage Local Small Language Models for Your Projects",
-      "url": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
-      "date": "24 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered applications.",
-      "tags": []
-    },
-    {
-      "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6",
-      "url": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
-      "date": "24 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Use Grok Build to create a production-ready data science workflow with EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.",
-      "tags": []
-    },
-    {
-      "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
-      "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
-      "date": "21 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
       "tags": []
     }
   ]
