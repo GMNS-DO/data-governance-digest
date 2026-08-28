@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:07:16.040552+00:00",
+  "generated_at": "2026-08-28T17:54:35.635349+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Best VMware Alternatives in Thailand for Private Cloud and HCI Deployments",
+      "url": "https://www.smartdatacollective.com/vmware-virtualization-alternatives-thailand/",
+      "date": "27 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Thai enterprises can compare VMware alternatives for private cloud and HCI deployments based on platform fit, migration risk, cost, and local support.",
+      "tags": []
+    },
+    {
       "title": "Using Safety Metrics and Incident Data to Reduce Construction Risk and Insurance Costs",
       "url": "https://www.smartdatacollective.com/construction-project-risk-management/",
       "date": "27 Aug 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "Protecting Brand Reputation During Digital Expansion",
-      "url": "https://www.smartdatacollective.com/brand-reputation-management-digital-expansion/",
-      "date": "10 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "The Local AI Stack for Productive SLMs",
+      "url": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
+      "date": "28 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Tech founders protect their brand reputation during digital expansion by backing executive messaging with verified operational data and consistent metrics.",
+      "summary": "A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval.",
+      "tags": []
+    },
+    {
+      "title": "Quantization and Pruning Methods to Make Your LLM Leaner",
+      "url": "https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner",
+      "date": "28 Aug 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This article walks through what each technique actually does, why skipping them costs real money and real latency, and then gets hands-on with five specific methods people are running in production right now.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "If you're responsible for turning data and AI strategy into enterprise reality, this is a conversation worth being part of.",
-      "tags": []
-    },
-    {
-      "title": "Python Data Classes Beyond the Boilerplate",
-      "url": "https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate",
-      "date": "25 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how Python dataclasses go beyond reducing boilerplate with custom fields, validation, computed attributes, immutability, and memory optimization techniques.",
-      "tags": []
-    },
-    {
-      "title": "I Tried Kimi Agent and Here’s What I Found",
-      "url": "https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
-      "date": "25 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Kimi Agent is a name that's come to cover a sprawling family, and untangling it matters before judging any piece of it.",
       "tags": []
     }
   ]
