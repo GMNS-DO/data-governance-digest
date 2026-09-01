@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:11:27.839259+00:00",
+  "generated_at": "2026-09-01T10:48:04.114622+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "How Local Service Businesses Can Map Which Neighborhoods Generate the Most Revenue",
+      "url": "https://www.smartdatacollective.com/local-service-business-revenue-maps/",
+      "date": "28 Aug 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Revenue mapping compares paid invoices, job volume, and crew time by neighborhood to reveal where local service work is most profitable.",
+      "tags": []
+    },
+    {
       "title": "Best VMware Alternatives in Thailand for Private Cloud and HCI Deployments",
       "url": "https://www.smartdatacollective.com/vmware-virtualization-alternatives-thailand/",
       "date": "27 Aug 2026",
@@ -480,12 +489,12 @@
       "tags": []
     },
     {
-      "title": "5 Common Mistakes Businesses Make During the Risk Assessment Process",
-      "url": "https://www.smartdatacollective.com/common-mistakes-businesses-make-during-risk-assessment-process/",
-      "date": "11 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
+      "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+      "date": "31 Aug 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A sound risk assessment stays current, uses clear scoring, and ties every treatment decision to an accountable owner, budget, and audit trail.",
+      "summary": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
       "tags": []
     },
     {
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Explore five distinct ways AI is reshaping jobs, from automating routine tasks to thinning entry-level hiring.",
-      "tags": []
-    },
-    {
-      "title": "10 Rules for Getting Better Results from AI Coding Agents",
-      "url": "https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents",
-      "date": "26 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Everyone's using AI coding agents. Here's how to make yours actually useful.",
       "tags": []
     }
   ]
