@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:12:46.670856+00:00",
+  "generated_at": "2026-09-03T10:24:42.782788+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,33 @@
       "tags": []
     },
     {
+      "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
+      "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
+      "date": "02 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
+      "tags": []
+    },
+    {
+      "title": "This Python Library Can Run Pandas Workloads Up to 20x Faster",
+      "url": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
+      "date": "02 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x faster DataFrame performance in our benchmark.",
+      "tags": []
+    },
+    {
+      "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
+      "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
+      "date": "02 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
+      "tags": []
+    },
+    {
       "title": "Free Transcription with Speakr",
       "url": "https://www.kdnuggets.com/free-transcription-with-speakr",
       "date": "01 Sep 2026",
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
-      "tags": []
-    },
-    {
-      "title": "7 Python Mistakes Beginners Make (And What to Do Instead)",
-      "url": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
-      "date": "31 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "It's about the mistakes that make a running program wrong. Below are seven of them. For each one you get the hidden cause, plus the first thing worth checking.",
-      "tags": []
-    },
-    {
-      "title": "The Local AI Stack for Productive SLMs",
-      "url": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
-      "date": "28 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval.",
-      "tags": []
-    },
-    {
-      "title": "Quantization and Pruning Methods to Make Your LLM Leaner",
-      "url": "https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner",
-      "date": "28 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article walks through what each technique actually does, why skipping them costs real money and real latency, and then gets hands-on with five specific methods people are running in production right now.",
       "tags": []
     }
   ]
