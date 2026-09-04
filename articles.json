@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:24:42.782788+00:00",
+  "generated_at": "2026-09-04T10:11:15.434336+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time",
+      "url": "https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time",
+      "date": "03 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The review pass fixed a row count and approved two wrong conclusions.",
+      "tags": []
+    },
+    {
+      "title": "5 Free Courses to Go From LLM Beginner to Practitioner",
+      "url": "https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner",
+      "date": "03 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A curated, linear pipeline of high-signal free resources that takes you from backpropagation basics to deploying production-grade LLM applications.",
+      "tags": []
+    },
+    {
       "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
       "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
       "date": "02 Sep 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "How to set up, use, and get the most out of a private, self-hosted transcription platform with full control over where your audio goes",
-      "tags": []
-    },
-    {
-      "title": "7 Common Python Mistakes to Avoid in AI Workflows",
-      "url": "https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows",
-      "date": "01 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A clean run proves the process executed. It says nothing about what the pipeline learned, from which rows, in what state, or whether the saved result can be trusted anywhere else.",
-      "tags": []
-    },
-    {
-      "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
-      "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
-      "date": "31 Aug 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
       "tags": []
     }
   ]
