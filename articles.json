@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T09:40:18.532134+00:00",
-  "article_count": 60,
+  "generated_at": "2026-09-06T09:55:33.160183+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,83 +139,11 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
-      "tags": []
-    },
-    {
-      "title": "The Play That Taught Garissa Its Rights",
-      "url": "http://privacyinternational.org/long-read/5852/play-taught-garissa-its-rights",
-      "date": "11 Aug 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Lack of transparency and national guidelines mark the expansion of facial recognition in brazilian education",
-      "url": "http://privacyinternational.org/key-resources/5851/lack-transparency-and-national-guidelines-mark-expansion-facial-recognition",
-      "date": "11 Aug 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Humanless Resources? Uncovering AI recruitment software",
-      "url": "http://privacyinternational.org/long-read/5798/humanless-resources-uncovering-ai-recruitment-software",
-      "date": "09 Jul 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "When algorithms go to war",
-      "url": "http://privacyinternational.org/report/5796/when-algorithms-go-war",
-      "date": "29 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI’s submission to the UN Working Group on the Use of Mercenaries",
-      "url": "http://privacyinternational.org/advocacy/5795/pis-submission-un-working-group-use-mercenaries",
-      "date": "29 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Collateral Damage: Claude Mythos and the Privacy Risks of AI",
-      "url": "http://privacyinternational.org/long-read/5792/collateral-damage-claude-mythos-and-privacy-risks-ai",
-      "date": "24 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Key highlights of our 2026 results by season",
-      "url": "http://privacyinternational.org/long-read/5790/key-highlights-our-2026-results-season",
-      "date": "19 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "World Food Programme expand Palantir partnership",
-      "url": "http://privacyinternational.org/news-analysis/5789/world-food-programme-expand-palantir-partnership",
-      "date": "17 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
       "tags": []
     },
     {
@@ -417,6 +345,15 @@
       "tags": []
     },
     {
+      "title": "8 MCP Tools for Market and Consumer Intelligence Workflows",
+      "url": "https://www.smartdatacollective.com/consumer-intelligence-mcp-toolbox/",
+      "date": "05 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "No single MCP tool does it all: the right stack combines search, extraction, cited synthesis, workflow control, and verified consumer data.",
+      "tags": []
+    },
+    {
       "title": "How Local Service Businesses Can Map Which Neighborhoods Generate the Most Revenue",
       "url": "https://www.smartdatacollective.com/local-service-business-revenue-maps/",
       "date": "28 Aug 2026",
@@ -480,15 +417,6 @@
       "tags": []
     },
     {
-      "title": "What Your Brand Misses That Data Reveals",
-      "url": "https://www.smartdatacollective.com/what-brand-misses-that-data-reveals/",
-      "date": "11 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Customer experience analytics connects feedback, behavior, and operations to expose where everyday interactions undermine your brand promise.",
-      "tags": []
-    },
-    {
       "title": "Switchyard: NVIDIA’s Open Source Routing Library",
       "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
       "date": "04 Sep 2026",
@@ -540,6 +468,24 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x faster DataFrame performance in our benchmark.",
+      "tags": []
+    },
+    {
+      "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
+      "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
+      "date": "02 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
+      "tags": []
+    },
+    {
+      "title": "Free Transcription with Speakr",
+      "url": "https://www.kdnuggets.com/free-transcription-with-speakr",
+      "date": "01 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "How to set up, use, and get the most out of a private, self-hosted transcription platform with full control over where your audio goes",
       "tags": []
     }
   ]
