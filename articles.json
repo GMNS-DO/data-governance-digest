@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:04:14.081871+00:00",
+  "generated_at": "2026-09-08T10:18:13.835039+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "How Digital Knowledge Repositories Facilitate Self-Directed Research and Information Discovery",
+      "url": "https://www.smartdatacollective.com/z-library-wiki-knowledge-repositories/",
+      "date": "07 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Digital knowledge repositories give independent researchers direct access to specialized literature, making structured self-directed study possible outside traditional academic institutions.",
+      "tags": []
+    },
+    {
+      "title": "7 MDR Providers Combining Offensive Security Testing With 24/7 Monitoring",
+      "url": "https://www.smartdatacollective.com/mdr-providers-offensive-security-testing/",
+      "date": "07 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Top MDR providers link offensive security testing directly to 24/7 monitoring so simulated attacks immediately update your live detection rules.",
+      "tags": []
+    },
+    {
       "title": "The Information Governance Practices That High-Demand Social Work Roles Require",
       "url": "https://www.smartdatacollective.com/healthcare-data-breaches-governance/",
       "date": "06 Sep 2026",
@@ -468,24 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Business intelligence turns recurring patterns in inventory, invoices, and costs into clear decision rules that prompt faster, more consistent action.",
-      "tags": []
-    },
-    {
-      "title": "Stellar Repair for MS SQL Review: Can It Repair SQL Databases?",
-      "url": "https://www.smartdatacollective.com/stellar-repair-ms-sql-review/",
-      "date": "25 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Stellar Repair for MS SQL helps administrators recover lost objects and rebuild corrupted SQL databases when native server tools fail.",
-      "tags": []
-    },
-    {
-      "title": "How Search Engine Indexing Lags Behind Large-Scale Website Domain Migrations",
-      "url": "https://www.smartdatacollective.com/zlibrary-official-domain-indexing-latency/",
-      "date": "14 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Search engine indexing latency and web crawling delays create temporary gaps in search results when online platforms transition to new domains.",
       "tags": []
     },
     {
