@@ -1,79 +1,7 @@
 {
-  "generated_at": "2026-09-08T10:18:13.835039+00:00",
-  "article_count": 60,
+  "generated_at": "2026-09-09T10:26:28.683466+00:00",
+  "article_count": 54,
   "articles": [
-    {
-      "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
-      "url": "https://www.lightsondata.com/human-in-the-loop-ai-agentic-ai-governance/",
-      "date": "10 Jul 2026",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Agentic AI is moving faster than most organizations' ability to govern it. Vendors are shipping autonomous agents that can reason, plan, and act without a person approving each step. Boards are asking for an AI strategy. And in the middle of that rush, a phrase keeps getting repeated as if it settles the matter: \"we'll [] The post Human in the Loop AI: Why Its Often Just a Checkbox appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "The 6 layers of AI governance: A practical AI governance framework",
-      "url": "https://www.lightsondata.com/ai-governance-framework/",
-      "date": "18 Jun 2026",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Artificial intelligence is moving quickly from experimentation to everyday business use.Employees are using AI assistants. Teams are embedding AI into workflows. Vendors are adding AI features into platforms. Leaders are asking how AI can improve productivity, decision-making, customer experience, risk management, and operational efficiency.That creates opportunity.It also creates a very practical governance challenge:How do you [] The post The 6 layers of AI governance: A practical AI governance framework appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "How AI Is Reinventing MDM and Data Governance",
-      "url": "https://www.lightsondata.com/how-ai-is-reinventing-mdm-and-data-governance/",
-      "date": "19 Jan 2026",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Artificial intelligence is reshaping how organizations work with data, not just at the analytics layer, but much deeper in how data is defined, governed, and operationalized. While much of the attention is on new capabilities such as automation and generative insights, a more foundational shift is taking place. AI is bringing renewed focus to the [] The post How AI Is Reinventing MDM and Data Governance appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling",
-      "url": "https://www.lightsondata.com/fsa-mebs-enterprise-modeling/",
-      "date": "08 Dec 2025",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "For decades, organizations have been trying to model themselves clearly enough to build reliable, scalable, and future‑proof information systems. Yet despite thousands of methodologies, tools, and standards, we still see the same symptoms everywhere:Fragmented dataEndless integration projectsCompeting semantics and mismatched modelsHigh IT cost for low business agilityIf we step back, it becomes obvious: we’ve never [] The post From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "Optimizing retail operations through a practical data strategy",
-      "url": "https://www.lightsondata.com/optimizing-retail-operations-through-a-practical-data-strategy/",
-      "date": "26 Aug 2025",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Given the pace of change in the retail sector, impactful decisions can be a competitive advantage, but many organizations are still in the dark. They're not operating with actionable insights... trusting their gut to make decisions while keeping data in a silo. The solution? An all-inclusive data strategy that makes sense for the organization.This article [] The post Optimizing retail operations through a practical data strategy appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "Transforming Marketing Data into Business Growth: Key Insights and Strategies",
-      "url": "https://www.lightsondata.com/transforming-marketing-data-into-business-growth-key-insights-and-strategies/",
-      "date": "15 Dec 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Marketing leaders and data professionals often grapple with a familiar challenge: how to transform marketing data into tangible business growth. During a recent episode of The Lights on Data Show, I had the privilege of speaking with Kasper Bossen-Rasmussen, founder and CEO of Accutics, about this very topic. Together, we explored key takeaways for addressing [] The post Transforming Marketing Data into Business Growth: Key Insights and Strategies appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "The future of generative AI’s form factor",
-      "url": "https://www.lightsondata.com/the-future-of-generative-ais-form-factor/",
-      "date": "30 Sep 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "How to Become a Data Science Freelancer",
-      "url": "https://www.lightsondata.com/how-to-become-a-data-science-freelancer/",
-      "date": "18 Jan 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Entering the world of freelance as a data professional offers freedom, diversity in projects, and the thrill of entrepreneurship. But how does one transition from a traditional job to a successful freelance career in the data field? Insights from an experienced freelance data consultant shed light on this journey. Table Of Contents 1Key Skills and [] The post How to Become a Data Science Freelancer appeared first on LightsOnData .",
-      "tags": []
-    },
     {
       "title": "Balancing the Business Partner / Party Concept",
       "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
@@ -165,6 +93,15 @@
       "tags": []
     },
     {
+      "title": "The new space race is already a war race",
+      "url": "http://privacyinternational.org/long-read/5841/new-space-race-already-war-race",
+      "date": "30 Jul 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Humanless Resources? Uncovering AI recruitment software",
       "url": "http://privacyinternational.org/long-read/5798/humanless-resources-uncovering-ai-recruitment-software",
       "date": "09 Jul 2026",
@@ -204,15 +141,6 @@
       "title": "Key highlights of our 2026 results by season",
       "url": "http://privacyinternational.org/long-read/5790/key-highlights-our-2026-results-season",
       "date": "19 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "World Food Programme expand Palantir partnership",
-      "url": "http://privacyinternational.org/news-analysis/5789/world-food-programme-expand-palantir-partnership",
-      "date": "17 Jun 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems",
+      "url": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
+      "date": "08 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Over the past several years, I have worked through three successive generations of intelligent retrieval systems, each solving problems the previous generation could not. Here is what I have learned.",
+      "tags": []
+    },
+    {
+      "title": "Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found",
+      "url": "https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era",
+      "date": "08 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The way we build interfaces is changing. As AI agents write more of our code, the tools we use to render that code may need to change too.",
+      "tags": []
+    },
+    {
+      "title": "5 Ways I Access Coding Models for Free",
+      "url": "https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free",
+      "date": "08 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Explore five free ways to access AI coding agents, proprietary coding models, and open-weight models without paying for expensive subscriptions or GPUs.",
+      "tags": []
+    },
+    {
       "title": "Switchyard: NVIDIA’s Open Source Routing Library",
       "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
       "date": "04 Sep 2026",
@@ -531,15 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
-      "tags": []
-    },
-    {
-      "title": "This Python Library Can Run Pandas Workloads Up to 20x Faster",
-      "url": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
-      "date": "02 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x faster DataFrame performance in our benchmark.",
       "tags": []
     }
   ]
