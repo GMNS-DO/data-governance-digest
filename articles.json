@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-09-09T10:26:28.683466+00:00",
-  "article_count": 54,
+  "generated_at": "2026-09-10T10:16:35.475870+00:00",
+  "article_count": 60,
   "articles": [
     {
+      "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
+      "url": "https://www.lightsondata.com/human-in-the-loop-ai-agentic-ai-governance/",
+      "date": "10 Jul 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Agentic AI is moving faster than most organizations' ability to govern it. Vendors are shipping autonomous agents that can reason, plan, and act without a person approving each step. Boards are asking for an AI strategy. And in the middle of that rush, a phrase keeps getting repeated as if it settles the matter: \"we'll [] The post Human in the Loop AI: Why Its Often Just a Checkbox appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "The 6 layers of AI governance: A practical AI governance framework",
+      "url": "https://www.lightsondata.com/ai-governance-framework/",
+      "date": "18 Jun 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Artificial intelligence is moving quickly from experimentation to everyday business use.Employees are using AI assistants. Teams are embedding AI into workflows. Vendors are adding AI features into platforms. Leaders are asking how AI can improve productivity, decision-making, customer experience, risk management, and operational efficiency.That creates opportunity.It also creates a very practical governance challenge:How do you [] The post The 6 layers of AI governance: A practical AI governance framework appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "How AI Is Reinventing MDM and Data Governance",
+      "url": "https://www.lightsondata.com/how-ai-is-reinventing-mdm-and-data-governance/",
+      "date": "19 Jan 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Artificial intelligence is reshaping how organizations work with data, not just at the analytics layer, but much deeper in how data is defined, governed, and operationalized. While much of the attention is on new capabilities such as automation and generative insights, a more foundational shift is taking place. AI is bringing renewed focus to the [] The post How AI Is Reinventing MDM and Data Governance appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling",
+      "url": "https://www.lightsondata.com/fsa-mebs-enterprise-modeling/",
+      "date": "08 Dec 2025",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "For decades, organizations have been trying to model themselves clearly enough to build reliable, scalable, and future‑proof information systems. Yet despite thousands of methodologies, tools, and standards, we still see the same symptoms everywhere:Fragmented dataEndless integration projectsCompeting semantics and mismatched modelsHigh IT cost for low business agilityIf we step back, it becomes obvious: we’ve never [] The post From fragmented data to planetary-scale systems: why FSA/MEBS represents a step-change in enterprise modeling appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Optimizing retail operations through a practical data strategy",
+      "url": "https://www.lightsondata.com/optimizing-retail-operations-through-a-practical-data-strategy/",
+      "date": "26 Aug 2025",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Given the pace of change in the retail sector, impactful decisions can be a competitive advantage, but many organizations are still in the dark. They're not operating with actionable insights... trusting their gut to make decisions while keeping data in a silo. The solution? An all-inclusive data strategy that makes sense for the organization.This article [] The post Optimizing retail operations through a practical data strategy appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "Transforming Marketing Data into Business Growth: Key Insights and Strategies",
+      "url": "https://www.lightsondata.com/transforming-marketing-data-into-business-growth-key-insights-and-strategies/",
+      "date": "15 Dec 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Marketing leaders and data professionals often grapple with a familiar challenge: how to transform marketing data into tangible business growth. During a recent episode of The Lights on Data Show, I had the privilege of speaking with Kasper Bossen-Rasmussen, founder and CEO of Accutics, about this very topic. Together, we explored key takeaways for addressing [] The post Transforming Marketing Data into Business Growth: Key Insights and Strategies appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "The future of generative AI’s form factor",
+      "url": "https://www.lightsondata.com/the-future-of-generative-ais-form-factor/",
+      "date": "30 Sep 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
+      "title": "How to Become a Data Science Freelancer",
+      "url": "https://www.lightsondata.com/how-to-become-a-data-science-freelancer/",
+      "date": "18 Jan 2024",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Entering the world of freelance as a data professional offers freedom, diversity in projects, and the thrill of entrepreneurship. But how does one transition from a traditional job to a successful freelance career in the data field? Insights from an experienced freelance data consultant shed light on this journey. Table Of Contents 1Key Skills and [] The post How to Become a Data Science Freelancer appeared first on LightsOnData .",
+      "tags": []
+    },
+    {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -13,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -22,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -31,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -40,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -49,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -58,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -67,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -345,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Managing Application Access When Corporate VPNs Reach Capacity Limits",
+      "url": "https://www.smartdatacollective.com/vpn-alternatives-application-access/",
+      "date": "09 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Most VPN capacity problems are routing problems. Application publishing is one way out.",
+      "tags": []
+    },
+    {
       "title": "How Digital Knowledge Repositories Facilitate Self-Directed Research and Information Discovery",
       "url": "https://www.smartdatacollective.com/z-library-wiki-knowledge-repositories/",
       "date": "07 Sep 2026",
@@ -408,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "How Business Intelligence Can Help Small Businesses Build Better Decision Rules",
-      "url": "https://www.smartdatacollective.com/business-intelligence-decision-rules/",
-      "date": "27 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
+      "url": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
+      "date": "09 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Business intelligence turns recurring patterns in inventory, invoices, and costs into clear decision rules that prompt faster, more consistent action.",
+      "summary": "A six-stage pipeline that checks its numbers before calling anything an answer.",
+      "tags": []
+    },
+    {
+      "title": "7 Approaches to Efficient LLM Training on Limited Hardware",
+      "url": "https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware",
+      "date": "09 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
       "tags": []
     },
     {
@@ -450,42 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
-      "tags": []
-    },
-    {
-      "title": "5 Free LLM API Providers You Can Use in 2026",
-      "url": "https://www.kdnuggets.com/5-free-llm-api-providers-you-can-use-in-2026",
-      "date": "04 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore five free AI API providers for accessing large language models, fast inference, multimodal AI, and agentic applications without paying for API usage.",
-      "tags": []
-    },
-    {
-      "title": "I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time",
-      "url": "https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time",
-      "date": "03 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "The review pass fixed a row count and approved two wrong conclusions.",
-      "tags": []
-    },
-    {
-      "title": "5 Free Courses to Go From LLM Beginner to Practitioner",
-      "url": "https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner",
-      "date": "03 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A curated, linear pipeline of high-signal free resources that takes you from backpropagation basics to deploying production-grade LLM applications.",
-      "tags": []
-    },
-    {
-      "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
-      "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
-      "date": "02 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
       "tags": []
     }
   ]
