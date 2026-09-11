@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:16:35.475870+00:00",
+  "generated_at": "2026-09-11T10:15:15.768428+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,42 @@
       "tags": []
     },
     {
+      "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
+      "url": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
+      "date": "10 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actually includes, how the credit system works in practice, and whether it genuinely replaces your current stack or just adds to it.",
+      "tags": []
+    },
+    {
+      "title": "Feature Engineering in Scikit-Learn: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/feature-engineering-in-scikit-learn-a-kdnuggets-cheat-sheet",
+      "date": "10 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Once feature engineering lives inside a Pipeline , each step is fitted on training data only, and the model is scored what it actually earned. And that is the idea behind this new cheat sheet.",
+      "tags": []
+    },
+    {
+      "title": "7 Steps to Become a Forward Deployed Engineer in 2026",
+      "url": "https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026",
+      "date": "10 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "FDEs are becoming some of the most in-demand engineers in AI. Here’s the 7-step roadmap to becoming one in 2026.",
+      "tags": []
+    },
+    {
+      "title": "5 Useful Python Scripts to Automate CSV Processing",
+      "url": "https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing",
+      "date": "10 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Automate common CSV tasks with these 5 Python scripts for cleaning, validating, transforming, and processing CSV files using the standard library.",
+      "tags": []
+    },
+    {
       "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
       "url": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
       "date": "09 Sep 2026",
@@ -504,42 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
-      "tags": []
-    },
-    {
-      "title": "From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems",
-      "url": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
-      "date": "08 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Over the past several years, I have worked through three successive generations of intelligent retrieval systems, each solving problems the previous generation could not. Here is what I have learned.",
-      "tags": []
-    },
-    {
-      "title": "Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found",
-      "url": "https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era",
-      "date": "08 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "The way we build interfaces is changing. As AI agents write more of our code, the tools we use to render that code may need to change too.",
-      "tags": []
-    },
-    {
-      "title": "5 Ways I Access Coding Models for Free",
-      "url": "https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free",
-      "date": "08 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore five free ways to access AI coding agents, proprietary coding models, and open-weight models without paying for expensive subscriptions or GPUs.",
-      "tags": []
-    },
-    {
-      "title": "Switchyard: NVIDIA’s Open Source Routing Library",
-      "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
-      "date": "04 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
       "tags": []
     }
   ]
