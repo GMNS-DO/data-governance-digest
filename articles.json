@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:15:15.768428+00:00",
+  "generated_at": "2026-09-12T09:49:06.076000+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,42 @@
       "tags": []
     },
     {
+      "title": "How Fragmented Workplace Tech Undermines Reliable Business Metrics and Reporting",
+      "url": "https://www.smartdatacollective.com/information-technology-business-metrics/",
+      "date": "11 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Isolated departmental tools and manual data handoffs quietly skew business metrics and reporting long before systems completely break down.",
+      "tags": []
+    },
+    {
+      "title": "Using Multi-Source Data and Analytics to Detect Operational Drift Across Franchise Networks",
+      "url": "https://www.smartdatacollective.com/franchise-marketing-operational-drift/",
+      "date": "11 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Franchise networks maintain brand standards by connecting register activity, digital directories, and customer feedback through multi-source data and analytics to spot operational drift early.",
+      "tags": []
+    },
+    {
+      "title": "Beyond The First Impression: The Long-Lasting Impact Of Sensory Marketing",
+      "url": "https://www.smartdatacollective.com/brand-identity-sensory-marketing/",
+      "date": "11 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Foot traffic and dwell time data show how sensory marketing turns subtle environmental cues into long-term customer retention.",
+      "tags": []
+    },
+    {
+      "title": "The Infrastructure Gap Slowing Data Center Growth",
+      "url": "https://www.smartdatacollective.com/data-center-infrastructure-gap/",
+      "date": "11 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Power connection delays, cooling constraints, and long equipment lead times are holding back data center growth despite strong demand for AI and cloud capacity.",
+      "tags": []
+    },
+    {
       "title": "Managing Application Access When Corporate VPNs Reach Capacity Limits",
       "url": "https://www.smartdatacollective.com/vpn-alternatives-application-access/",
       "date": "09 Sep 2026",
@@ -453,39 +489,21 @@
       "tags": []
     },
     {
-      "title": "8 MCP Tools for Market and Consumer Intelligence Workflows",
-      "url": "https://www.smartdatacollective.com/consumer-intelligence-mcp-toolbox/",
-      "date": "05 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
+      "url": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
+      "date": "11 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "No single MCP tool does it all: the right stack combines search, extraction, cited synthesis, workflow control, and verified consumer data.",
+      "summary": "Learn how to refactor messy Python code into clean, maintainable functions.",
       "tags": []
     },
     {
-      "title": "How Local Service Businesses Can Map Which Neighborhoods Generate the Most Revenue",
-      "url": "https://www.smartdatacollective.com/local-service-business-revenue-maps/",
-      "date": "28 Aug 2026",
-      "source": "SmartData Collective",
+      "title": "5 Python Techniques for Efficient Resource Orchestration",
+      "url": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
+      "date": "11 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Revenue mapping compares paid invoices, job volume, and crew time by neighborhood to reveal where local service work is most profitable.",
-      "tags": []
-    },
-    {
-      "title": "Best VMware Alternatives in Thailand for Private Cloud and HCI Deployments",
-      "url": "https://www.smartdatacollective.com/vmware-virtualization-alternatives-thailand/",
-      "date": "27 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Thai enterprises can compare VMware alternatives for private cloud and HCI deployments based on platform fit, migration risk, cost, and local support.",
-      "tags": []
-    },
-    {
-      "title": "Using Safety Metrics and Incident Data to Reduce Construction Risk and Insurance Costs",
-      "url": "https://www.smartdatacollective.com/construction-project-risk-management/",
-      "date": "27 Aug 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Accurate safety metrics and incident data help contractors match coverage to project risk, lower insurance costs, and strengthen bids.",
+      "summary": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniques, with one 3.14-specific tool called out explicitly as requiring that version",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Automate common CSV tasks with these 5 Python scripts for cleaning, validating, transforming, and processing CSV files using the standard library.",
-      "tags": []
-    },
-    {
-      "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
-      "url": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
-      "date": "09 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A six-stage pipeline that checks its numbers before calling anything an answer.",
-      "tags": []
-    },
-    {
-      "title": "7 Approaches to Efficient LLM Training on Limited Hardware",
-      "url": "https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware",
-      "date": "09 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
       "tags": []
     }
   ]
