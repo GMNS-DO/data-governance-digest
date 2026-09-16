@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:42:19.606803+00:00",
+  "generated_at": "2026-09-16T10:30:24.346760+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "11 Best Sisense Alternatives for Embedded Analytics",
+      "url": "https://www.smartdatacollective.com/sisense-alternatives-embedded-analytics/",
+      "date": "15 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A practical comparison of 11 Sisense alternatives for teams building customer-facing embedded analytics.",
+      "tags": []
+    },
+    {
       "title": "How Fragmented Workplace Tech Undermines Reliable Business Metrics and Reporting",
       "url": "https://www.smartdatacollective.com/information-technology-business-metrics/",
       "date": "11 Sep 2026",
@@ -480,12 +489,30 @@
       "tags": []
     },
     {
-      "title": "The Information Governance Practices That High-Demand Social Work Roles Require",
-      "url": "https://www.smartdatacollective.com/healthcare-data-breaches-governance/",
-      "date": "06 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
+      "url": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
+      "date": "15 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "High-demand social work depends on information governance to stop data breaches through HIPAA-compliant encryption, bans on consumer AI, and firm digital boundaries.",
+      "summary": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simple content generation.",
+      "tags": []
+    },
+    {
+      "title": "How I’m Using Google Opal for Even More AI Automations",
+      "url": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
+      "date": "15 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Here's how I learned to use it best.",
+      "tags": []
+    },
+    {
+      "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
+      "url": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
+      "date": "15 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and AI agents.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how to refactor messy Python code into clean, maintainable functions.",
-      "tags": []
-    },
-    {
-      "title": "5 Python Techniques for Efficient Resource Orchestration",
-      "url": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
-      "date": "11 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniques, with one 3.14-specific tool called out explicitly as requiring that version",
-      "tags": []
-    },
-    {
-      "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
-      "url": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
-      "date": "10 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actually includes, how the credit system works in practice, and whether it genuinely replaces your current stack or just adds to it.",
-      "tags": []
-    },
-    {
-      "title": "Feature Engineering in Scikit-Learn: A KDnuggets Cheat Sheet",
-      "url": "https://www.kdnuggets.com/feature-engineering-in-scikit-learn-a-kdnuggets-cheat-sheet",
-      "date": "10 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Once feature engineering lives inside a Pipeline , each step is fitted on training data only, and the model is scored what it actually earned. And that is the idea behind this new cheat sheet.",
       "tags": []
     }
   ]
