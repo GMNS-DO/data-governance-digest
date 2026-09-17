@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:30:24.346760+00:00",
+  "generated_at": "2026-09-17T10:40:30.894178+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Estimators in Scikit-LLM: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet",
+      "date": "16 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Scikit-LLM wraps language models in the scikit-learn estimator API, so it drops into a Pipeline or a cross-validation loop natively.",
+      "tags": []
+    },
+    {
+      "title": "How to Build Effective Evals for AI Agents",
+      "url": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
+      "date": "16 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how to build effective evals for AI agents, from designing clear tasks and choosing the right graders to building reliable eval harnesses and tracking changes over time.",
+      "tags": []
+    },
+    {
       "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
       "url": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
       "date": "15 Sep 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Senior Python practice, watched up close, is mostly surprise reduction. These seven habits surface the surprises before production does.",
-      "tags": []
-    },
-    {
-      "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
-      "url": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
-      "date": "14 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make powerful open-source AI models far more efficient to run.",
-      "tags": []
-    },
-    {
-      "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
-      "url": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
-      "date": "11 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to refactor messy Python code into clean, maintainable functions.",
       "tags": []
     }
   ]
