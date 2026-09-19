@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:16:06.497282+00:00",
+  "generated_at": "2026-09-19T09:58:42.282810+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-      "url": "https://www.kdnuggets.com/2026/09/prnews.io/whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field",
-      "date": "17 Sep 2026",
+      "title": "Reusing the Prompt Prefix with a Key-Value Cache for SLM Optimization",
+      "url": "https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization",
+      "date": "18 Sep 2026",
       "source": "KDnuggets",
       "section": "news",
-      "summary": "See how SerpApi’s Markdown output can cut search-result token usage by up to 74%, reducing AI agent costs and context-window overhead.",
+      "summary": "In this second article in our short series on SLM optimization techniques we focus on the reuse of the prompt prefix with a key-value cache.",
+      "tags": []
+    },
+    {
+      "title": "5 Prompt Optimization Strategies That Actually Improve LLM Output",
+      "url": "https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output",
+      "date": "18 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This article covers five prompt optimization strategies such as: prompt optimization, prompt engineering, LLM output quality, few-shot prompting, chain-of-thought, structured outputs.",
       "tags": []
     },
     {
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how to build effective evals for AI agents, from designing clear tasks and choosing the right graders to building reliable eval harnesses and tracking changes over time.",
-      "tags": []
-    },
-    {
-      "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
-      "url": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
-      "date": "15 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simple content generation.",
       "tags": []
     }
   ]
