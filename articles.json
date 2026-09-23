@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:36:40.388322+00:00",
+  "generated_at": "2026-09-23T10:29:29.344680+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -156,6 +156,15 @@
       "tags": []
     },
     {
+      "title": "Interoperability, Privacy, and the Limits of the Digital Markets Act",
+      "url": "http://privacyinternational.org/long-read/5862/interoperability-privacy-and-limits-digital-markets-act",
+      "date": "10 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "The Play That Taught Garissa Its Rights",
       "url": "http://privacyinternational.org/long-read/5852/play-taught-garissa-its-rights",
       "date": "11 Aug 2026",
@@ -204,15 +213,6 @@
       "title": "PI’s submission to the UN Working Group on the Use of Mercenaries",
       "url": "http://privacyinternational.org/advocacy/5795/pis-submission-un-working-group-use-mercenaries",
       "date": "29 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Collateral Damage: Claude Mythos and the Privacy Risks of AI",
-      "url": "http://privacyinternational.org/long-read/5792/collateral-damage-claude-mythos-and-privacy-risks-ai",
-      "date": "24 Jun 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Bravely AI Browsing with Leo",
+      "url": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
+      "date": "22 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn about private AI browsing for data professionals.",
+      "tags": []
+    },
+    {
+      "title": "7 Open-Source Alternatives to ChatGPT You Can Run Locally",
+      "url": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
+      "date": "22 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Explore seven open-source ChatGPT alternatives, from lightweight local chat interfaces and document assistants to agent platforms, multi-user setups, and complete self-hosted AI workspaces.",
+      "tags": []
+    },
+    {
       "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
       "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
       "date": "21 Sep 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "In this second article in our short series on SLM optimization techniques we focus on the reuse of the prompt prefix with a key-value cache.",
-      "tags": []
-    },
-    {
-      "title": "5 Prompt Optimization Strategies That Actually Improve LLM Output",
-      "url": "https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output",
-      "date": "18 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article covers five prompt optimization strategies such as: prompt optimization, prompt engineering, LLM output quality, few-shot prompting, chain-of-thought, structured outputs.",
-      "tags": []
-    },
-    {
-      "title": "What’s So Good About ChatGPT Work? Here’s What I Found",
-      "url": "https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found",
-      "date": "17 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article walks through how ChatGPT Work specifically earns its reputation, where the underlying models genuinely hold up against the competition, and where the honest limits are.",
       "tags": []
     }
   ]
