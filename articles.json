@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:29:29.344680+00:00",
+  "generated_at": "2026-09-24T10:46:06.748823+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Cloud Infrastructure and Workload Migration: A Data-Driven Look at VMware Alternatives in Europe",
+      "url": "https://www.smartdatacollective.com/cloud-infrastructure-and-workload-migration-a-data-driven-look-at-vmware-alternatives-in-europe/",
+      "date": "23 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A vendor-by-vendor breakdown of HCI and European cloud alternatives to VMware, covering five-year TCO, exit testing, and phased migration risk.",
+      "tags": []
+    },
+    {
       "title": "Synthetic Data vs Real Web Data: Comparison, Limitations, and Collection Methods",
       "url": "https://www.smartdatacollective.com/synthetic-data-real-web-data/",
       "date": "21 Sep 2026",
@@ -480,12 +489,30 @@
       "tags": []
     },
     {
-      "title": "How Digital Knowledge Repositories Facilitate Self-Directed Research and Information Discovery",
-      "url": "https://www.smartdatacollective.com/z-library-wiki-knowledge-repositories/",
-      "date": "07 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "Everything Claude Opus 5.5 Actually Ships With",
+      "url": "https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with",
+      "date": "23 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Digital knowledge repositories give independent researchers direct access to specialized literature, making structured self-directed study possible outside traditional academic institutions.",
+      "summary": "This article pulls together every verifiable number and detail from Anthropic's announcement, the platform documentation, the system card, and independent coverage, so you have one place to check the facts.",
+      "tags": []
+    },
+    {
+      "title": "Why Most Data Science Notebooks Die After Day One: How to Build Ones That Survive",
+      "url": "https://www.kdnuggets.com/why-most-data-science-notebooks-die-after-day-one-how-to-build-ones-that-survive",
+      "date": "23 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Six habits that keep a notebook runnable after you close the laptop.",
+      "tags": []
+    },
+    {
+      "title": "High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
+      "date": "23 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The model? Describe your work as expressions, and the Polars query engine plans them out.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far.",
-      "tags": []
-    },
-    {
-      "title": "How to Turn a Python Script Into an AI Agent",
-      "url": "https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent",
-      "date": "21 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to build a Python AI agent with the OpenAI Agents SDK, using tool calling and function tools to automate multi-step workflows.",
-      "tags": []
-    },
-    {
-      "title": "3 Polars Tricks for High-Performance Data Manipulation",
-      "url": "https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation",
-      "date": "21 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Almost every slow Polars script lacks in terms of one of these two: its expression engine written and executing in Rust across every core at its disposal, and its query optimizer that rewrites your work before any of it runs.",
-      "tags": []
-    },
-    {
-      "title": "Reusing the Prompt Prefix with a Key-Value Cache for SLM Optimization",
-      "url": "https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization",
-      "date": "18 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "In this second article in our short series on SLM optimization techniques we focus on the reuse of the prompt prefix with a key-value cache.",
       "tags": []
     }
   ]
