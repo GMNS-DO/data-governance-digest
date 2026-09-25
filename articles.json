@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:46:06.748823+00:00",
+  "generated_at": "2026-09-25T10:51:02.450139+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Data & AI Architecture Focus: 6 Best Brand Protection Tools for Phishing and Impersonation",
+      "url": "https://www.smartdatacollective.com/brand-protection-tools-phishing-impersonation/",
+      "date": "24 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Brand protection means different things to different teams. A legal team may need to remove counterfeit marketplace listings. A security team may need to find a fake login page, a fraudulent social profile, or a rogue application impersonating the company. These problems overlap, but they do not require identical evidence or enforcement workflows. Choose a []",
+      "tags": []
+    },
+    {
       "title": "Cloud Infrastructure and Workload Migration: A Data-Driven Look at VMware Alternatives in Europe",
       "url": "https://www.smartdatacollective.com/cloud-infrastructure-and-workload-migration-a-data-driven-look-at-vmware-alternatives-in-europe/",
       "date": "23 Sep 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "Managing Application Access When Corporate VPNs Reach Capacity Limits",
-      "url": "https://www.smartdatacollective.com/vpn-alternatives-application-access/",
-      "date": "09 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "MCP Explained in 5 Minutes",
+      "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
+      "date": "24 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Most VPN capacity problems are routing problems. Application publishing is one way out.",
+      "summary": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams that make the whole concept easy for anyone to understand.",
+      "tags": []
+    },
+    {
+      "title": "What I’ve Learned About DeepSeek Harness",
+      "url": "https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness",
+      "date": "24 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's what he found.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn about private AI browsing for data professionals.",
-      "tags": []
-    },
-    {
-      "title": "7 Open-Source Alternatives to ChatGPT You Can Run Locally",
-      "url": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
-      "date": "22 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore seven open-source ChatGPT alternatives, from lightweight local chat interfaces and document assistants to agent platforms, multi-user setups, and complete self-hosted AI workspaces.",
-      "tags": []
-    },
-    {
-      "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
-      "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
-      "date": "21 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far.",
       "tags": []
     }
   ]
