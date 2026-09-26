@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:51:02.450139+00:00",
+  "generated_at": "2026-09-26T10:31:41.740913+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -147,6 +147,15 @@
       "tags": []
     },
     {
+      "title": "PI’s response to the UK Department for Science, Innovation & Technology on data regulation in the age of AI and other data-intensive technologies",
+      "url": "http://privacyinternational.org/advocacy/5868/pis-response-uk-department-science-innovation-technology-data-regulation-age-ai-and",
+      "date": "25 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "An Arsenal of Surveillance: A Guide to the Technologies Harming Migrants",
       "url": "http://privacyinternational.org/report/5866/arsenal-surveillance-guide-technologies-harming-migrants",
       "date": "21 Sep 2026",
@@ -203,15 +212,6 @@
     {
       "title": "When algorithms go to war",
       "url": "http://privacyinternational.org/report/5796/when-algorithms-go-war",
-      "date": "29 Jun 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI’s submission to the UN Working Group on the Use of Mercenaries",
-      "url": "http://privacyinternational.org/advocacy/5795/pis-submission-un-working-group-use-mercenaries",
       "date": "29 Jun 2026",
       "source": "Privacy International",
       "section": "regulation",
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "How eCommerce Data Teams Can Build Attribution That Holds Up",
+      "url": "https://www.smartdatacollective.com/ecommerce-data-teams-can-build-attribution-holds-up/",
+      "date": "25 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Ecommerce attribution usually breaks in the data layer, so stitching customer identities and standardizing touchpoints matters far more than which model you choose.",
+      "tags": []
+    },
+    {
+      "title": "Data Stack Consolidation as a Data Quality and Governance Strategy for Mid-Market Teams",
+      "url": "https://www.smartdatacollective.com/build-buy-rethinking-assembled-data-stack-mid-market/",
+      "date": "25 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A practical guide to deciding when data stack consolidation improves reporting reliability and governance for mid-market teams.",
+      "tags": []
+    },
+    {
+      "title": "Evaluating Workforce Assessment Tools: Looking Beneath the Dashboard at Psychometric Data",
+      "url": "https://www.smartdatacollective.com/workforce-management-psychometric-data/",
+      "date": "25 Sep 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
+      "tags": []
+    },
+    {
       "title": "Data & AI Architecture Focus: 6 Best Brand Protection Tools for Phishing and Impersonation",
       "url": "https://www.smartdatacollective.com/brand-protection-tools-phishing-impersonation/",
       "date": "24 Sep 2026",
@@ -462,30 +489,21 @@
       "tags": []
     },
     {
-      "title": "Using Multi-Source Data and Analytics to Detect Operational Drift Across Franchise Networks",
-      "url": "https://www.smartdatacollective.com/franchise-marketing-operational-drift/",
-      "date": "11 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
+      "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
+      "date": "25 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Franchise networks maintain brand standards by connecting register activity, digital directories, and customer feedback through multi-source data and analytics to spot operational drift early.",
+      "summary": "We finish off our short series on SLM optimization with the third entry, focused on batching by length instead of looping item by item.",
       "tags": []
     },
     {
-      "title": "Beyond The First Impression: The Long-Lasting Impact Of Sensory Marketing",
-      "url": "https://www.smartdatacollective.com/brand-identity-sensory-marketing/",
-      "date": "11 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "7 Advanced Python Tricks to Level Up Your Coding Skills",
+      "url": "https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills",
+      "date": "25 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Foot traffic and dwell time data show how sensory marketing turns subtle environmental cues into long-term customer retention.",
-      "tags": []
-    },
-    {
-      "title": "The Infrastructure Gap Slowing Data Center Growth",
-      "url": "https://www.smartdatacollective.com/data-center-infrastructure-gap/",
-      "date": "11 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Power connection delays, cooling constraints, and long equipment lead times are holding back data center growth despite strong demand for AI and cloud capacity.",
+      "summary": "Leveling up rarely means new syntax. It means learning what the language already promised you.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Six habits that keep a notebook runnable after you close the laptop.",
-      "tags": []
-    },
-    {
-      "title": "High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet",
-      "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
-      "date": "23 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The model? Describe your work as expressions, and the Polars query engine plans them out.",
-      "tags": []
-    },
-    {
-      "title": "Bravely AI Browsing with Leo",
-      "url": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
-      "date": "22 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn about private AI browsing for data professionals.",
       "tags": []
     }
   ]
