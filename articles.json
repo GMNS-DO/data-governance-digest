@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T10:31:41.740913+00:00",
-  "article_count": 60,
+  "generated_at": "2026-09-27T11:03:20.737469+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -417,78 +417,6 @@
       "tags": []
     },
     {
-      "title": "How eCommerce Data Teams Can Build Attribution That Holds Up",
-      "url": "https://www.smartdatacollective.com/ecommerce-data-teams-can-build-attribution-holds-up/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Ecommerce attribution usually breaks in the data layer, so stitching customer identities and standardizing touchpoints matters far more than which model you choose.",
-      "tags": []
-    },
-    {
-      "title": "Data Stack Consolidation as a Data Quality and Governance Strategy for Mid-Market Teams",
-      "url": "https://www.smartdatacollective.com/build-buy-rethinking-assembled-data-stack-mid-market/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A practical guide to deciding when data stack consolidation improves reporting reliability and governance for mid-market teams.",
-      "tags": []
-    },
-    {
-      "title": "Evaluating Workforce Assessment Tools: Looking Beneath the Dashboard at Psychometric Data",
-      "url": "https://www.smartdatacollective.com/workforce-management-psychometric-data/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
-      "tags": []
-    },
-    {
-      "title": "Data & AI Architecture Focus: 6 Best Brand Protection Tools for Phishing and Impersonation",
-      "url": "https://www.smartdatacollective.com/brand-protection-tools-phishing-impersonation/",
-      "date": "24 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Brand protection means different things to different teams. A legal team may need to remove counterfeit marketplace listings. A security team may need to find a fake login page, a fraudulent social profile, or a rogue application impersonating the company. These problems overlap, but they do not require identical evidence or enforcement workflows. Choose a []",
-      "tags": []
-    },
-    {
-      "title": "Cloud Infrastructure and Workload Migration: A Data-Driven Look at VMware Alternatives in Europe",
-      "url": "https://www.smartdatacollective.com/cloud-infrastructure-and-workload-migration-a-data-driven-look-at-vmware-alternatives-in-europe/",
-      "date": "23 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A vendor-by-vendor breakdown of HCI and European cloud alternatives to VMware, covering five-year TCO, exit testing, and phased migration risk.",
-      "tags": []
-    },
-    {
-      "title": "Synthetic Data vs Real Web Data: Comparison, Limitations, and Collection Methods",
-      "url": "https://www.smartdatacollective.com/synthetic-data-real-web-data/",
-      "date": "21 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Machine learning pipelines need real web data to capture ground truth, while synthetic data works best to simulate rare edge conditions.",
-      "tags": []
-    },
-    {
-      "title": "11 Best Sisense Alternatives for Embedded Analytics",
-      "url": "https://www.smartdatacollective.com/sisense-alternatives-embedded-analytics/",
-      "date": "15 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A practical comparison of 11 Sisense alternatives for teams building customer-facing embedded analytics.",
-      "tags": []
-    },
-    {
-      "title": "How Fragmented Workplace Tech Undermines Reliable Business Metrics and Reporting",
-      "url": "https://www.smartdatacollective.com/information-technology-business-metrics/",
-      "date": "11 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Isolated departmental tools and manual data handoffs quietly skew business metrics and reporting long before systems completely break down.",
-      "tags": []
-    },
-    {
       "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
       "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
       "date": "25 Sep 2026",
@@ -540,6 +468,24 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Six habits that keep a notebook runnable after you close the laptop.",
+      "tags": []
+    },
+    {
+      "title": "High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
+      "date": "23 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The model? Describe your work as expressions, and the Polars query engine plans them out.",
+      "tags": []
+    },
+    {
+      "title": "Bravely AI Browsing with Leo",
+      "url": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
+      "date": "22 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn about private AI browsing for data professionals.",
       "tags": []
     }
   ]
