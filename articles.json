@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T11:49:41.979717+00:00",
-  "article_count": 60,
+  "generated_at": "2026-09-30T11:36:18.005025+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -417,75 +417,30 @@
       "tags": []
     },
     {
-      "title": "OpenAI’s Government Website Incidents Raise a Hard Question for AI Agents: When Should They Stop?",
-      "url": "https://www.smartdatacollective.com/openai-government-website-incidents-raise-hard/",
+      "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
+      "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
       "date": "29 Sep 2026",
-      "source": "SmartData Collective",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "OpenAI disclosed on Sept. 25 that its AI models had accessed public information",
+      "summary": "Learn how to use Julius AI to analyze Excel data, verify key findings, and turn them into an editable PowerPoint presentation.",
       "tags": []
     },
     {
-      "title": "Data-Driven Loyalty: How Restaurants Use Behavioral Analytics to Optimize Revenue",
-      "url": "https://www.smartdatacollective.com/data-driven-loyalty-how-restaurants-use-behavioral-analytics/",
-      "date": "26 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription",
+      "url": "https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription",
+      "date": "29 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Repeat customers anchor the modern restaurant economy. Rising operational costs, tighter competition, and shifting consumer expectations have pushed operators away from one-off transactions toward durable, long-term relationships. Restaurants use behavioral analytics to optimize revenue by matching loyalty rewards to ordering patterns, visit frequency, and customer preferences. Connect transaction records with information guests willingly share, then []",
+      "summary": "This is a summary of, and insights into, what I found digging into the recently-released Superwhisper S1 family of voice-to-text models.",
       "tags": []
     },
     {
-      "title": "How eCommerce Data Teams Can Build Attribution That Holds Up",
-      "url": "https://www.smartdatacollective.com/ecommerce-data-teams-can-build-attribution-holds-up/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
+      "title": "5 Free Courses to Learn AI Engineering",
+      "url": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
+      "date": "29 Sep 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Ecommerce attribution usually breaks in the data layer, so stitching customer identities and standardizing touchpoints matters far more than which model you choose.",
-      "tags": []
-    },
-    {
-      "title": "Data Stack Consolidation as a Data Quality and Governance Strategy for Mid-Market Teams",
-      "url": "https://www.smartdatacollective.com/build-buy-rethinking-assembled-data-stack-mid-market/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A practical guide to deciding when data stack consolidation improves reporting reliability and governance for mid-market teams.",
-      "tags": []
-    },
-    {
-      "title": "Evaluating Workforce Assessment Tools: Looking Beneath the Dashboard at Psychometric Data",
-      "url": "https://www.smartdatacollective.com/workforce-management-psychometric-data/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
-      "tags": []
-    },
-    {
-      "title": "Data & AI Architecture Focus: 6 Best Brand Protection Tools for Phishing and Impersonation",
-      "url": "https://www.smartdatacollective.com/brand-protection-tools-phishing-impersonation/",
-      "date": "24 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Brand protection means different things to different teams. A legal team may need to remove counterfeit marketplace listings. A security team may need to find a fake login page, a fraudulent social profile, or a rogue application impersonating the company. These problems overlap, but they do not require identical evidence or enforcement workflows. Choose a []",
-      "tags": []
-    },
-    {
-      "title": "Cloud Infrastructure and Workload Migration: A Data-Driven Look at VMware Alternatives in Europe",
-      "url": "https://www.smartdatacollective.com/cloud-infrastructure-and-workload-migration-a-data-driven-look-at-vmware-alternatives-in-europe/",
-      "date": "23 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A vendor-by-vendor breakdown of HCI and European cloud alternatives to VMware, covering five-year TCO, exit testing, and phased migration risk.",
-      "tags": []
-    },
-    {
-      "title": "Synthetic Data vs Real Web Data: Comparison, Limitations, and Collection Methods",
-      "url": "https://www.smartdatacollective.com/synthetic-data-real-web-data/",
-      "date": "21 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Machine learning pipelines need real web data to capture ground truth, while synthetic data works best to simulate rare edge conditions.",
+      "summary": "Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and deployment with five practical courses designed to help you become a stronger AI and machine learning engineer.",
       "tags": []
     },
     {
@@ -531,15 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams that make the whole concept easy for anyone to understand.",
-      "tags": []
-    },
-    {
-      "title": "What I’ve Learned About DeepSeek Harness",
-      "url": "https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness",
-      "date": "24 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's what he found.",
       "tags": []
     }
   ]
