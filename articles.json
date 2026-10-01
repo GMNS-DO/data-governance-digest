@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:36:18.005025+00:00",
+  "generated_at": "2026-10-01T12:05:11.038617+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -156,6 +156,15 @@
       "tags": []
     },
     {
+      "title": "Human rights standards and guidelines on the use of digital technologies in electoral processes",
+      "url": "http://privacyinternational.org/long-read/5867/human-rights-standards-and-guidelines-use-digital-technologies-electoral-processes",
+      "date": "24 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "An Arsenal of Surveillance: A Guide to the Technologies Harming Migrants",
       "url": "http://privacyinternational.org/report/5866/arsenal-surveillance-guide-technologies-harming-migrants",
       "date": "21 Sep 2026",
@@ -204,15 +213,6 @@
       "title": "The new space race is already a war race",
       "url": "http://privacyinternational.org/long-read/5841/new-space-race-already-war-race",
       "date": "30 Jul 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Humanless Resources? Uncovering AI recruitment software",
-      "url": "http://privacyinternational.org/long-read/5798/humanless-resources-uncovering-ai-recruitment-software",
-      "date": "09 Jul 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
+      "url": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
+      "date": "01 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Get work done, and have seconds added back to your life since you won't be writing second, third or &mdash; *gasp!* &mdash; fourth line follow-ups to your impeccable typed line numero uno.",
+      "tags": []
+    },
+    {
+      "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
+      "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
+      "date": "30 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
+      "tags": []
+    },
+    {
+      "title": "Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet",
+      "date": "30 Sep 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Ollama pulls model weights, keeps an HTTP server on port 11434, and hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn how to manage, configure, and optimize using Ollama right here.",
+      "tags": []
+    },
+    {
       "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
       "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
       "date": "29 Sep 2026",
@@ -459,33 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "When Numba code disappoints, it's nearly never the compiler, and usually ends up being the boundary around the compiled code: not crossing it, not making it wide enough, or crossing it during every run.",
-      "tags": []
-    },
-    {
-      "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
-      "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
-      "date": "25 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "We finish off our short series on SLM optimization with the third entry, focused on batching by length instead of looping item by item.",
-      "tags": []
-    },
-    {
-      "title": "7 Advanced Python Tricks to Level Up Your Coding Skills",
-      "url": "https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills",
-      "date": "25 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Leveling up rarely means new syntax. It means learning what the language already promised you.",
-      "tags": []
-    },
-    {
-      "title": "MCP Explained in 5 Minutes",
-      "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
-      "date": "24 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams that make the whole concept easy for anyone to understand.",
       "tags": []
     }
   ]
