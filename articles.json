@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:36:08.982321+00:00",
+  "generated_at": "2026-10-03T10:49:51.714345+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -174,9 +174,27 @@
       "tags": []
     },
     {
+      "title": "Qué Putería: Care on Dating Apps is a Collective Matter, Too",
+      "url": "http://privacyinternational.org/long-read/5865/que-puteria-care-dating-apps-collective-matter-too",
+      "date": "17 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "What will the new Convention on Decent Work in the Platform Economy mean for workers and what's next?",
       "url": "http://privacyinternational.org/advocacy/5864/what-will-new-convention-decent-work-platform-economy-mean-workers-and-whats-next",
       "date": "17 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Building a Rights-Respecting Digital Future in Pakistan",
+      "url": "http://privacyinternational.org/long-read/5863/building-rights-respecting-digital-future-pakistan",
+      "date": "15 Sep 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -195,24 +213,6 @@
       "title": "The Play That Taught Garissa Its Rights",
       "url": "http://privacyinternational.org/long-read/5852/play-taught-garissa-its-rights",
       "date": "11 Aug 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Lack of transparency and national guidelines mark the expansion of facial recognition in brazilian education",
-      "url": "http://privacyinternational.org/key-resources/5851/lack-transparency-and-national-guidelines-mark-expansion-facial-recognition",
-      "date": "11 Aug 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "The new space race is already a war race",
-      "url": "http://privacyinternational.org/long-read/5841/new-space-race-already-war-race",
-      "date": "30 Jul 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,6 +489,33 @@
       "tags": []
     },
     {
+      "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet close by as a handy reference.",
+      "tags": []
+    },
+    {
+      "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
+      "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
+      "tags": []
+    },
+    {
+      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
+      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
+      "tags": []
+    },
+    {
       "title": "BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly",
       "url": "https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly",
       "date": "01 Oct 2026",
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how to use Marimo for interactive data analysis with Python, Pandas, and Altair, and turn a reactive notebook into a simple shareable dashboard.",
-      "tags": []
-    },
-    {
-      "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
-      "url": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
-      "date": "01 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Get work done, and have seconds added back to your life since you won't be writing second, third or &mdash; *gasp!* &mdash; fourth line follow-ups to your impeccable typed line numero uno.",
-      "tags": []
-    },
-    {
-      "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
-      "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
-      "date": "30 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
-      "tags": []
-    },
-    {
-      "title": "Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet",
-      "url": "https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet",
-      "date": "30 Sep 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Ollama pulls model weights, keeps an HTTP server on port 11434, and hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn how to manage, configure, and optimize using Ollama right here.",
       "tags": []
     }
   ]
