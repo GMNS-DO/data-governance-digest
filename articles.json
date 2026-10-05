@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T11:32:16.997402+00:00",
-  "article_count": 60,
+  "generated_at": "2026-10-05T13:03:57.591025+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
+      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
+      "date": "05 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "OpenAI was testing an agent’s ability to identify a blog author when it found",
+      "tags": []
+    },
+    {
       "title": "Physical AI: What Data Do You Need to Train a Robot?",
       "url": "https://www.smartdatacollective.com/physical-ai-data-do-you-need-train-robot/",
       "date": "01 Oct 2026",
@@ -477,69 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
-      "tags": []
-    },
-    {
-      "title": "Data & AI Architecture Focus: 6 Best Brand Protection Tools for Phishing and Impersonation",
-      "url": "https://www.smartdatacollective.com/brand-protection-tools-phishing-impersonation/",
-      "date": "24 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Brand protection means different things to different teams. A legal team may need to remove counterfeit marketplace listings. A security team may need to find a fake login page, a fraudulent social profile, or a rogue application impersonating the company. These problems overlap, but they do not require identical evidence or enforcement workflows. Choose a []",
-      "tags": []
-    },
-    {
-      "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
-      "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet close by as a handy reference.",
-      "tags": []
-    },
-    {
-      "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
-      "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
-      "tags": []
-    },
-    {
-      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
-      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
-      "tags": []
-    },
-    {
-      "title": "BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly",
-      "url": "https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly",
-      "date": "01 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Describe your data needs in plain language and turn websites into a continuous source of fresh data.",
-      "tags": []
-    },
-    {
-      "title": "From Messy Documents to Structured Data with Docling",
-      "url": "https://www.kdnuggets.com/from-messy-documents-to-structured-data-with-docling",
-      "date": "01 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Docling takes documents in whatever inconsistent format they arrive in, and converts them into one unified, structured representation that both people and AI systems can work with reliably, rather than everyone downstream having to guess at what a wall of extracted text actually meant.",
-      "tags": []
-    },
-    {
-      "title": "How to Use Marimo for Interactive Data Analysis",
-      "url": "https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis",
-      "date": "01 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to use Marimo for interactive data analysis with Python, Pandas, and Altair, and turn a reactive notebook into a simple shareable dashboard.",
       "tags": []
     }
   ]
