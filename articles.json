@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T13:03:57.591025+00:00",
-  "article_count": 54,
+  "generated_at": "2026-10-06T12:26:52.228925+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -422,7 +422,7 @@
       "date": "05 Oct 2026",
       "source": "SmartData Collective",
       "section": "news",
-      "summary": "OpenAI was testing an agent’s ability to identify a blog author when it found",
+      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
       "tags": []
     },
     {
@@ -486,6 +486,60 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
+      "tags": []
+    },
+    {
+      "title": "5 Best Practices for Building Robust Python AI Libraries",
+      "url": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
+      "date": "06 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package from one that only survives in its own demo.",
+      "tags": []
+    },
+    {
+      "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
+      "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
+      "date": "05 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Meta has entered the AI agent race in a big way.",
+      "tags": []
+    },
+    {
+      "title": "3 Statsmodels Tricks for Time Series Analysis & Forecasting",
+      "url": "https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting",
+      "date": "05 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
+      "tags": []
+    },
+    {
+      "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
+      "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet close by as a handy reference.",
+      "tags": []
+    },
+    {
+      "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
+      "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
+      "tags": []
+    },
+    {
+      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
+      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
+      "date": "02 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
       "tags": []
     }
   ]
