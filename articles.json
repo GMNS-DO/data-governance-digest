@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T12:26:52.228925+00:00",
-  "article_count": 60,
+  "generated_at": "2026-10-07T12:20:26.249407+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,11 +139,20 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
+      "url": "http://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
+      "date": "06 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -204,15 +213,6 @@
       "title": "Interoperability, Privacy, and the Limits of the Digital Markets Act",
       "url": "http://privacyinternational.org/long-read/5862/interoperability-privacy-and-limits-digital-markets-act",
       "date": "10 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "The Play That Taught Garissa Its Rights",
-      "url": "http://privacyinternational.org/long-read/5852/play-taught-garissa-its-rights",
-      "date": "11 Aug 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,75 +417,21 @@
       "tags": []
     },
     {
-      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
-      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
-      "date": "05 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
+      "url": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
+      "date": "07 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
+      "summary": "Compare five AI coding assistants across real tasks to find which tool fits your workflow.",
       "tags": []
     },
     {
-      "title": "Physical AI: What Data Do You Need to Train a Robot?",
-      "url": "https://www.smartdatacollective.com/physical-ai-data-do-you-need-train-robot/",
-      "date": "01 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Who Pays for AI Data Centers?",
+      "url": "https://www.kdnuggets.com/who-pays-for-ai-data-centers",
+      "date": "06 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Recognizing an object doesn’t tell a robot how that object will behave when touched",
-      "tags": []
-    },
-    {
-      "title": "What Kind of Problem-Solving Distinguishes Data Analysts From Software Engineers",
-      "url": "https://www.smartdatacollective.com/what-kind-of-problem-solving-distinguishes-data-analysts-from-software-engineers/",
-      "date": "30 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Data analysts solve business questions with evidence, while software engineers build reliable systems—hire for the kind of problem you need solved.",
-      "tags": []
-    },
-    {
-      "title": "OpenAI’s Government Website Incidents Raise a Hard Question for AI Agents: When Should They Stop?",
-      "url": "https://www.smartdatacollective.com/openai-government-website-incidents-raise-hard/",
-      "date": "26 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "OpenAI disclosed on Sept. 25 that its AI models had accessed public information",
-      "tags": []
-    },
-    {
-      "title": "Data-Driven Loyalty: How Restaurants Use Behavioral Analytics to Optimize Revenue",
-      "url": "https://www.smartdatacollective.com/data-driven-loyalty-how-restaurants-use-behavioral-analytics/",
-      "date": "26 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Repeat customers anchor the modern restaurant economy. Rising operational costs, tighter competition, and shifting consumer expectations have pushed operators away from one-off transactions toward durable, long-term relationships. Restaurants use behavioral analytics to optimize revenue by matching loyalty rewards to ordering patterns, visit frequency, and customer preferences. Connect transaction records with information guests willingly share, then []",
-      "tags": []
-    },
-    {
-      "title": "How eCommerce Data Teams Can Build Attribution That Holds Up",
-      "url": "https://www.smartdatacollective.com/ecommerce-data-teams-can-build-attribution-holds-up/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Ecommerce attribution usually breaks in the data layer, so stitching customer identities and standardizing touchpoints matters far more than which model you choose.",
-      "tags": []
-    },
-    {
-      "title": "Data Stack Consolidation as a Data Quality and Governance Strategy for Mid-Market Teams",
-      "url": "https://www.smartdatacollective.com/build-buy-rethinking-assembled-data-stack-mid-market/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A practical guide to deciding when data stack consolidation improves reporting reliability and governance for mid-market teams.",
-      "tags": []
-    },
-    {
-      "title": "Evaluating Workforce Assessment Tools: Looking Beneath the Dashboard at Psychometric Data",
-      "url": "https://www.smartdatacollective.com/workforce-management-psychometric-data/",
-      "date": "25 Sep 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Reliable psychometric data and dependable offline mobile performance matter far more than a sleek dashboard when evaluating frontline workers.",
+      "summary": "The fight is usually framed as whether data centers get built. The harder question underneath it is \"who pays and who decides?\" The costs are intertwined.",
       "tags": []
     },
     {
