@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:20:26.249407+00:00",
-  "article_count": 54,
+  "generated_at": "2026-10-08T12:29:28.235709+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -147,6 +147,15 @@
       "tags": []
     },
     {
+      "title": "When AI agents act outside their remit",
+      "url": "http://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
+      "date": "07 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
       "url": "http://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
       "date": "06 Oct 2026",
@@ -204,15 +213,6 @@
       "title": "Building a Rights-Respecting Digital Future in Pakistan",
       "url": "http://privacyinternational.org/long-read/5863/building-rights-respecting-digital-future-pakistan",
       "date": "15 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Interoperability, Privacy, and the Limits of the Digital Markets Act",
-      "url": "http://privacyinternational.org/long-read/5862/interoperability-privacy-and-limits-digital-markets-act",
-      "date": "10 Sep 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,105 @@
       "tags": []
     },
     {
+      "title": "Retailers Should Stop Treating Every Stockout as Equal",
+      "url": "https://www.smartdatacollective.com/retail-management-stockout-priorities/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Retailers should rank stockouts by expected demand and margin at risk, not just how often shelves are empty.",
+      "tags": []
+    },
+    {
+      "title": "Best Vibe Coding Cleanup Specialists in the USA: Fix or Rebuild?",
+      "url": "https://www.smartdatacollective.com/vibe-coding-cleanup-specialists/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Vibe coding cleanup should start with a component-by-component audit to decide what to keep, what to fix, and what truly needs rebuilding.",
+      "tags": []
+    },
+    {
+      "title": "Using Warehouse, Transportation and Order Data to Plan Distribution-Center Capacity",
+      "url": "https://www.smartdatacollective.com/logistics-planning-distribution-capacity/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Warehouse, transportation and order data should set dock counts, storage capacity and work areas before you commit to a distribution center’s square footage.",
+      "tags": []
+    },
+    {
+      "title": "10 AI Trends That Should Shape Your 2027 Business Plan",
+      "url": "https://www.smartdatacollective.com/ai-trends-should-shape-business-plan/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Tie your 2027 AI budget to completed work and full operating costs.",
+      "tags": []
+    },
+    {
+      "title": "Custom Software Across Industries: Using Customer Data to Personalize Retail",
+      "url": "https://www.smartdatacollective.com/retail-solutions-customer-data/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Custom software can connect customer browsing and purchase data to personalized retail recommendations and storefronts where off-the-shelf tools fall short.",
+      "tags": []
+    },
+    {
+      "title": "4 Best AI Visibility Agencies for Brands Competing in AI-Driven Search in 2026",
+      "url": "https://www.smartdatacollective.com/ai-visibility-agencies-brands-competing-driven-search/",
+      "date": "06 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "See how four agencies approach brand visibility in AI search.",
+      "tags": []
+    },
+    {
+      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
+      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
+      "date": "05 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
+      "tags": []
+    },
+    {
+      "title": "Physical AI: What Data Do You Need to Train a Robot?",
+      "url": "https://www.smartdatacollective.com/physical-ai-data-do-you-need-train-robot/",
+      "date": "01 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Recognizing an object doesn’t tell a robot how that object will behave when touched",
+      "tags": []
+    },
+    {
+      "title": "7 Best Resources to Learn About Self-Evolving AI Agents",
+      "url": "https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents",
+      "date": "08 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
+      "tags": []
+    },
+    {
+      "title": "OpenAI Dots: The Data Scientist’s Reality Check",
+      "url": "https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check",
+      "date": "07 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Dots promises a lot. Before you hand it the keys to your workflow, here's what practitioners need to know.",
+      "tags": []
+    },
+    {
+      "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
+      "url": "https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026",
+      "date": "07 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Same job postings, different titles. Here's what each role actually builds.",
+      "tags": []
+    },
+    {
       "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
       "url": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
       "date": "07 Oct 2026",
@@ -441,51 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package from one that only survives in its own demo.",
-      "tags": []
-    },
-    {
-      "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
-      "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
-      "date": "05 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Meta has entered the AI agent race in a big way.",
-      "tags": []
-    },
-    {
-      "title": "3 Statsmodels Tricks for Time Series Analysis & Forecasting",
-      "url": "https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting",
-      "date": "05 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
-      "tags": []
-    },
-    {
-      "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
-      "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet close by as a handy reference.",
-      "tags": []
-    },
-    {
-      "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
-      "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
-      "tags": []
-    },
-    {
-      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
-      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
-      "date": "02 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
       "tags": []
     }
   ]
