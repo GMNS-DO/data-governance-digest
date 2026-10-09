@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T12:29:28.235709+00:00",
-  "article_count": 60,
+  "generated_at": "2026-10-09T12:18:35.189202+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,75 +417,30 @@
       "tags": []
     },
     {
-      "title": "Retailers Should Stop Treating Every Stockout as Equal",
-      "url": "https://www.smartdatacollective.com/retail-management-stockout-priorities/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
+      "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
+      "date": "09 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Retailers should rank stockouts by expected demand and margin at risk, not just how often shelves are empty.",
+      "summary": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
       "tags": []
     },
     {
-      "title": "Best Vibe Coding Cleanup Specialists in the USA: Fix or Rebuild?",
-      "url": "https://www.smartdatacollective.com/vibe-coding-cleanup-specialists/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Bridging Algorithmic Design and Regulatory Standards in Enterprise AI",
+      "url": "https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai",
+      "date": "08 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Vibe coding cleanup should start with a component-by-component audit to decide what to keep, what to fix, and what truly needs rebuilding.",
+      "summary": "Your models can be both cutting-edge and compliant if you stop treating governance as the final hurdle and start building it into every stage of the ML pipeline.",
       "tags": []
     },
     {
-      "title": "Using Warehouse, Transportation and Order Data to Plan Distribution-Center Capacity",
-      "url": "https://www.smartdatacollective.com/logistics-planning-distribution-capacity/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Building AI Agents with Docker Agent",
+      "url": "https://www.kdnuggets.com/building-ai-agents-with-docker-agent",
+      "date": "08 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Warehouse, transportation and order data should set dock counts, storage capacity and work areas before you commit to a distribution center’s square footage.",
-      "tags": []
-    },
-    {
-      "title": "10 AI Trends That Should Shape Your 2027 Business Plan",
-      "url": "https://www.smartdatacollective.com/ai-trends-should-shape-business-plan/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Tie your 2027 AI budget to completed work and full operating costs.",
-      "tags": []
-    },
-    {
-      "title": "Custom Software Across Industries: Using Customer Data to Personalize Retail",
-      "url": "https://www.smartdatacollective.com/retail-solutions-customer-data/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Custom software can connect customer browsing and purchase data to personalized retail recommendations and storefronts where off-the-shelf tools fall short.",
-      "tags": []
-    },
-    {
-      "title": "4 Best AI Visibility Agencies for Brands Competing in AI-Driven Search in 2026",
-      "url": "https://www.smartdatacollective.com/ai-visibility-agencies-brands-competing-driven-search/",
-      "date": "06 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "See how four agencies approach brand visibility in AI search.",
-      "tags": []
-    },
-    {
-      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
-      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
-      "date": "05 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
-      "tags": []
-    },
-    {
-      "title": "Physical AI: What Data Do You Need to Train a Robot?",
-      "url": "https://www.smartdatacollective.com/physical-ai-data-do-you-need-train-robot/",
-      "date": "01 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Recognizing an object doesn’t tell a robot how that object will behave when touched",
+      "summary": "Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering, installed and run as docker agent. Its own tagline states the goal plainly: run AI agents like containers.",
       "tags": []
     },
     {
@@ -531,15 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "The fight is usually framed as whether data centers get built. The harder question underneath it is \"who pays and who decides?\" The costs are intertwined.",
-      "tags": []
-    },
-    {
-      "title": "5 Best Practices for Building Robust Python AI Libraries",
-      "url": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
-      "date": "06 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package from one that only survives in its own demo.",
       "tags": []
     }
   ]
