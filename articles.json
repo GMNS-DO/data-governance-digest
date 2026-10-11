@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T11:36:47.748868+00:00",
-  "article_count": 54,
+  "generated_at": "2026-10-11T11:49:56.142873+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -417,6 +417,78 @@
       "tags": []
     },
     {
+      "title": "AI-Powered Logo Generation: Design.com vs Looka",
+      "url": "https://www.smartdatacollective.com/design-com-looka-logo-maker-better/",
+      "date": "10 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Choose between Design.com and Looka with a clear view of logo files and licensing.",
+      "tags": []
+    },
+    {
+      "title": "Retailers Should Stop Treating Every Stockout as Equal",
+      "url": "https://www.smartdatacollective.com/retail-management-stockout-priorities/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Retailers should rank stockouts by expected demand and margin at risk, not just how often shelves are empty.",
+      "tags": []
+    },
+    {
+      "title": "Best Vibe Coding Cleanup Specialists in the USA: Fix or Rebuild?",
+      "url": "https://www.smartdatacollective.com/vibe-coding-cleanup-specialists/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Vibe coding cleanup should start with a component-by-component audit to decide what to keep, what to fix, and what truly needs rebuilding.",
+      "tags": []
+    },
+    {
+      "title": "Using Warehouse, Transportation and Order Data to Plan Distribution-Center Capacity",
+      "url": "https://www.smartdatacollective.com/logistics-planning-distribution-capacity/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Warehouse, transportation and order data should set dock counts, storage capacity and work areas before you commit to a distribution center’s square footage.",
+      "tags": []
+    },
+    {
+      "title": "10 AI Trends That Should Shape Your 2027 Business Plan",
+      "url": "https://www.smartdatacollective.com/ai-trends-should-shape-business-plan/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Tie your 2027 AI budget to completed work and full operating costs.",
+      "tags": []
+    },
+    {
+      "title": "Custom Software Across Industries: Using Customer Data to Personalize Retail",
+      "url": "https://www.smartdatacollective.com/retail-solutions-customer-data/",
+      "date": "07 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Custom software can connect customer browsing and purchase data to personalized retail recommendations and storefronts where off-the-shelf tools fall short.",
+      "tags": []
+    },
+    {
+      "title": "4 Best AI Visibility Agencies for Brands Competing in AI-Driven Search in 2026",
+      "url": "https://www.smartdatacollective.com/ai-visibility-agencies-brands-competing-driven-search/",
+      "date": "06 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "See how four agencies approach brand visibility in AI search.",
+      "tags": []
+    },
+    {
+      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
+      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
+      "date": "05 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
+      "tags": []
+    },
+    {
       "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
       "url": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
       "date": "09 Oct 2026",
@@ -468,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Dots promises a lot. Before you hand it the keys to your workflow, here's what practitioners need to know.",
-      "tags": []
-    },
-    {
-      "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
-      "url": "https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026",
-      "date": "07 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Same job postings, different titles. Here's what each role actually builds.",
-      "tags": []
-    },
-    {
-      "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
-      "url": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
-      "date": "07 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Compare five AI coding assistants across real tasks to find which tool fits your workflow.",
       "tags": []
     }
   ]
