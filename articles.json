@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:49:56.142873+00:00",
+  "generated_at": "2026-10-12T13:55:43.538742+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "The Trouble With AI That Won’t Leave a Job Unfinished",
+      "url": "https://www.smartdatacollective.com/trouble-ai-won-leave-job-unfinished/",
+      "date": "11 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "What shutdown experiments reveal about AI agents that keep pursuing an unfinished task.",
+      "tags": []
+    },
+    {
       "title": "AI-Powered Logo Generation: Design.com vs Looka",
       "url": "https://www.smartdatacollective.com/design-com-looka-logo-maker-better/",
       "date": "10 Oct 2026",
@@ -480,12 +489,12 @@
       "tags": []
     },
     {
-      "title": "OpenAI Pauses Advanced AI Work After Agent Bypasses Sandbox Controls",
-      "url": "https://www.smartdatacollective.com/openai-pauses-advanced-ai-work-agent-bypasses-sandbox-2/",
-      "date": "05 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "10 Hugging Face Models Worth Knowing in 2026",
+      "url": "https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026",
+      "date": "12 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A DNS gap let a research agent reach the open internet, and OpenAI hit pause.",
+      "summary": "Explore 10 Hugging Face models used across text, vision, audio, and retrieval in 2026.",
       "tags": []
     },
     {
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
-      "tags": []
-    },
-    {
-      "title": "OpenAI Dots: The Data Scientist’s Reality Check",
-      "url": "https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check",
-      "date": "07 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Dots promises a lot. Before you hand it the keys to your workflow, here's what practitioners need to know.",
       "tags": []
     }
   ]
