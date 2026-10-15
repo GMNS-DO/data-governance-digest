@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:52:14.753967+00:00",
+  "generated_at": "2026-10-15T10:34:41.250976+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,42 @@
       "tags": []
     },
     {
+      "title": "Preparing Data Systems and Governance for a Scaling Global Gaming Brand",
+      "url": "https://www.smartdatacollective.com/game-studio-structure-data-governance/",
+      "date": "14 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Fast-growing game studios need clear IP ownership, adaptable legal entities, and disciplined data systems and governance before international player traffic overwhelms their operations.",
+      "tags": []
+    },
+    {
+      "title": "How Restaurant POS and Ordering Data Reveal Generational Customer Patterns",
+      "url": "https://www.smartdatacollective.com/restaurant-ordering-pos-data-patterns/",
+      "date": "14 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Restaurant POS and ordering data tracks screen dwell times and modifier depth to show why younger diners prioritize speed while older guests need clearer digital interfaces.",
+      "tags": []
+    },
+    {
+      "title": "From Trucks To Data: How Telematics Can Improve Freight Transportation",
+      "url": "https://www.smartdatacollective.com/fleet-software-telematics-freight/",
+      "date": "14 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "By pulling GPS logs, fuel consumption, and engine diagnostics into one system, telematics helps freight carriers cut costly detention delays, reduce diesel waste, and catch vehicle breakdowns before they happen.",
+      "tags": []
+    },
+    {
+      "title": "The Airflow Problems Hiding Inside Data Centers",
+      "url": "https://www.smartdatacollective.com/data-center-infrastructure-airflow-problems/",
+      "date": "14 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Most data center cooling issues stem not from weak chillers, but from physical airflow bottlenecks like unsealed rack gaps, tangled cables, and misplaced floor tiles that keep cold air from reaching your servers.",
+      "tags": []
+    },
+    {
       "title": "Choosing an Integration Partner for Data Pipelines: Service Bus, Brokers, and Azure-Native Middleware Compared",
       "url": "https://www.smartdatacollective.com/service-bus-development-azure-integration-companies/",
       "date": "13 Oct 2026",
@@ -453,39 +489,21 @@
       "tags": []
     },
     {
-      "title": "Retailers Should Stop Treating Every Stockout as Equal",
-      "url": "https://www.smartdatacollective.com/retail-management-stockout-priorities/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Few-Shot Text Classification with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm",
+      "date": "14 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Retailers should rank stockouts by expected demand and margin at risk, not just how often shelves are empty.",
+      "summary": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
       "tags": []
     },
     {
-      "title": "Best Vibe Coding Cleanup Specialists in the USA: Fix or Rebuild?",
-      "url": "https://www.smartdatacollective.com/vibe-coding-cleanup-specialists/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "5 Fun Projects for LLM Inference Engineering",
+      "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
+      "date": "14 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Vibe coding cleanup should start with a component-by-component audit to decide what to keep, what to fix, and what truly needs rebuilding.",
-      "tags": []
-    },
-    {
-      "title": "Using Warehouse, Transportation and Order Data to Plan Distribution-Center Capacity",
-      "url": "https://www.smartdatacollective.com/logistics-planning-distribution-capacity/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Warehouse, transportation and order data should set dock counts, storage capacity and work areas before you commit to a distribution center’s square footage.",
-      "tags": []
-    },
-    {
-      "title": "10 AI Trends That Should Shape Your 2027 Business Plan",
-      "url": "https://www.smartdatacollective.com/ai-trends-should-shape-business-plan/",
-      "date": "07 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Tie your 2027 AI budget to completed work and full operating costs.",
+      "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Compare ChatGPT, Claude, and Gemini across the data science tasks that matter most to statisticians and analysts.",
-      "tags": []
-    },
-    {
-      "title": "10 Hugging Face Models Worth Knowing in 2026",
-      "url": "https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026",
-      "date": "12 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore 10 Hugging Face models used across text, vision, audio, and retrieval in 2026.",
-      "tags": []
-    },
-    {
-      "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
-      "url": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
-      "date": "09 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "MCP just got simpler. Learn how to build a stateless MCP server in Python and expose tools, resources, and prompts over HTTP.",
       "tags": []
     }
   ]
