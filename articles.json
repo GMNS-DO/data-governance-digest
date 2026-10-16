@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:34:41.250976+00:00",
+  "generated_at": "2026-10-16T10:21:31.706318+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "From AI Prototype to Production: Observability and Scalability Requirements for Data-Heavy SaaS Applications",
+      "url": "https://www.smartdatacollective.com/ai-prototype-production-observability-scalability/",
+      "date": "15 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A practical engineering checklist for reviewing generated code, testing data-heavy workflows and deciding what is ready to ship.",
+      "tags": []
+    },
+    {
       "title": "Preparing Data Systems and Governance for a Scaling Global Gaming Brand",
       "url": "https://www.smartdatacollective.com/game-studio-structure-data-governance/",
       "date": "14 Oct 2026",
@@ -480,12 +489,30 @@
       "tags": []
     },
     {
-      "title": "AI-Powered Logo Generation: Design.com vs Looka",
-      "url": "https://www.smartdatacollective.com/design-com-looka-logo-maker-better/",
-      "date": "10 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
+      "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
+      "date": "15 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Choose between Design.com and Looka with a clear view of logo files and licensing.",
+      "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
+      "tags": []
+    },
+    {
+      "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
+      "url": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
+      "date": "15 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
+      "tags": []
+    },
+    {
+      "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
+      "url": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
+      "date": "15 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
-      "tags": []
-    },
-    {
-      "title": "5 AutoHotkey Scripts for Data Scientists",
-      "url": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
-      "date": "13 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs to Python or SQL lists, fixing file paths, and snapping windows into place.",
-      "tags": []
-    },
-    {
-      "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
-      "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
-      "date": "12 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-engineer and rebuild commercial tools without access to the original source code.",
-      "tags": []
-    },
-    {
-      "title": "ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found",
-      "url": "https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found",
-      "date": "12 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Compare ChatGPT, Claude, and Gemini across the data science tasks that matter most to statisticians and analysts.",
       "tags": []
     }
   ]
