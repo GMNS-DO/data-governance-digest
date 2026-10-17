@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:21:31.706318+00:00",
+  "generated_at": "2026-10-17T09:54:51.141401+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,24 @@
       "tags": []
     },
     {
+      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
+      "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
+      "date": "16 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
+      "tags": []
+    },
+    {
+      "title": "5 Best Resources to Learn About World Models in 2026",
+      "url": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
+      "date": "16 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "World models could be the next big shift in AI. Learn more right now.",
+      "tags": []
+    },
+    {
       "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
       "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
       "date": "15 Oct 2026",
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
-      "tags": []
-    },
-    {
-      "title": "5 Fun Projects for LLM Inference Engineering",
-      "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
-      "date": "14 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
-      "tags": []
-    },
-    {
-      "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
-      "date": "13 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
       "tags": []
     }
   ]
