@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T10:06:48.033788+00:00",
-  "article_count": 54,
+  "generated_at": "2026-10-19T11:36:20.787791+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -216,6 +216,78 @@
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Navigating AI and Privacy in Employment",
+      "url": "https://www.merudata.com/single-post/navigating-ai-and-privacy-in-employment",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "As businesses rapidly integrate AI into everyday operations, legal risk assessments are often struggling to keep pace. This creates growing challenges at the intersection of employment law, privacy, data protection, and emerging AI regulations. In this webinar, Priya Keshav, Founder CEO of Meru Data, along with Deepa Menon and Hannah Wilkins, Partners at Eversheds Sutherland, shared practical insights on navigating the evolving legal, privacy, and employment-related challenges associated...",
+      "tags": []
+    },
+    {
+      "title": "Children's Data and App Store Accountability Laws",
+      "url": "https://www.merudata.com/single-post/children-s-data-and-app-store-accountability-laws",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Children’s privacy is rapidly evolving beyond traditional COPPA compliance. New state laws, expanding FTC enforcement, age assurance requirements, and app store accountability measures are reshaping how businesses manage data related to minors and teens. In this episode of Simplifying for Success, Priya Keshav, Founder and CEO of Meru Data, is joined by Nerissa Coyle McGinn, Partner at Loeb Loeb LLP, to discuss the changing regulatory landscape and what businesses need to do to prepare....",
+      "tags": []
+    },
+    {
+      "title": "From Planning to Proof: Navigating the New CCPA Risk Assessment Requirements",
+      "url": "https://www.merudata.com/single-post/from-planning-to-proof-navigating-the-new-ccpa-risk-assessment-requirements",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Recent updates to the CCPA Regulations establish clear standards for conducting privacy risk assessments, introducing new obligations around timing, documentation, executive oversight, and ongoing review. For many organizations, these requirements represent a significant shift from informal privacy reviews to structured, auditable compliance processes. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Jennifer Sheridan, Founder of JLSheridan Law, will break down: When risk...",
+      "tags": []
+    },
+    {
+      "title": "Cyber Security Audits Under CCPA: Key Requirements and Best Practices",
+      "url": "https://www.merudata.com/single-post/cyber-security-audits-under-ccpa-key-requirements-and-best-practices",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "California’s updated CCPA regulations raised the bar for privacy and security governance, introducing phased cybersecurity audit obligations for qualifying businesses beginning in 2026. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Austin Manes, Privacy Counsel at Herbert Smith Freehills Kramer LLP, provide a practical understanding of what these requirements mean, how to determine whether your organization may be affected, and how to prepare for compliance. Topics...",
+      "tags": []
+    },
+    {
+      "title": "Navigating the California Delete Act and DROP System: How to Prepare",
+      "url": "https://www.merudata.com/single-post/navigating-the-california-delete-act-and-drop-system-how-to-prepare",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "The California Delete Act and the Data Rights Online Portal (DROP) system introduce new compliance requirements for businesses managing consumer data and privacy requests. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and Jordan L. Fischer, Founder Managing Partner of Fischer Law LLC, discuss the implications of this legislation and what organizations need to know to prepare for the evolving regulatory landscape. As privacy regulations continue to expand, organizations must...",
+      "tags": []
+    },
+    {
+      "title": "Federal Trade Commission Enforcement and Settlement: Real-World Impacts on Company Data Retention Programs",
+      "url": "https://www.merudata.com/single-post/federal-trade-commission-enforcement-and-settlement-real-world-impacts-on-company-data-retention-pr",
+      "date": "17 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "The Federal Trade Commission’s recent settlements and enforcement actions are redefining how organizations handle data consent and retention. In this episode, Priya Keshav, Founder CEO of Meru Data LLC, and James A. Sherer, Partner at Baker Hostetler LLP, examine the real‑world implications of these developments for corporate data retention programs. The conversation highlights what companies need to do to align their retention practices with evolving regulatory expectations while still...",
+      "tags": []
+    },
+    {
+      "title": "Webinar -How to Evaluated AI Use Cases",
+      "url": "https://www.merudata.com/single-post/webinar-how-to-evaluated-ai-use-cases",
+      "date": "14 Aug 2026",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "In this episode, Priya Keshav and Reena Bajowala discuss simplifying for success in AI. Priya Keshav is the founder and owner of Meru Data, where she helps organizations worldwide simplify and sustain privacy and AI governance programs. Reena Bajowala brings deep experience in AI, cybersecurity, and privacy, advising clients on evaluating AI risks, implementing mitigations, and building compliant governance frameworks. In this episode, they discuss how in-house counsel should evaluate new AI...",
+      "tags": []
+    },
+    {
+      "title": "Webinar Audio - Navigating the Evolving Privacy Enforcement Landscape and AdTech: Practical Tips for Compliance",
+      "url": "https://www.merudata.com/single-post/webinar-audio-navigating-the-evolving-privacy-enforcement-landscape-and-adtech-practical-tips-for",
+      "date": "21 Nov 2025",
+      "source": "Merudata Blog",
+      "section": "news",
+      "summary": "Listen to Meru Data's podcast on the rapidly evolving privacy enforcement landscape and AdTech compliance. Learn about the CPPA’s action against Tractor Supply, the new multi-state privacy consortium, and practical steps to strengthen your privacy program. Featuring insights from Priya Keshav and Sundeep Kapur, this IAPP-approved session offers clear guidance for navigating rising regulatory risks.",
       "tags": []
     },
     {
@@ -468,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
-      "tags": []
-    },
-    {
-      "title": "5 Fun Projects for LLM Inference Engineering",
-      "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
-      "date": "14 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
-      "tags": []
-    },
-    {
-      "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
-      "date": "13 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
       "tags": []
     }
   ]
