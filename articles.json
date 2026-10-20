@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:36:20.787791+00:00",
+  "generated_at": "2026-10-20T10:40:26.738570+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "How Businesses Can Use Workplace Data to Create Better Office Environments",
+      "url": "https://www.smartdatacollective.com/workplace-data-better-office-environments/",
+      "date": "19 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Better office decisions begin with how people use the space.",
+      "tags": []
+    },
+    {
       "title": "From AI Prototype to Production: Observability and Scalability Requirements for Data-Heavy SaaS Applications",
       "url": "https://www.smartdatacollective.com/ai-prototype-production-observability-scalability/",
       "date": "15 Oct 2026",
@@ -480,12 +489,30 @@
       "tags": []
     },
     {
-      "title": "The Trouble With AI That Won’t Leave a Job Unfinished",
-      "url": "https://www.smartdatacollective.com/trouble-ai-won-leave-job-unfinished/",
-      "date": "11 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
+      "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
+      "date": "19 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "What shutdown experiments reveal about AI agents that keep pursuing an unfinished task.",
+      "summary": "Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking and a 1M token context window. Learn what broke from Haiku 4.5, and build classification, extraction, and sub-agent workflows in Python using the new API.",
+      "tags": []
+    },
+    {
+      "title": "LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest",
+      "url": "https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest",
+      "date": "19 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
+      "tags": []
+    },
+    {
+      "title": "7 Checks to Run Before Trusting AI-Generated Code",
+      "url": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
+      "date": "19 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "AI makes writing code cheap. Verifying it is still your job.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
-      "tags": []
-    },
-    {
-      "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
-      "url": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
-      "date": "15 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
-      "tags": []
-    },
-    {
-      "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
-      "url": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
-      "date": "15 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
-      "tags": []
-    },
-    {
-      "title": "Few-Shot Text Classification with Scikit-LLM",
-      "url": "https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm",
-      "date": "14 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
       "tags": []
     }
   ]
