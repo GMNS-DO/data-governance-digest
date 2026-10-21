@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:40:26.738570+00:00",
+  "generated_at": "2026-10-21T10:50:52.902745+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "7 Best Virtualization Platforms for Hybrid Cloud Environments",
+      "url": "https://www.smartdatacollective.com/virtualization-platforms-hybrid-cloud/",
+      "date": "20 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Platform fit depends on the stack your team already runs.",
+      "tags": []
+    },
+    {
       "title": "How Businesses Can Use Workplace Data to Create Better Office Environments",
       "url": "https://www.smartdatacollective.com/workplace-data-better-office-environments/",
       "date": "19 Oct 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "Data Engineering for Prize Draws: Building an Audit Trail",
-      "url": "https://www.smartdatacollective.com/data-engineering-prize-draw-audit-trail/",
-      "date": "13 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "The Roadmap to Becoming an AI Product Manager in 2026",
+      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
+      "date": "20 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A practical data-engineering guide to tracing entries, handling duplicate events and preserving the records behind a prize draw result.",
+      "summary": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product manager in 2026.",
+      "tags": []
+    },
+    {
+      "title": "5 Docker Containers for Devs",
+      "url": "https://www.kdnuggets.com/5-docker-containers-for-devs",
+      "date": "20 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Five self-hosted Docker containers replace the public utility sites where developer data quietly leaks. Learn which ones handle JWT decoding, data transformation, file conversion, API testing, and diagram rendering locally.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
-      "tags": []
-    },
-    {
-      "title": "5 Best Resources to Learn About World Models in 2026",
-      "url": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
-      "date": "16 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "World models could be the next big shift in AI. Learn more right now.",
-      "tags": []
-    },
-    {
-      "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
-      "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
-      "date": "15 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
       "tags": []
     }
   ]
