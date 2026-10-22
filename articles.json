@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T10:50:52.902745+00:00",
-  "article_count": 60,
+  "generated_at": "2026-10-22T10:52:39.041957+00:00",
+  "article_count": 46,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -144,78 +144,6 @@
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
-      "tags": []
-    },
-    {
-      "title": "Global Report on the Authoritarian use of Technology",
-      "url": "http://privacyinternational.org/report/5873/global-report-authoritarian-use-technology",
-      "date": "12 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "When AI agents act outside their remit",
-      "url": "http://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
-      "date": "07 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
-      "url": "http://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
-      "date": "06 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI’s response to the UK Department for Science, Innovation & Technology on data regulation in the age of AI and other data-intensive technologies",
-      "url": "http://privacyinternational.org/advocacy/5868/pis-response-uk-department-science-innovation-technology-data-regulation-age-ai-and",
-      "date": "25 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Human rights standards and guidelines on the use of digital technologies in electoral processes",
-      "url": "http://privacyinternational.org/long-read/5867/human-rights-standards-and-guidelines-use-digital-technologies-electoral-processes",
-      "date": "24 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "An Arsenal of Surveillance: A Guide to the Technologies Harming Migrants",
-      "url": "http://privacyinternational.org/report/5866/arsenal-surveillance-guide-technologies-harming-migrants",
-      "date": "21 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Qué Putería: Care on Dating Apps is a Collective Matter, Too",
-      "url": "http://privacyinternational.org/long-read/5865/que-puteria-care-dating-apps-collective-matter-too",
-      "date": "17 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "What will the new Convention on Decent Work in the Platform Economy mean for workers and what's next?",
-      "url": "http://privacyinternational.org/advocacy/5864/what-will-new-convention-decent-work-platform-economy-mean-workers-and-whats-next",
-      "date": "17 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
       "tags": []
     },
     {
@@ -417,75 +345,21 @@
       "tags": []
     },
     {
-      "title": "7 Best Virtualization Platforms for Hybrid Cloud Environments",
-      "url": "https://www.smartdatacollective.com/virtualization-platforms-hybrid-cloud/",
-      "date": "20 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Named Entity Recognition Using Scikit-LLM",
+      "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
+      "date": "21 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Platform fit depends on the stack your team already runs.",
+      "summary": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
       "tags": []
     },
     {
-      "title": "How Businesses Can Use Workplace Data to Create Better Office Environments",
-      "url": "https://www.smartdatacollective.com/workplace-data-better-office-environments/",
-      "date": "19 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "5 Best GitHub Repositories for AI Agent Skills",
+      "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
+      "date": "21 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Better office decisions begin with how people use the space.",
-      "tags": []
-    },
-    {
-      "title": "From AI Prototype to Production: Observability and Scalability Requirements for Data-Heavy SaaS Applications",
-      "url": "https://www.smartdatacollective.com/ai-prototype-production-observability-scalability/",
-      "date": "15 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "An AI-generated prototype can work perfectly in a demo and still fail in production. Here is what to check before turning it into a real SaaS product.",
-      "tags": []
-    },
-    {
-      "title": "Preparing Data Systems and Governance for a Scaling Global Gaming Brand",
-      "url": "https://www.smartdatacollective.com/game-studio-structure-data-governance/",
-      "date": "14 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Fast-growing game studios need clear IP ownership, adaptable legal entities, and disciplined data systems and governance before international player traffic overwhelms their operations.",
-      "tags": []
-    },
-    {
-      "title": "How Restaurant POS and Ordering Data Reveal Generational Customer Patterns",
-      "url": "https://www.smartdatacollective.com/restaurant-ordering-pos-data-patterns/",
-      "date": "14 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Restaurant POS and ordering data tracks screen dwell times and modifier depth to show why younger diners prioritize speed while older guests need clearer digital interfaces.",
-      "tags": []
-    },
-    {
-      "title": "From Trucks To Data: How Telematics Can Improve Freight Transportation",
-      "url": "https://www.smartdatacollective.com/fleet-software-telematics-freight/",
-      "date": "14 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "By pulling GPS logs, fuel consumption, and engine diagnostics into one system, telematics helps freight carriers cut costly detention delays, reduce diesel waste, and catch vehicle breakdowns before they happen.",
-      "tags": []
-    },
-    {
-      "title": "The Airflow Problems Hiding Inside Data Centers",
-      "url": "https://www.smartdatacollective.com/data-center-infrastructure-airflow-problems/",
-      "date": "14 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Most data center cooling issues stem not from weak chillers, but from physical airflow bottlenecks like unsealed rack gaps, tangled cables, and misplaced floor tiles that keep cold air from reaching your servers.",
-      "tags": []
-    },
-    {
-      "title": "Choosing an Integration Partner for Data Pipelines: Service Bus, Brokers, and Azure-Native Middleware Compared",
-      "url": "https://www.smartdatacollective.com/service-bus-development-azure-integration-companies/",
-      "date": "13 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Compare integration partners by the systems they connect, the failures they handle and the data your team needs to trust.",
+      "summary": "Explore five popular AI agent skill collections that help coding agents plan, test, debug, review, and build better software.",
       "tags": []
     },
     {
