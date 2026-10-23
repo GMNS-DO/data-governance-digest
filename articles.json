@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T10:52:39.041957+00:00",
-  "article_count": 46,
+  "generated_at": "2026-10-23T10:43:31.935429+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -345,6 +345,96 @@
       "tags": []
     },
     {
+      "title": "Which Workloads Should Move to the Cloud?",
+      "url": "https://www.smartdatacollective.com/workloads-should-move-cloud/",
+      "date": "22 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Application dependencies matter more than migration momentum.",
+      "tags": []
+    },
+    {
+      "title": "Why Data Governance Is Becoming a Board-Level Business Priority",
+      "url": "https://www.smartdatacollective.com/why-data-governance-is-becoming-a-board-level-business-priority/",
+      "date": "22 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Data risk belongs on the board agenda, with clear ownership.",
+      "tags": []
+    },
+    {
+      "title": "The Top Data Annotation Companies Are Separated by Proof of Quality, Not Headcount",
+      "url": "https://www.smartdatacollective.com/top-data-annotation-companies/",
+      "date": "22 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A buyer’s guide to the evidence behind annotation quality.",
+      "tags": []
+    },
+    {
+      "title": "Subscription Trackers Have a Transaction Data Problem",
+      "url": "https://www.smartdatacollective.com/subscription-trackers-transaction-data/",
+      "date": "21 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Reliable subscription alerts start with reconciled payment records.",
+      "tags": []
+    },
+    {
+      "title": "7 Best Virtualization Platforms for Hybrid Cloud Environments",
+      "url": "https://www.smartdatacollective.com/virtualization-platforms-hybrid-cloud/",
+      "date": "20 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Platform fit depends on the stack your team already runs.",
+      "tags": []
+    },
+    {
+      "title": "How Businesses Can Use Workplace Data to Create Better Office Environments",
+      "url": "https://www.smartdatacollective.com/workplace-data-better-office-environments/",
+      "date": "19 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Better office decisions begin with how people use the space.",
+      "tags": []
+    },
+    {
+      "title": "From AI Prototype to Production: Observability and Scalability Requirements for Data-Heavy SaaS Applications",
+      "url": "https://www.smartdatacollective.com/ai-prototype-production-observability-scalability/",
+      "date": "15 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "An AI-generated prototype can work perfectly in a demo and still fail in production. Here is what to check before turning it into a real SaaS product.",
+      "tags": []
+    },
+    {
+      "title": "Preparing Data Systems and Governance for a Scaling Global Gaming Brand",
+      "url": "https://www.smartdatacollective.com/game-studio-structure-data-governance/",
+      "date": "14 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Fast-growing game studios need clear IP ownership, adaptable legal entities, and disciplined data systems and governance before international player traffic overwhelms their operations.",
+      "tags": []
+    },
+    {
+      "title": "How to Process Large JSON Files in Python With ijson",
+      "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
+      "date": "22 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
+      "tags": []
+    },
+    {
+      "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
+      "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
+      "date": "22 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
+      "tags": []
+    },
+    {
       "title": "Named Entity Recognition Using Scikit-LLM",
       "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
       "date": "21 Oct 2026",
@@ -396,24 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
-      "tags": []
-    },
-    {
-      "title": "7 Checks to Run Before Trusting AI-Generated Code",
-      "url": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
-      "date": "19 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "AI makes writing code cheap. Verifying it is still your job.",
-      "tags": []
-    },
-    {
-      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
-      "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
-      "date": "16 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
       "tags": []
     }
   ]
