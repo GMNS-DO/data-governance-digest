@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:43:31.935429+00:00",
+  "generated_at": "2026-10-24T10:00:08.029634+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
+      "url": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
+      "date": "23 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
+      "tags": []
+    },
+    {
+      "title": "5 Free AI Coding Agents You Should Try in 2026",
+      "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
+      "date": "23 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
+      "tags": []
+    },
+    {
       "title": "How to Process Large JSON Files in Python With ijson",
       "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
       "date": "22 Oct 2026",
@@ -468,24 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Five self-hosted Docker containers replace the public utility sites where developer data quietly leaks. Learn which ones handle JWT decoding, data transformation, file conversion, API testing, and diagram rendering locally.",
-      "tags": []
-    },
-    {
-      "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
-      "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
-      "date": "19 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking and a 1M token context window. Learn what broke from Haiku 4.5, and build classification, extraction, and sub-agent workflows in Python using the new API.",
-      "tags": []
-    },
-    {
-      "title": "LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest",
-      "url": "https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest",
-      "date": "19 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
       "tags": []
     }
   ]
