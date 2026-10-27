@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:54:00.087278+00:00",
+  "generated_at": "2026-10-27T11:17:13.841526+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
+      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
+      "date": "26 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deployment optimization.",
+      "tags": []
+    },
+    {
+      "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
+      "url": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
+      "date": "26 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-end workflow.",
+      "tags": []
+    },
+    {
+      "title": "7 Advanced Python Design Patterns for Data Scientists",
+      "url": "https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists",
+      "date": "26 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn seven design patterns for data science code, from Strategy and Adapter to Command and Proxy, each matched to the pressure it solves, with the Python shape it takes and the caveat that keeps it honest.",
+      "tags": []
+    },
+    {
       "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
       "url": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
       "date": "23 Oct 2026",
@@ -459,33 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
-      "tags": []
-    },
-    {
-      "title": "5 Best GitHub Repositories for AI Agent Skills",
-      "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
-      "date": "21 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Explore five popular AI agent skill collections that help coding agents plan, test, debug, review, and build better software.",
-      "tags": []
-    },
-    {
-      "title": "The Roadmap to Becoming an AI Product Manager in 2026",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
-      "date": "20 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product manager in 2026.",
-      "tags": []
-    },
-    {
-      "title": "5 Docker Containers for Devs",
-      "url": "https://www.kdnuggets.com/5-docker-containers-for-devs",
-      "date": "20 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Five self-hosted Docker containers replace the public utility sites where developer data quietly leaks. Learn which ones handle JWT decoding, data transformation, file conversion, API testing, and diagram rendering locally.",
       "tags": []
     }
   ]
