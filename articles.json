@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:17:13.841526+00:00",
+  "generated_at": "2026-10-28T11:51:08.206430+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -345,6 +345,24 @@
       "tags": []
     },
     {
+      "title": "Incentive-Driven Response Bias: Auditing Sample Composition Before You Trust Survey Data",
+      "url": "https://www.smartdatacollective.com/incentive-driven-response-bias/",
+      "date": "27 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "More survey completions can still leave the wrong customers out.",
+      "tags": []
+    },
+    {
+      "title": "Blockchain Dashboards Need Better Definitions, Not More Charts",
+      "url": "https://www.smartdatacollective.com/blockchain-dashboards-metric-definitions/",
+      "date": "27 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A transfer count cannot tell you how many customers bought.",
+      "tags": []
+    },
+    {
       "title": "Which Workloads Should Move to the Cloud?",
       "url": "https://www.smartdatacollective.com/workloads-should-move-cloud/",
       "date": "22 Oct 2026",
@@ -399,21 +417,12 @@
       "tags": []
     },
     {
-      "title": "From AI Prototype to Production: Observability and Scalability Requirements for Data-Heavy SaaS Applications",
-      "url": "https://www.smartdatacollective.com/ai-prototype-production-observability-scalability/",
-      "date": "15 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
+      "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
+      "date": "27 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "An AI-generated prototype can work perfectly in a demo and still fail in production. Here is what to check before turning it into a real SaaS product.",
-      "tags": []
-    },
-    {
-      "title": "Preparing Data Systems and Governance for a Scaling Global Gaming Brand",
-      "url": "https://www.smartdatacollective.com/game-studio-structure-data-governance/",
-      "date": "14 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Fast-growing game studios need clear IP ownership, adaptable legal entities, and disciplined data systems and governance before international player traffic overwhelms their operations.",
+      "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
       "tags": []
     },
     {
@@ -477,15 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
-      "tags": []
-    },
-    {
-      "title": "Named Entity Recognition Using Scikit-LLM",
-      "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
-      "date": "21 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
       "tags": []
     }
   ]
