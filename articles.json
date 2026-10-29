@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:51:08.206430+00:00",
+  "generated_at": "2026-10-29T11:58:58.123266+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -345,6 +345,24 @@
       "tags": []
     },
     {
+      "title": "6 Details That Make a Data Centre’s Server Room Easier to Scale",
+      "url": "https://www.smartdatacollective.com/details-make-data-centre-server-room-easier-scale/",
+      "date": "28 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Rack hardware determines how much room you have to grow.",
+      "tags": []
+    },
+    {
+      "title": "What Business Intelligence Teams Can Learn from Lab Data Governance",
+      "url": "https://www.smartdatacollective.com/business-intelligence-lab-data-governance/",
+      "date": "28 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Lab traceability gives BI teams a way to catch errors earlier.",
+      "tags": []
+    },
+    {
       "title": "Incentive-Driven Response Bias: Auditing Sample Composition Before You Trust Survey Data",
       "url": "https://www.smartdatacollective.com/incentive-driven-response-bias/",
       "date": "27 Oct 2026",
@@ -399,21 +417,30 @@
       "tags": []
     },
     {
-      "title": "7 Best Virtualization Platforms for Hybrid Cloud Environments",
-      "url": "https://www.smartdatacollective.com/virtualization-platforms-hybrid-cloud/",
-      "date": "20 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+      "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
+      "date": "28 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Platform fit depends on the stack your team already runs.",
+      "summary": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fallbacks.",
       "tags": []
     },
     {
-      "title": "How Businesses Can Use Workplace Data to Create Better Office Environments",
-      "url": "https://www.smartdatacollective.com/workplace-data-better-office-environments/",
-      "date": "19 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
+      "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
+      "date": "28 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Better office decisions begin with how people use the space.",
+      "summary": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype is real.",
+      "tags": []
+    },
+    {
+      "title": "Which Local LMs are Best For Which Tasks",
+      "url": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
+      "date": "28 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run entirely on your own hardware.",
       "tags": []
     },
     {
@@ -459,33 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
-      "tags": []
-    },
-    {
-      "title": "5 Free AI Coding Agents You Should Try in 2026",
-      "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
-      "date": "23 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
-      "tags": []
-    },
-    {
-      "title": "How to Process Large JSON Files in Python With ijson",
-      "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-      "date": "22 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-      "tags": []
-    },
-    {
-      "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-      "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-      "date": "22 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
       "tags": []
     }
   ]
