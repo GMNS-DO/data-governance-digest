@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:58:58.123266+00:00",
+  "generated_at": "2026-10-30T11:53:03.019030+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -345,6 +345,15 @@
       "tags": []
     },
     {
+      "title": "How to Use an AI Avatar Generator to Run Measurable Video Experiments",
+      "url": "https://www.smartdatacollective.com/use-ai-avatar-generator-run-measurable-video/",
+      "date": "30 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Isolate one creative variable per test to measure what drives video performance.",
+      "tags": []
+    },
+    {
       "title": "6 Details That Make a Data Centre’s Server Room Easier to Scale",
       "url": "https://www.smartdatacollective.com/details-make-data-centre-server-room-easier-scale/",
       "date": "28 Oct 2026",
@@ -408,16 +417,25 @@
       "tags": []
     },
     {
-      "title": "Subscription Trackers Have a Transaction Data Problem",
-      "url": "https://www.smartdatacollective.com/subscription-trackers-transaction-data/",
-      "date": "21 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
+      "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+      "date": "29 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Reliable subscription alerts start with reconciled payment records.",
+      "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
       "tags": []
     },
     {
-      "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+      "title": "5 Docker Containers You Need for a Home AI Lab",
+      "url": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
+      "date": "29 Oct 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, and the first mistake to avoid with each.",
+      "tags": []
+    },
+    {
+      "title": "How to Access Multiple AI Models in Your Python Apps Using OpenRouter",
       "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
       "date": "28 Oct 2026",
       "source": "KDnuggets",
@@ -468,24 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-end workflow.",
-      "tags": []
-    },
-    {
-      "title": "7 Advanced Python Design Patterns for Data Scientists",
-      "url": "https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists",
-      "date": "26 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn seven design patterns for data science code, from Strategy and Adapter to Command and Proxy, each matched to the pressure it solves, with the Python shape it takes and the caveat that keeps it honest.",
-      "tags": []
-    },
-    {
-      "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
-      "url": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
-      "date": "23 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
       "tags": []
     }
   ]
