@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:53:03.019030+00:00",
+  "generated_at": "2026-10-31T11:26:16.068988+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -345,6 +345,24 @@
       "tags": []
     },
     {
+      "title": "Turning Disconnected Information Data Into Better Social Service Outcomes",
+      "url": "https://www.smartdatacollective.com/turning-disconnected-information-data-better-social/",
+      "date": "30 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Connected client records reduce duplicate intake and speed up service delivery.",
+      "tags": []
+    },
+    {
+      "title": "What Happens to My KYC Data Behind the Approval Screen?",
+      "url": "https://www.smartdatacollective.com/happens-my-kyc-data-behind-approval-screen/",
+      "date": "30 Oct 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Your passport photo and selfie split into separate files the second onboarding starts.",
+      "tags": []
+    },
+    {
       "title": "How to Use an AI Avatar Generator to Run Measurable Video Experiments",
       "url": "https://www.smartdatacollective.com/use-ai-avatar-generator-run-measurable-video/",
       "date": "30 Oct 2026",
@@ -399,21 +417,21 @@
       "tags": []
     },
     {
-      "title": "Why Data Governance Is Becoming a Board-Level Business Priority",
-      "url": "https://www.smartdatacollective.com/why-data-governance-is-becoming-a-board-level-business-priority/",
-      "date": "22 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+      "url": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+      "date": "30 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Data risk belongs on the board agenda, with clear ownership.",
+      "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
       "tags": []
     },
     {
-      "title": "The Top Data Annotation Companies Are Separated by Proof of Quality, Not Headcount",
-      "url": "https://www.smartdatacollective.com/top-data-annotation-companies/",
-      "date": "22 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+      "url": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+      "date": "30 Oct 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A buyer’s guide to the evidence behind annotation quality.",
+      "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
       "tags": []
     },
     {
@@ -468,24 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
-      "tags": []
-    },
-    {
-      "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
-      "date": "26 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deployment optimization.",
-      "tags": []
-    },
-    {
-      "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
-      "url": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
-      "date": "26 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-end workflow.",
       "tags": []
     }
   ]
