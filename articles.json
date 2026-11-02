@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:20:33.470147+00:00",
+  "generated_at": "2026-11-02T14:15:34.388076+00:00",
   "article_count": 54,
   "articles": [
     {
@@ -345,6 +345,24 @@
       "tags": []
     },
     {
+      "title": "Managing a Software Development Dedicated Team Across Time Zones",
+      "url": "https://www.smartdatacollective.com/managing-software-development-dedicated-team-across/",
+      "date": "01 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Practical adjustments for engineering managers leading across split hours.",
+      "tags": []
+    },
+    {
+      "title": "Wikipedia Editing Services and AI Training Data: Why LLMs Still Treat Wikipedia as a Source of Truth",
+      "url": "https://www.smartdatacollective.com/wikipedia-editing-services-ai-training-data-llms-still/",
+      "date": "01 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "What the training papers establish, what current answers reveal, and how to request supported corrections.",
+      "tags": []
+    },
+    {
       "title": "Turning Disconnected Information Data Into Better Social Service Outcomes",
       "url": "https://www.smartdatacollective.com/turning-disconnected-information-data-better-social/",
       "date": "30 Oct 2026",
@@ -399,21 +417,12 @@
       "tags": []
     },
     {
-      "title": "Blockchain Dashboards Need Better Definitions, Not More Charts",
-      "url": "https://www.smartdatacollective.com/blockchain-dashboards-metric-definitions/",
-      "date": "27 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "5 AI Certifications Worth Paying For in 2026 (And Which to Skip)",
+      "url": "https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip",
+      "date": "02 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A transfer count cannot tell you how many customers bought.",
-      "tags": []
-    },
-    {
-      "title": "Which Workloads Should Move to the Cloud?",
-      "url": "https://www.smartdatacollective.com/workloads-should-move-cloud/",
-      "date": "22 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Application dependencies matter more than migration momentum.",
+      "summary": "A data-backed guide to the credentials that actually move the needle for data scientists and machine learning practitioners.",
       "tags": []
     },
     {
@@ -477,15 +486,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run entirely on your own hardware.",
-      "tags": []
-    },
-    {
-      "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
-      "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
-      "date": "27 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
       "tags": []
     }
   ]
