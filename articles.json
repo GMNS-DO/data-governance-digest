@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T14:15:34.388076+00:00",
-  "article_count": 54,
+  "generated_at": "2026-11-03T13:16:49.650825+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
@@ -144,6 +144,78 @@
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Mapping Facial Recognition use in Schools",
+      "url": "https://privacyinternational.org/key-resources/5878/mapping-facial-recognition-use-schools",
+      "date": "28 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Global Report on the Authoritarian use of Technology",
+      "url": "https://privacyinternational.org/report/5873/global-report-authoritarian-use-technology",
+      "date": "12 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "When AI agents act outside their remit",
+      "url": "https://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
+      "date": "07 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
+      "url": "https://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
+      "date": "06 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "PI’s response to the UK Department for Science, Innovation & Technology on data regulation in the age of AI and other data-intensive technologies",
+      "url": "https://privacyinternational.org/advocacy/5868/pis-response-uk-department-science-innovation-technology-data-regulation-age-ai-and",
+      "date": "25 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Human rights standards and guidelines on the use of digital technologies in electoral processes",
+      "url": "https://privacyinternational.org/long-read/5867/human-rights-standards-and-guidelines-use-digital-technologies-electoral-processes",
+      "date": "24 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "An Arsenal of Surveillance: A Guide to the Technologies Harming Migrants",
+      "url": "https://privacyinternational.org/report/5866/arsenal-surveillance-guide-technologies-harming-migrants",
+      "date": "21 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Qué Putería: Care on Dating Apps is a Collective Matter, Too",
+      "url": "https://privacyinternational.org/long-read/5865/que-puteria-care-dating-apps-collective-matter-too",
+      "date": "17 Sep 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -345,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Your Attribution Model Is Fine. Your CRM Is Lying to It",
+      "url": "https://www.smartdatacollective.com/attribution-model-fine-crm-lying-it/",
+      "date": "02 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Audit duplicate contacts and decayed records before rebuilding your dashboards.",
+      "tags": []
+    },
+    {
       "title": "Managing a Software Development Dedicated Team Across Time Zones",
       "url": "https://www.smartdatacollective.com/managing-software-development-dedicated-team-across/",
       "date": "01 Nov 2026",
@@ -408,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "Incentive-Driven Response Bias: Auditing Sample Composition Before You Trust Survey Data",
-      "url": "https://www.smartdatacollective.com/incentive-driven-response-bias/",
-      "date": "27 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "8 LLM Inference Frameworks You Should Try in 2026",
+      "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+      "date": "03 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "More survey completions can still leave the wrong customers out.",
+      "summary": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+      "tags": []
+    },
+    {
+      "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+      "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+      "date": "02 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox blocked the request, leaving questions about what triggered the behavior.",
       "tags": []
     },
     {
@@ -450,42 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
-      "tags": []
-    },
-    {
-      "title": "5 Docker Containers You Need for a Home AI Lab",
-      "url": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
-      "date": "29 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, and the first mistake to avoid with each.",
-      "tags": []
-    },
-    {
-      "title": "How to Access Multiple AI Models in Your Python Apps Using OpenRouter",
-      "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
-      "date": "28 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fallbacks.",
-      "tags": []
-    },
-    {
-      "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
-      "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
-      "date": "28 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype is real.",
-      "tags": []
-    },
-    {
-      "title": "Which Local LMs are Best For Which Tasks",
-      "url": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
-      "date": "28 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run entirely on your own hardware.",
       "tags": []
     }
   ]
