@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:16:49.650825+00:00",
+  "generated_at": "2026-11-04T13:29:38.361481+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,21 +417,66 @@
       "tags": []
     },
     {
+      "title": "7 Top Legacy Software Modernization Companies in Europe for 2027",
+      "url": "https://www.smartdatacollective.com/top-legacy-software-modernization-companies-europe/",
+      "date": "04 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Compare seven European vendors that modernize live legacy estates without downtime.",
+      "tags": []
+    },
+    {
+      "title": "4 Best Self-Hosted Analytics Solutions",
+      "url": "https://www.smartdatacollective.com/best-self-hosted-analytics-solutions/",
+      "date": "04 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Run your own tracking stack without handing visitor data to third parties.",
+      "tags": []
+    },
+    {
+      "title": "Stripping the Names Isn’t Enough: De-Identifying Unstructured Data",
+      "url": "https://www.smartdatacollective.com/stripping-names-not-enough-deidentifying-unstructured-data/",
+      "date": "03 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Contextual clues in free text can still identify people after redaction.",
+      "tags": []
+    },
+    {
+      "title": "How Data Professionals Optimize Devices for AI and ML Projects",
+      "url": "https://www.smartdatacollective.com/data-professionals-optimize-devices-ai-ml-projects/",
+      "date": "03 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Practical hardware, memory, and workflow habits for local machine learning.",
+      "tags": []
+    },
+    {
+      "title": "AI Lease Abstraction and Month-End Close Speed-Up Checklist",
+      "url": "https://www.smartdatacollective.com/ai-lease-abstraction-month-end-close-speed-up-checklist/",
+      "date": "03 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Validate lease terms at signing so close week focuses on real exceptions.",
+      "tags": []
+    },
+    {
+      "title": "Understanding File System Compatibility Across Windows, macOS, and Linux",
+      "url": "https://www.smartdatacollective.com/understanding-file-system-compatibility-across-windows/",
+      "date": "03 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Pick the right drive format before moving files between Windows, Mac, and Linux.",
+      "tags": []
+    },
+    {
       "title": "Your Attribution Model Is Fine. Your CRM Is Lying to It",
       "url": "https://www.smartdatacollective.com/attribution-model-fine-crm-lying-it/",
       "date": "02 Nov 2026",
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Audit duplicate contacts and decayed records before rebuilding your dashboards.",
-      "tags": []
-    },
-    {
-      "title": "Managing a Software Development Dedicated Team Across Time Zones",
-      "url": "https://www.smartdatacollective.com/managing-software-development-dedicated-team-across/",
-      "date": "01 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Practical adjustments for engineering managers leading across split hours.",
       "tags": []
     },
     {
@@ -444,48 +489,21 @@
       "tags": []
     },
     {
-      "title": "Turning Disconnected Information Data Into Better Social Service Outcomes",
-      "url": "https://www.smartdatacollective.com/turning-disconnected-information-data-better-social/",
-      "date": "30 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
+      "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
+      "date": "04 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Connected client records reduce duplicate intake and speed up service delivery.",
+      "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
       "tags": []
     },
     {
-      "title": "What Happens to My KYC Data Behind the Approval Screen?",
-      "url": "https://www.smartdatacollective.com/happens-my-kyc-data-behind-approval-screen/",
-      "date": "30 Oct 2026",
-      "source": "SmartData Collective",
+      "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+      "date": "03 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Your passport photo and selfie split into separate files the second onboarding starts.",
-      "tags": []
-    },
-    {
-      "title": "How to Use an AI Avatar Generator to Run Measurable Video Experiments",
-      "url": "https://www.smartdatacollective.com/use-ai-avatar-generator-run-measurable-video/",
-      "date": "30 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Isolate one creative variable per test to measure what drives video performance.",
-      "tags": []
-    },
-    {
-      "title": "6 Details That Make a Data Centre’s Server Room Easier to Scale",
-      "url": "https://www.smartdatacollective.com/details-make-data-centre-server-room-easier-scale/",
-      "date": "28 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Rack hardware determines how much room you have to grow.",
-      "tags": []
-    },
-    {
-      "title": "What Business Intelligence Teams Can Learn from Lab Data Governance",
-      "url": "https://www.smartdatacollective.com/business-intelligence-lab-data-governance/",
-      "date": "28 Oct 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Lab traceability gives BI teams a way to catch errors earlier.",
+      "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
-      "tags": []
-    },
-    {
-      "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
-      "url": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
-      "date": "30 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
-      "tags": []
-    },
-    {
-      "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
-      "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
-      "date": "29 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
       "tags": []
     }
   ]
