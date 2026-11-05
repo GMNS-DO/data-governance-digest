@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-04T13:29:38.361481+00:00",
-  "article_count": 60,
+  "generated_at": "2026-11-05T13:44:02.132428+00:00",
+  "article_count": 54,
   "articles": [
+    {
+      "title": "The AI Agent register (free template)",
+      "url": "https://www.lightsondata.com/the-ai-agent-register-free-template/",
+      "date": "04 Nov 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Every new employee, contractor, or system that gets access to your organization's data goes through some kind of onboarding. We know who they report to, what they're responsible for, what they can access, and when that access will be reviewed.AI agents are now getting that same access. Often without any of that onboarding.And agents are [] The post The AI Agent register (free template) appeared first on LightsOnData .",
+      "tags": []
+    },
     {
       "title": "Human in the Loop AI: Why It’s Often Just a Checkbox",
       "url": "https://www.lightsondata.com/human-in-the-loop-ai-agentic-ai-governance/",
@@ -63,15 +72,6 @@
       "source": "LightsOnData",
       "section": "tools",
       "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "How to Become a Data Science Freelancer",
-      "url": "https://www.lightsondata.com/how-to-become-a-data-science-freelancer/",
-      "date": "18 Jan 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "Entering the world of freelance as a data professional offers freedom, diversity in projects, and the thrill of entrepreneurship. But how does one transition from a traditional job to a successful freelance career in the data field? Insights from an experienced freelance data consultant shed light on this journey. Table Of Contents 1Key Skills and [] The post How to Become a Data Science Freelancer appeared first on LightsOnData .",
       "tags": []
     },
     {
@@ -147,6 +147,33 @@
       "tags": []
     },
     {
+      "title": "What are the dangers of Intelligence Agencies using AI tools for surveillance?",
+      "url": "https://privacyinternational.org/news-analysis/5881/what-are-dangers-intelligence-agencies-using-ai-tools-surveillance",
+      "date": "03 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Artifical Intelligence Agencies: The Use and Regulation of AI in UK Intelligence Agencies",
+      "url": "https://privacyinternational.org/report/5880/artifical-intelligence-agencies-use-and-regulation-ai-uk-intelligence-agencies",
+      "date": "03 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Artificial Intelligence Agencies",
+      "url": "https://privacyinternational.org/long-read/5879/artificial-intelligence-agencies",
+      "date": "03 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Mapping Facial Recognition use in Schools",
       "url": "https://privacyinternational.org/key-resources/5878/mapping-facial-recognition-use-schools",
       "date": "28 Oct 2026",
@@ -186,33 +213,6 @@
       "title": "PI’s response to the UK Department for Science, Innovation & Technology on data regulation in the age of AI and other data-intensive technologies",
       "url": "https://privacyinternational.org/advocacy/5868/pis-response-uk-department-science-innovation-technology-data-regulation-age-ai-and",
       "date": "25 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Human rights standards and guidelines on the use of digital technologies in electoral processes",
-      "url": "https://privacyinternational.org/long-read/5867/human-rights-standards-and-guidelines-use-digital-technologies-electoral-processes",
-      "date": "24 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "An Arsenal of Surveillance: A Guide to the Technologies Harming Migrants",
-      "url": "https://privacyinternational.org/report/5866/arsenal-surveillance-guide-technologies-harming-migrants",
-      "date": "21 Sep 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Qué Putería: Care on Dating Apps is a Collective Matter, Too",
-      "url": "https://privacyinternational.org/long-read/5865/que-puteria-care-dating-apps-collective-matter-too",
-      "date": "17 Sep 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "Workforce Analytics for Auto Repair Shops: Reading Technician Productivity Weekly",
+      "url": "https://www.smartdatacollective.com/workforce-analytics-auto-repair-shops-reading/",
+      "date": "04 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Weekly repair order reviews catch bay bottlenecks and discount leaks before Friday.",
+      "tags": []
+    },
+    {
+      "title": "Targeted Ads and Cross-Promotion: Using Audience Segments and Platform Statistics to Grow",
+      "url": "https://www.smartdatacollective.com/targeted-ads-cross-promotion-using-audience-segments/",
+      "date": "04 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Combine segmented ad campaigns with multi-platform cross-promotion to grow your audience.",
+      "tags": []
+    },
+    {
+      "title": "Hiring a Dedicated Development Team for Your Existing Stack and Delivery Process",
+      "url": "https://www.smartdatacollective.com/hiring-dedicated-development-team-existing-stack/",
+      "date": "04 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Test stack compatibility and delivery workflows before signing a long-term vendor contract.",
+      "tags": []
+    },
+    {
       "title": "7 Top Legacy Software Modernization Companies in Europe for 2027",
       "url": "https://www.smartdatacollective.com/top-legacy-software-modernization-companies-europe/",
       "date": "04 Nov 2026",
@@ -459,87 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Validate lease terms at signing so close week focuses on real exceptions.",
-      "tags": []
-    },
-    {
-      "title": "Understanding File System Compatibility Across Windows, macOS, and Linux",
-      "url": "https://www.smartdatacollective.com/understanding-file-system-compatibility-across-windows/",
-      "date": "03 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Pick the right drive format before moving files between Windows, Mac, and Linux.",
-      "tags": []
-    },
-    {
-      "title": "Your Attribution Model Is Fine. Your CRM Is Lying to It",
-      "url": "https://www.smartdatacollective.com/attribution-model-fine-crm-lying-it/",
-      "date": "02 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Audit duplicate contacts and decayed records before rebuilding your dashboards.",
-      "tags": []
-    },
-    {
-      "title": "Wikipedia Editing Services and AI Training Data: Why LLMs Still Treat Wikipedia as a Source of Truth",
-      "url": "https://www.smartdatacollective.com/wikipedia-editing-services-ai-training-data-llms-still/",
-      "date": "01 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "What the training papers establish, what current answers reveal, and how to request supported corrections.",
-      "tags": []
-    },
-    {
-      "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
-      "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
-      "date": "04 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
-      "tags": []
-    },
-    {
-      "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
-      "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
-      "date": "03 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
-      "tags": []
-    },
-    {
-      "title": "8 LLM Inference Frameworks You Should Try in 2026",
-      "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
-      "date": "03 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
-      "tags": []
-    },
-    {
-      "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
-      "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
-      "date": "02 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox blocked the request, leaving questions about what triggered the behavior.",
-      "tags": []
-    },
-    {
-      "title": "5 AI Certifications Worth Paying For in 2026 (And Which to Skip)",
-      "url": "https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip",
-      "date": "02 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A data-backed guide to the credentials that actually move the needle for data scientists and machine learning practitioners.",
-      "tags": []
-    },
-    {
-      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
-      "url": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
-      "date": "30 Oct 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
       "tags": []
     }
   ]
