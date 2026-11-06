@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T13:44:02.132428+00:00",
-  "article_count": 54,
+  "generated_at": "2026-11-06T13:28:06.590450+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "The AI Agent register (free template)",
-      "url": "https://www.lightsondata.com/the-ai-agent-register-free-template/",
+      "url": "https://www.lightsondata.com/ai-agent-register/",
       "date": "04 Nov 2026",
       "source": "LightsOnData",
       "section": "tools",
@@ -486,6 +486,60 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Validate lease terms at signing so close week focuses on real exceptions.",
+      "tags": []
+    },
+    {
+      "title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
+      "url": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
+      "date": "06 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
+      "tags": []
+    },
+    {
+      "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
+      "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
+      "date": "05 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
+      "tags": []
+    },
+    {
+      "title": "What I Did with Hermes Agent, Ollama & Local Models",
+      "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
+      "date": "05 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest stays, and generate real Google Flights search links.",
+      "tags": []
+    },
+    {
+      "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
+      "url": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
+      "date": "04 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to do differently to be ready.",
+      "tags": []
+    },
+    {
+      "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
+      "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
+      "date": "04 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
+      "tags": []
+    },
+    {
+      "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+      "date": "03 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
       "tags": []
     }
   ]
