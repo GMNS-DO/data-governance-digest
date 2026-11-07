@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-06T13:28:06.590450+00:00",
+  "generated_at": "2026-11-07T12:07:15.452390+00:00",
   "article_count": 60,
   "articles": [
+    {
+      "title": "Generative AI acceptable use policy: what to include (free template)",
+      "url": "https://www.lightsondata.com/generative-ai-acceptable-use-policy-what-to-include-free-template/",
+      "date": "06 Nov 2026",
+      "source": "LightsOnData",
+      "section": "tools",
+      "summary": "Your employees are already using generative AI at work. The question is whether they're following a generative AI acceptable use policy, or making up their own rules.Someone pastes a client contract into a chatbot to get a quick summary. Someone else uploads last quarter's customer list to draft personalized emails. A third person installs a [] The post Generative AI acceptable use policy: what to include (free template) appeared first on LightsOnData .",
+      "tags": []
+    },
     {
       "title": "The AI Agent register (free template)",
       "url": "https://www.lightsondata.com/ai-agent-register/",
@@ -63,15 +72,6 @@
       "source": "LightsOnData",
       "section": "tools",
       "summary": "Marketing leaders and data professionals often grapple with a familiar challenge: how to transform marketing data into tangible business growth. During a recent episode of The Lights on Data Show, I had the privilege of speaking with Kasper Bossen-Rasmussen, founder and CEO of Accutics, about this very topic. Together, we explored key takeaways for addressing [] The post Transforming Marketing Data into Business Growth: Key Insights and Strategies appeared first on LightsOnData .",
-      "tags": []
-    },
-    {
-      "title": "The future of generative AI’s form factor",
-      "url": "https://www.lightsondata.com/the-future-of-generative-ais-form-factor/",
-      "date": "30 Sep 2024",
-      "source": "LightsOnData",
-      "section": "tools",
-      "summary": "As artificial intelligence (AI) continues to advance, the form factor of generative AI is evolving rapidly. The concept of \"form factor\" encompasses the systems, interfaces, and user experiences that allow us to interact with AI. It's what bridges the gap between complex machine learning models and practical, everyday use cases. Today, the most familiar form [] The post The future of generative AIs form factor appeared first on LightsOnData .",
       "tags": []
     },
     {
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "How an Online MBA in Marketing Connects AI and Data Analytics",
+      "url": "https://www.smartdatacollective.com/how-online-mba-marketing-connects-ai-data-analytics/",
+      "date": "07 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Graduate coursework links automated pattern detection to real budget decisions.",
+      "tags": []
+    },
+    {
+      "title": "Drone Technology as a Business Investment: Calculating ROI, Costs, and Long-Term Value",
+      "url": "https://www.smartdatacollective.com/drone-technology-business-investment-calculating-roi-long-term-value/",
+      "date": "06 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Calculate the real operational return of commercial UAV programs before building custom tools.",
+      "tags": []
+    },
+    {
       "title": "Workforce Analytics for Auto Repair Shops: Reading Technician Productivity Weekly",
       "url": "https://www.smartdatacollective.com/workforce-analytics-auto-repair-shops-reading/",
       "date": "04 Nov 2026",
@@ -471,21 +489,21 @@
       "tags": []
     },
     {
-      "title": "How Data Professionals Optimize Devices for AI and ML Projects",
-      "url": "https://www.smartdatacollective.com/data-professionals-optimize-devices-ai-ml-projects/",
-      "date": "03 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+      "url": "https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
+      "date": "06 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Practical hardware, memory, and workflow habits for local machine learning.",
+      "summary": "Get unlimited free access to 365 Data Science’s complete AI and data learning platform, including 134 courses, hands-on projects, and certifications, through November 20.",
       "tags": []
     },
     {
-      "title": "AI Lease Abstraction and Month-End Close Speed-Up Checklist",
-      "url": "https://www.smartdatacollective.com/ai-lease-abstraction-month-end-close-speed-up-checklist/",
-      "date": "03 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "How to Give Your AI Agent Memory",
+      "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
+      "date": "06 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Validate lease terms at signing so close week focuses on real exceptions.",
+      "summary": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information across sessions.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to do differently to be ready.",
-      "tags": []
-    },
-    {
-      "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
-      "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
-      "date": "04 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
-      "tags": []
-    },
-    {
-      "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
-      "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
-      "date": "03 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
       "tags": []
     }
   ]
