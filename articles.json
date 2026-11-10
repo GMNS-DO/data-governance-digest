@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:43:38.430153+00:00",
+  "generated_at": "2026-11-10T13:58:28.477077+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -147,6 +147,24 @@
       "tags": []
     },
     {
+      "title": "Teacher's Guide to Facial Recognition in Schools: UK Edition",
+      "url": "https://privacyinternational.org/news-analysis/5886/teachers-guide-facial-recognition-schools-uk-edition",
+      "date": "09 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Mapping Facial Recognition in Schools",
+      "url": "https://privacyinternational.org/explainer/5885/mapping-facial-recognition-schools",
+      "date": "09 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "What are the dangers of Intelligence Agencies using AI tools for surveillance?",
       "url": "https://privacyinternational.org/news-analysis/5881/what-are-dangers-intelligence-agencies-using-ai-tools-surveillance",
       "date": "03 Nov 2026",
@@ -195,24 +213,6 @@
       "title": "When AI agents act outside their remit",
       "url": "https://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
       "date": "07 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
-      "url": "https://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
-      "date": "06 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI’s response to the UK Department for Science, Innovation & Technology on data regulation in the age of AI and other data-intensive technologies",
-      "url": "https://privacyinternational.org/advocacy/5868/pis-response-uk-department-science-innovation-technology-data-regulation-age-ai-and",
-      "date": "25 Sep 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "The Data Reconciliation Problem Inside Disconnected Lending Systems",
+      "url": "https://www.smartdatacollective.com/data-reconciliation-problem-inside-disconnected-lending-systems/",
+      "date": "09 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Disconnected loan databases force teams to fix conflicting balances by hand.",
+      "tags": []
+    },
+    {
       "title": "How an Online MBA in Marketing Connects AI and Data Analytics",
       "url": "https://www.smartdatacollective.com/how-online-mba-marketing-connects-ai-data-analytics/",
       "date": "07 Nov 2026",
@@ -480,12 +489,21 @@
       "tags": []
     },
     {
-      "title": "Stripping the Names Isn’t Enough: De-Identifying Unstructured Data",
-      "url": "https://www.smartdatacollective.com/stripping-names-not-enough-deidentifying-unstructured-data/",
-      "date": "03 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
+      "url": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
+      "date": "10 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Contextual clues in free text can still identify people after redaction.",
+      "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
+      "tags": []
+    },
+    {
+      "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
+      "url": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
+      "date": "09 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
-      "tags": []
-    },
-    {
-      "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
-      "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
-      "date": "05 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
-      "tags": []
-    },
-    {
-      "title": "What I Did with Hermes Agent, Ollama & Local Models",
-      "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
-      "date": "05 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest stays, and generate real Google Flights search links.",
       "tags": []
     }
   ]
