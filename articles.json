@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:58:28.477077+00:00",
+  "generated_at": "2026-11-11T13:14:01.582456+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "After the Cyberattack, Can You Trust the Machine?",
+      "url": "https://www.smartdatacollective.com/after-cyberattack-trust-machine/",
+      "date": "10 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Restoring a system is only the start of proving it safe.",
+      "tags": []
+    },
+    {
       "title": "The Data Reconciliation Problem Inside Disconnected Lending Systems",
       "url": "https://www.smartdatacollective.com/data-reconciliation-problem-inside-disconnected-lending-systems/",
       "date": "09 Nov 2026",
@@ -480,12 +489,30 @@
       "tags": []
     },
     {
-      "title": "4 Best Self-Hosted Analytics Solutions",
-      "url": "https://www.smartdatacollective.com/best-self-hosted-analytics-solutions/",
-      "date": "04 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
+      "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
+      "date": "11 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Run your own tracking stack without handing visitor data to third parties.",
+      "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
+      "tags": []
+    },
+    {
+      "title": "How to Use AI for Enterprise BI",
+      "url": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
+      "date": "10 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with the right governance.",
+      "tags": []
+    },
+    {
+      "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
+      "date": "10 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
-      "tags": []
-    },
-    {
-      "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
-      "url": "https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
-      "date": "06 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Get unlimited free access to 365 Data Science’s complete AI and data learning platform, including 134 courses, hands-on projects, and certifications, through November 20.",
-      "tags": []
-    },
-    {
-      "title": "How to Give Your AI Agent Memory",
-      "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
-      "date": "06 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information across sessions.",
-      "tags": []
-    },
-    {
-      "title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
-      "url": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
-      "date": "06 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
       "tags": []
     }
   ]
