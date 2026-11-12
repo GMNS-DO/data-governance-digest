@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T13:14:01.582456+00:00",
-  "article_count": 60,
+  "generated_at": "2026-11-12T14:16:56.919632+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,20 +139,11 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
-      "tags": []
-    },
-    {
-      "title": "Teacher's Guide to Facial Recognition in Schools: UK Edition",
-      "url": "https://privacyinternational.org/news-analysis/5886/teachers-guide-facial-recognition-schools-uk-edition",
-      "date": "09 Nov 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
       "tags": []
     },
     {
@@ -213,6 +204,15 @@
       "title": "When AI agents act outside their remit",
       "url": "https://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
       "date": "07 Oct 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
+      "url": "https://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
+      "date": "06 Oct 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Choosing an Ecommerce SEO Agency When Search Data Drives the Decision",
+      "url": "https://www.smartdatacollective.com/choosing-ecommerce-seo-agency-search-data-drives/",
+      "date": "11 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Match organic search data with paid acquisition before hiring an agency.",
+      "tags": []
+    },
+    {
       "title": "After the Cyberattack, Can You Trust the Machine?",
       "url": "https://www.smartdatacollective.com/after-cyberattack-trust-machine/",
       "date": "10 Nov 2026",
@@ -477,69 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Test stack compatibility and delivery workflows before signing a long-term vendor contract.",
-      "tags": []
-    },
-    {
-      "title": "7 Top Legacy Software Modernization Companies in Europe for 2027",
-      "url": "https://www.smartdatacollective.com/top-legacy-software-modernization-companies-europe/",
-      "date": "04 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Compare seven European vendors that modernize live legacy estates without downtime.",
-      "tags": []
-    },
-    {
-      "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
-      "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
-      "date": "11 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
-      "tags": []
-    },
-    {
-      "title": "How to Use AI for Enterprise BI",
-      "url": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
-      "date": "10 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with the right governance.",
-      "tags": []
-    },
-    {
-      "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
-      "url": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
-      "date": "10 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
-      "tags": []
-    },
-    {
-      "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-      "url": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-      "date": "10 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
-      "tags": []
-    },
-    {
-      "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
-      "url": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
-      "date": "09 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
-      "tags": []
-    },
-    {
-      "title": "5 Useful Python Automation Scripts for Beginners",
-      "url": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
-      "date": "09 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
       "tags": []
     }
   ]
