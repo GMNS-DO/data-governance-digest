@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T14:16:56.919632+00:00",
-  "article_count": 54,
+  "generated_at": "2026-11-13T13:39:31.167771+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "Creator Analytics Beyond Follower Count: Seven Metrics That Measure Audience Behavior",
+      "url": "https://www.smartdatacollective.com/creator-analytics-beyond-follower-count-seven-metrics/",
+      "date": "13 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Seven behavioral signals that show which followers actually trust, click, and buy.",
+      "tags": []
+    },
+    {
+      "title": "10 Financial Apps Empowered by AI: Assistants and Agents",
+      "url": "https://www.smartdatacollective.com/financial-apps-empowered-ai-assistants-agents/",
+      "date": "12 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Ten apps show why a person still needs to check the answer.",
+      "tags": []
+    },
+    {
       "title": "Choosing an Ecommerce SEO Agency When Search Data Drives the Decision",
       "url": "https://www.smartdatacollective.com/choosing-ecommerce-seo-agency-search-data-drives/",
       "date": "11 Nov 2026",
@@ -471,21 +489,57 @@
       "tags": []
     },
     {
-      "title": "Targeted Ads and Cross-Promotion: Using Audience Segments and Platform Statistics to Grow",
-      "url": "https://www.smartdatacollective.com/targeted-ads-cross-promotion-using-audience-segments/",
-      "date": "04 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "5 FREE Open-Source Alternatives to Jev",
+      "url": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
+      "date": "13 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Combine segmented ad campaigns with multi-platform cross-promotion to grow your audience.",
+      "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
       "tags": []
     },
     {
-      "title": "Hiring a Dedicated Development Team for Your Existing Stack and Delivery Process",
-      "url": "https://www.smartdatacollective.com/hiring-dedicated-development-team-existing-stack/",
-      "date": "04 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
+      "url": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
+      "date": "12 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Test stack compatibility and delivery workflows before signing a long-term vendor contract.",
+      "summary": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-source graphrag-toolkit, Neo4j, and pgvector.",
+      "tags": []
+    },
+    {
+      "title": "7 FREE Books to Learn About Building AI Systems",
+      "url": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
+      "date": "12 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
+      "tags": []
+    },
+    {
+      "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
+      "url": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
+      "date": "11 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells you more than any single benchmark score.",
+      "tags": []
+    },
+    {
+      "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
+      "url": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
+      "date": "11 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
+      "tags": []
+    },
+    {
+      "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
+      "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
+      "date": "11 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
       "tags": []
     }
   ]
