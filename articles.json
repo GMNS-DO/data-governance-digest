@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:39:31.167771+00:00",
+  "generated_at": "2026-11-14T12:43:45.623717+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,7 +139,7 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "Using Product Usage Analytics and Support Data to Build a B2B Product Roadmap",
+      "url": "https://www.smartdatacollective.com/using-product-usage-analytics-support-data-build-b2b/",
+      "date": "14 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Align engineering priorities with usage telemetry and support logs.",
+      "tags": []
+    },
+    {
+      "title": "From Hiring To Payroll: Managing HR Data Across Business Systems",
+      "url": "https://www.smartdatacollective.com/hr-payroll-data-analysis-business-systems/",
+      "date": "14 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Connecting HR data across recruiting, timekeeping, and payroll systems eliminates costly manual entry errors and produces clean numbers for executive reporting.",
+      "tags": []
+    },
+    {
+      "title": "From Data to Dashboards: 5 Marketing Reporting Automation Software Picks",
+      "url": "https://www.smartdatacollective.com/data-dashboards-marketing-reporting-automation/",
+      "date": "13 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Automate cross-channel data collection and keep your marketing dashboards accurate.",
+      "tags": []
+    },
+    {
       "title": "Creator Analytics Beyond Follower Count: Seven Metrics That Measure Audience Behavior",
       "url": "https://www.smartdatacollective.com/creator-analytics-beyond-follower-count-seven-metrics/",
       "date": "13 Nov 2026",
@@ -462,30 +489,12 @@
       "tags": []
     },
     {
-      "title": "How an Online MBA in Marketing Connects AI and Data Analytics",
-      "url": "https://www.smartdatacollective.com/how-online-mba-marketing-connects-ai-data-analytics/",
-      "date": "07 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
+      "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
+      "date": "13 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Graduate coursework links automated pattern detection to real budget decisions.",
-      "tags": []
-    },
-    {
-      "title": "Drone Technology as a Business Investment: Calculating ROI, Costs, and Long-Term Value",
-      "url": "https://www.smartdatacollective.com/drone-technology-business-investment-calculating-roi-long-term-value/",
-      "date": "06 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Calculate the real operational return of commercial UAV programs before building custom tools.",
-      "tags": []
-    },
-    {
-      "title": "Workforce Analytics for Auto Repair Shops: Reading Technician Productivity Weekly",
-      "url": "https://www.smartdatacollective.com/workforce-analytics-auto-repair-shops-reading/",
-      "date": "04 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Weekly repair order reviews catch bay bottlenecks and discount leaks before Friday.",
+      "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
       "tags": []
     },
     {
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
-      "tags": []
-    },
-    {
-      "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
-      "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
-      "date": "11 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
       "tags": []
     }
   ]
