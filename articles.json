@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:11:01.309736+00:00",
+  "generated_at": "2026-11-16T14:20:16.492522+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -147,6 +147,15 @@
       "tags": []
     },
     {
+      "title": "PI's submission to the UK government's Make Work Pay consultation",
+      "url": "https://privacyinternational.org/advocacy/5890/pis-submission-uk-governments-make-work-pay-consultation",
+      "date": "16 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
+      "tags": []
+    },
+    {
       "title": "Mapping Facial Recognition in Schools",
       "url": "https://privacyinternational.org/explainer/5885/mapping-facial-recognition-schools",
       "date": "09 Nov 2026",
@@ -204,15 +213,6 @@
       "title": "When AI agents act outside their remit",
       "url": "https://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
       "date": "07 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "PI's response to the UK Goverment's consultation on workplace monitoring technologies",
-      "url": "https://privacyinternational.org/advocacy/5870/pis-response-uk-goverments-consultation-workplace-monitoring-technologies",
-      "date": "06 Oct 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Agentic System Design: A Self-Study Roadmap",
+      "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
+      "date": "16 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
+      "tags": []
+    },
+    {
       "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
       "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
       "date": "13 Nov 2026",
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells you more than any single benchmark score.",
-      "tags": []
-    },
-    {
-      "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
-      "url": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
-      "date": "11 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
       "tags": []
     }
   ]
