@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T14:20:16.492522+00:00",
-  "article_count": 60,
+  "generated_at": "2026-11-17T15:12:10.295609+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -201,18 +201,18 @@
       "tags": []
     },
     {
-      "title": "Global Report on the Authoritarian use of Technology",
-      "url": "https://privacyinternational.org/report/5873/global-report-authoritarian-use-technology",
-      "date": "12 Oct 2026",
+      "title": "Investigating dual-use technology: the war machine doesn’t stop",
+      "url": "https://privacyinternational.org/long-read/5876/investigating-dual-use-technology-war-machine-doesnt-stop",
+      "date": "19 Oct 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
       "tags": []
     },
     {
-      "title": "When AI agents act outside their remit",
-      "url": "https://privacyinternational.org/news-analysis/5871/when-ai-agents-act-outside-their-remit",
-      "date": "07 Oct 2026",
+      "title": "Global Report on the Authoritarian use of Technology",
+      "url": "https://privacyinternational.org/report/5873/global-report-authoritarian-use-technology",
+      "date": "12 Oct 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -486,60 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Restoring a system is only the start of proving it safe.",
-      "tags": []
-    },
-    {
-      "title": "Agentic System Design: A Self-Study Roadmap",
-      "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-      "date": "16 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
-      "tags": []
-    },
-    {
-      "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
-      "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
-      "date": "13 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
-      "tags": []
-    },
-    {
-      "title": "5 FREE Open-Source Alternatives to Jev",
-      "url": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
-      "date": "13 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
-      "tags": []
-    },
-    {
-      "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
-      "url": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
-      "date": "12 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-source graphrag-toolkit, Neo4j, and pgvector.",
-      "tags": []
-    },
-    {
-      "title": "7 FREE Books to Learn About Building AI Systems",
-      "url": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
-      "date": "12 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
-      "tags": []
-    },
-    {
-      "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
-      "url": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
-      "date": "11 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells you more than any single benchmark score.",
       "tags": []
     }
   ]
