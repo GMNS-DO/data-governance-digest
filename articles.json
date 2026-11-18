@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:12:10.295609+00:00",
-  "article_count": 54,
+  "generated_at": "2026-11-18T14:49:53.495711+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "Proxy MCP Servers: 7 Options and What Each Lets an AI Agent Do",
+      "url": "https://www.smartdatacollective.com/proxy-mcp-servers-options-what-ai-agent-do/",
+      "date": "18 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Seven official servers let AI agents manage proxies, scrape pages, or query docs.",
+      "tags": []
+    },
+    {
       "title": "Alternative Data in BI: Bringing Public Web Data Into Your Dashboards",
       "url": "https://www.smartdatacollective.com/alternative-data-in-bi-bringing-public-web-data-into-your-dashboards/",
       "date": "14 Nov 2026",
@@ -480,12 +489,57 @@
       "tags": []
     },
     {
-      "title": "After the Cyberattack, Can You Trust the Machine?",
-      "url": "https://www.smartdatacollective.com/after-cyberattack-trust-machine/",
-      "date": "10 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
+      "url": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
+      "date": "18 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Restoring a system is only the start of proving it safe.",
+      "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
+      "tags": []
+    },
+    {
+      "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+      "url": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+      "date": "17 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
+      "tags": []
+    },
+    {
+      "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+      "url": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+      "date": "17 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
+      "tags": []
+    },
+    {
+      "title": "5 Things That Break When AI Agents Start Acting on Their Own",
+      "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
+      "date": "16 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and manual oversight.",
+      "tags": []
+    },
+    {
+      "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
+      "url": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
+      "date": "16 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
+      "tags": []
+    },
+    {
+      "title": "Agentic System Design: A Self-Study Roadmap",
+      "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
+      "date": "16 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
       "tags": []
     }
   ]
