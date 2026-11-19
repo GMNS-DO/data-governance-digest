@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:49:53.495711+00:00",
+  "generated_at": "2026-11-19T14:55:57.255195+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "title": "Balancing the Business Partner / Party Concept",
-      "url": "https://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
+      "url": "http://liliendahl.com/2025/08/12/balancing-the-business-partner-party-concept/",
       "date": "12 Aug 2025",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -85,7 +85,7 @@
     },
     {
       "title": "The Intersection of Data Observability, MDM and Data Quality",
-      "url": "https://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
+      "url": "http://liliendahl.com/2024/05/16/the-intersection-of-data-observability-mdm-and-data-quality/",
       "date": "16 May 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product vs Material vs Article vs Item",
-      "url": "https://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
+      "url": "http://liliendahl.com/2024/04/25/product-vs-material-vs-article-vs-item/",
       "date": "25 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -103,7 +103,7 @@
     },
     {
       "title": "Data Matching Efficiency",
-      "url": "https://liliendahl.com/2024/04/16/data-matching-efficiency/",
+      "url": "http://liliendahl.com/2024/04/16/data-matching-efficiency/",
       "date": "16 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -112,7 +112,7 @@
     },
     {
       "title": "The Intersection Between MDM, PIM and ESG",
-      "url": "https://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
+      "url": "http://liliendahl.com/2024/04/11/the-intersection-between-mdm-pim-and-esg/",
       "date": "11 Apr 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -121,7 +121,7 @@
     },
     {
       "title": "The 4 Best Emerging Modern Data Quality Tools for 2024",
-      "url": "https://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
+      "url": "http://liliendahl.com/2024/02/29/the-4-best-emerging-modern-data-quality-tools-for-2024/",
       "date": "29 Feb 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Modern Data Quality at Scale using Digna",
-      "url": "https://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
+      "url": "http://liliendahl.com/2024/01/23/modern-data-quality-at-scale-using-digna/",
       "date": "23 Jan 2024",
       "source": "Henrik Liliendahl",
       "section": "opinions",
@@ -139,11 +139,20 @@
     },
     {
       "title": "Three Essential Trends in Data Management for 2024",
-      "url": "https://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
+      "url": "http://liliendahl.com/2023/12/21/three-essential-trends-in-data-management-for-2024/",
       "date": "21 Dec 2023",
       "source": "Henrik Liliendahl",
       "section": "opinions",
       "summary": "On the edge of the New Year, it is time to guess what will be the hot topics in data management next year. My top three candidates are: Continued Enablement of Augmented Data Management The term augmented data management is Continue reading",
+      "tags": []
+    },
+    {
+      "title": "Win! Tribunal orders UK Government to come clean about secret order to Apple",
+      "url": "https://privacyinternational.org/news-analysis/5896/win-tribunal-orders-uk-government-come-clean-about-secret-order-apple",
+      "date": "19 Nov 2026",
+      "source": "Privacy International",
+      "section": "regulation",
+      "summary": "",
       "tags": []
     },
     {
@@ -204,15 +213,6 @@
       "title": "Investigating dual-use technology: the war machine doesn’t stop",
       "url": "https://privacyinternational.org/long-read/5876/investigating-dual-use-technology-war-machine-doesnt-stop",
       "date": "19 Oct 2026",
-      "source": "Privacy International",
-      "section": "regulation",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Global Report on the Authoritarian use of Technology",
-      "url": "https://privacyinternational.org/report/5873/global-report-authoritarian-use-technology",
-      "date": "12 Oct 2026",
       "source": "Privacy International",
       "section": "regulation",
       "summary": "",
@@ -417,6 +417,33 @@
       "tags": []
     },
     {
+      "title": "Signs Your Data Architecture Needs an Outside Review",
+      "url": "https://www.smartdatacollective.com/signs-your-data-architecture-needs-outside-review/",
+      "date": "18 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A clean pipeline run can still leave two departments working from different numbers.",
+      "tags": []
+    },
+    {
+      "title": "Data-Driven Pultrusion: Best GFRP Rebar Machines & ROI",
+      "url": "https://www.smartdatacollective.com/data-driven-pultrusion-gfrp-rebar-machines-roi/",
+      "date": "18 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Multi-strand throughput and energy per meter define composite plant payback.",
+      "tags": []
+    },
+    {
+      "title": "10 AI Market Research Tools That Turn Qualitative Data into Insights",
+      "url": "https://www.smartdatacollective.com/ai-market-research-tools-turn-qualitative-data-into-insights/",
+      "date": "18 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Start with the research question, then choose the software.",
+      "tags": []
+    },
+    {
       "title": "Proxy MCP Servers: 7 Options and What Each Lets an AI Agent Do",
       "url": "https://www.smartdatacollective.com/proxy-mcp-servers-options-what-ai-agent-do/",
       "date": "18 Nov 2026",
@@ -462,30 +489,30 @@
       "tags": []
     },
     {
-      "title": "Creator Analytics Beyond Follower Count: Seven Metrics That Measure Audience Behavior",
-      "url": "https://www.smartdatacollective.com/creator-analytics-beyond-follower-count-seven-metrics/",
-      "date": "13 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy",
+      "url": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
+      "date": "19 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Seven behavioral signals that show which followers actually trust, click, and buy.",
+      "summary": "Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see how Iceberg handles concurrent commits between engines.",
       "tags": []
     },
     {
-      "title": "10 Financial Apps Empowered by AI: Assistants and Agents",
-      "url": "https://www.smartdatacollective.com/financial-apps-empowered-ai-assistants-agents/",
-      "date": "12 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
+      "url": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
+      "date": "18 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Ten apps show why a person still needs to check the answer.",
+      "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
       "tags": []
     },
     {
-      "title": "Choosing an Ecommerce SEO Agency When Search Data Drives the Decision",
-      "url": "https://www.smartdatacollective.com/choosing-ecommerce-seo-agency-search-data-drives/",
-      "date": "11 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
+      "url": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
+      "date": "18 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Match organic search data with paid acquisition before hiring an agency.",
+      "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
       "tags": []
     },
     {
@@ -513,33 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
-      "tags": []
-    },
-    {
-      "title": "5 Things That Break When AI Agents Start Acting on Their Own",
-      "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
-      "date": "16 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and manual oversight.",
-      "tags": []
-    },
-    {
-      "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
-      "url": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
-      "date": "16 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
-      "tags": []
-    },
-    {
-      "title": "Agentic System Design: A Self-Study Roadmap",
-      "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-      "date": "16 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
       "tags": []
     }
   ]
