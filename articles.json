@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:37:17.505642+00:00",
+  "generated_at": "2026-11-21T13:54:52.317725+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -489,6 +489,15 @@
       "tags": []
     },
     {
+      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
+      "url": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
+      "date": "20 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
+      "tags": []
+    },
+    {
       "title": "Decision AI Explained in 5 Minutes",
       "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
       "date": "20 Nov 2026",
@@ -531,15 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
-      "tags": []
-    },
-    {
-      "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-      "url": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-      "date": "18 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
       "tags": []
     }
   ]
