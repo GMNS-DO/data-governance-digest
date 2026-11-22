@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:54:52.317725+00:00",
-  "article_count": 60,
+  "generated_at": "2026-11-22T13:47:56.514970+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "What B2B Payment Data Tells a Supplier About Its Customers",
+      "url": "https://www.smartdatacollective.com/b2b-payment-data-tells-supplier-its-customers/",
+      "date": "22 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Every invoice, approval rule, and bank transfer builds a clear buyer profile.",
+      "tags": []
+    },
+    {
       "title": "Signs Your Data Architecture Needs an Outside Review",
       "url": "https://www.smartdatacollective.com/signs-your-data-architecture-needs-outside-review/",
       "date": "18 Nov 2026",
@@ -477,69 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Connecting HR data across recruiting, timekeeping, and payroll systems eliminates costly manual entry errors and produces clean numbers for executive reporting.",
-      "tags": []
-    },
-    {
-      "title": "From Data to Dashboards: 5 Marketing Reporting Automation Software Picks",
-      "url": "https://www.smartdatacollective.com/data-dashboards-marketing-reporting-automation/",
-      "date": "13 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Automate cross-channel data collection and keep your marketing dashboards accurate.",
-      "tags": []
-    },
-    {
-      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
-      "url": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
-      "date": "20 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
-      "tags": []
-    },
-    {
-      "title": "Decision AI Explained in 5 Minutes",
-      "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-      "date": "20 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-      "tags": []
-    },
-    {
-      "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
-      "url": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
-      "date": "19 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
-      "tags": []
-    },
-    {
-      "title": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy",
-      "url": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
-      "date": "19 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see how Iceberg handles concurrent commits between engines.",
-      "tags": []
-    },
-    {
-      "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
-      "url": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
-      "date": "18 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
-      "tags": []
-    },
-    {
-      "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
-      "url": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
-      "date": "18 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
       "tags": []
     }
   ]
