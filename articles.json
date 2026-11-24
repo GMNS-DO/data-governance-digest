@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T16:52:58.947841+00:00",
-  "article_count": 60,
+  "generated_at": "2026-11-24T16:43:34.791493+00:00",
+  "article_count": 54,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "Badge Scanning and Lead Enrichment: A Data Capture Comparison for Exhibitors",
+      "url": "https://www.smartdatacollective.com/badge-scanning-lead-enrichment-for-exhibitors/",
+      "date": "24 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Scan a real badge and check what the rep has to work with after the show.",
+      "tags": []
+    },
+    {
+      "title": "How Companies Verify the Human Behind an AI Agent",
+      "url": "https://www.smartdatacollective.com/how-companies-verify-the-human-behind-an-ai-agent/",
+      "date": "24 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Knowing who owns an agent is different from deciding whether it can change a customer file.",
+      "tags": []
+    },
+    {
       "title": "What B2B Payment Data Tells a Supplier About Its Customers",
       "url": "https://www.smartdatacollective.com/b2b-payment-data-tells-supplier-its-customers/",
       "date": "22 Nov 2026",
@@ -468,78 +486,6 @@
       "source": "SmartData Collective",
       "section": "news",
       "summary": "Pair internal metrics with public web signals to explain why numbers move.",
-      "tags": []
-    },
-    {
-      "title": "Using Product Usage Analytics and Support Data to Build a B2B Product Roadmap",
-      "url": "https://www.smartdatacollective.com/using-product-usage-analytics-support-data-build-b2b/",
-      "date": "14 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Align engineering priorities with usage telemetry and support logs.",
-      "tags": []
-    },
-    {
-      "title": "From Hiring To Payroll: Managing HR Data Across Business Systems",
-      "url": "https://www.smartdatacollective.com/hr-payroll-data-analysis-business-systems/",
-      "date": "14 Nov 2026",
-      "source": "SmartData Collective",
-      "section": "news",
-      "summary": "Connecting HR data across recruiting, timekeeping, and payroll systems eliminates costly manual entry errors and produces clean numbers for executive reporting.",
-      "tags": []
-    },
-    {
-      "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
-      "url": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
-      "date": "23 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
-      "tags": []
-    },
-    {
-      "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
-      "url": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
-      "date": "23 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Compare five lightweight ways to give AI agents tools without an MCP server, from a Python dispatcher to framework tools, REST adapters, subprocesses, and webhooks, and learn when MCP becomes worth adding.",
-      "tags": []
-    },
-    {
-      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
-      "url": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
-      "date": "20 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
-      "tags": []
-    },
-    {
-      "title": "Decision AI Explained in 5 Minutes",
-      "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-      "date": "20 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-      "tags": []
-    },
-    {
-      "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
-      "url": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
-      "date": "19 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
-      "tags": []
-    },
-    {
-      "title": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy",
-      "url": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
-      "date": "19 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see how Iceberg handles concurrent commits between engines.",
       "tags": []
     }
   ]
