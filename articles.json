@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T16:43:34.791493+00:00",
-  "article_count": 54,
+  "generated_at": "2026-11-25T16:29:24.201880+00:00",
+  "article_count": 60,
   "articles": [
     {
       "title": "Generative AI acceptable use policy: what to include (free template)",
@@ -417,6 +417,15 @@
       "tags": []
     },
     {
+      "title": "When to Involve Privacy Counsel in AI Projects",
+      "url": "https://www.smartdatacollective.com/when-data-teams-should-bring-privacy-counsel-into-ai-projects/",
+      "date": "24 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "A vendor can stay the same while the job you've asked it to do changes.",
+      "tags": []
+    },
+    {
       "title": "Badge Scanning and Lead Enrichment: A Data Capture Comparison for Exhibitors",
       "url": "https://www.smartdatacollective.com/badge-scanning-lead-enrichment-for-exhibitors/",
       "date": "24 Nov 2026",
@@ -480,12 +489,57 @@
       "tags": []
     },
     {
-      "title": "Alternative Data in BI: Bringing Public Web Data Into Your Dashboards",
-      "url": "https://www.smartdatacollective.com/alternative-data-in-bi-bringing-public-web-data-into-your-dashboards/",
-      "date": "14 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Why Data Job Candidates Freeze on Questions They Already Know",
+      "url": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
+      "date": "25 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Pair internal metrics with public web signals to explain why numbers move.",
+      "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
+      "tags": []
+    },
+    {
+      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
+      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
+      "date": "25 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
+      "tags": []
+    },
+    {
+      "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
+      "url": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
+      "date": "24 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "American open-source AI is making a comeback, and this powerful local LLM is proving that fast inference, AI coding agents, and impressive results don't require expensive APIs.",
+      "tags": []
+    },
+    {
+      "title": "From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()",
+      "url": "https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv",
+      "date": "24 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The process of building a bulletproof Python loader based on Pandas' read_csv() function to turn messy data into pristine data.",
+      "tags": []
+    },
+    {
+      "title": "7 Most Downloaded AI Models on Hugging Face",
+      "url": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
+      "date": "24 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "The most downloaded AI models on Hugging Face aren't the ones you'd expect. Discover why smaller, older, and specialized models dominate the rankings.",
+      "tags": []
+    },
+    {
+      "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
+      "url": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
+      "date": "23 Nov 2026",
+      "source": "KDnuggets",
+      "section": "news",
+      "summary": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
       "tags": []
     }
   ]
