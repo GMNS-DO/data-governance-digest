@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:01:47.807834+00:00",
+  "generated_at": "2026-11-27T15:51:21.356019+00:00",
   "article_count": 60,
   "articles": [
     {
@@ -417,6 +417,24 @@
       "tags": []
     },
     {
+      "title": "Data Fragmentation and Measurement Gaps in Programmatic",
+      "url": "https://www.smartdatacollective.com/data-fragmentation-measurement-gaps-affect/",
+      "date": "26 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Two platforms can claim credit for the same buyer without proving which ad actually moved revenue.",
+      "tags": []
+    },
+    {
+      "title": "How to Measure Data Annotation Quality Before Release",
+      "url": "https://www.smartdatacollective.com/measure-data-annotation-quality-agreement-scores-gold/",
+      "date": "26 Nov 2026",
+      "source": "SmartData Collective",
+      "section": "news",
+      "summary": "Annotators can agree on every routine ticket and still miss the rare escalations that break production.",
+      "tags": []
+    },
+    {
       "title": "Why Your Redo Jobs Hold the Best Data in Your Franchise",
       "url": "https://www.smartdatacollective.com/why-your-redo-jobs-hold-best-data-franchise/",
       "date": "25 Nov 2026",
@@ -471,21 +489,21 @@
       "tags": []
     },
     {
-      "title": "Choosing a Laboratory Information System: SaaS, Cloud Hosting and Interoperability Compared",
-      "url": "https://www.smartdatacollective.com/choose-laboratory-information-system/",
-      "date": "25 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+      "date": "27 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "Follow the same case through each demo, right down to the result the clinician sees.",
+      "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
       "tags": []
     },
     {
-      "title": "How to Convert Exchange EDB to PST for Free and Check for Data Loss",
-      "url": "https://www.smartdatacollective.com/convert-exchange-edb-files-pst-free-without-losing-data/",
-      "date": "25 Nov 2026",
-      "source": "SmartData Collective",
+      "title": "10 GitHub Repositories to Master AI Decision Models",
+      "url": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+      "date": "27 Nov 2026",
+      "source": "KDnuggets",
       "section": "news",
-      "summary": "A PST that opens in Outlook can still be missing mail.",
+      "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
       "tags": []
     },
     {
@@ -522,24 +540,6 @@
       "source": "KDnuggets",
       "section": "news",
       "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
-      "tags": []
-    },
-    {
-      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
-      "date": "25 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
-      "tags": []
-    },
-    {
-      "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
-      "url": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
-      "date": "24 Nov 2026",
-      "source": "KDnuggets",
-      "section": "news",
-      "summary": "American open-source AI is making a comeback, and this powerful local LLM is proving that fast inference, AI coding agents, and impressive results don't require expensive APIs.",
       "tags": []
     }
   ]
